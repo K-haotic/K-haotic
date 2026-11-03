@@ -1,78 +1,60 @@
 # Steven Ray Britt | Mr Khaotic
 
-**Founder · Principal Investigator · Inventor · Computational Systems Architect**
+**Founder · Principal Investigator · Inventor · Computational Systems Architect**  
+**Khaotic Gaming LLC · Khaotic.ai · Recursive Physics Lab**
 
-**Khaotic Gaming LLC | Khaotic.ai | Recursive Physics Lab**
+*Independent research in recursive intelligence, nonlinear dynamics, accountable AI systems, and physical computing.*
 
-I build systems from the foundation upward.
+> **I build from the foundation up.** I'm not interested in reproducing a system just because it already exists. I want to understand its underlying principles, challenge its assumptions, build what's missing, and test the result on real machines.
 
-My work spans original mathematical research, nonlinear dynamics, artificial intelligence, computational architecture, industrial engineering, firmware, and physical hardware.
+I bring more than **20 years of industrial engineering, fabrication, maintenance, controls, and technical leadership** to a long-running independent research program spanning mathematics, AI, software, firmware, and hardware. Frontier AI models extend my work; I direct the research questions, architecture, experiments, and engineering decisions.
 
-I've spent more than two decades building, maintaining, troubleshooting, and leading work on real machines and industrial systems. Today, I bring that same hands-on approach to investigating the foundations of computational intelligence.
+I'm investigating the structures that could let increasingly capable computational systems **develop through experience, retain accountable identity, adapt within explicit boundaries, and recover from failure**.
 
-I'm not particularly interested in building another version of what already exists. I want to understand how things work at their foundations, investigate what might be possible, and build the systems needed to test those ideas.
+## Research and engineering
 
-## My Research
+| Program | Purpose and current scope |
+| --- | --- |
+| **BHUAT — Britt–Howard Unified Aetheric Theory** | My foundational theoretical research into nonlinear systems, recursive structure, emergence, and proposed mathematical relationships. |
+| **5FRE — Five-Field Recursion Engine** | An original computational research architecture for coupled recursive state, memory, coherence, regulation, and dynamical behavior. The program includes numerical experiments, Jacobian/Lyapunov analysis, formalization, and reproducibility work. |
+| **LEVI — Physics-Native Developmental Computing** | A persistent computational-body architecture under active development across native CPU/GPU work, firmware, authenticated communication, identity, retained history, bounded autonomy, and recovery. |
+| **OMMI · KEEL · Adaptive Fabric** | Distinct but connected systems for modular orchestration, source and generation custody, governed distributed work, evidence, and recovery. |
+| **Whale Fall · Machine City · Gaming / XR** | Interactive worlds, geospatial and civic evidence, creative tooling, gaming, and mixed-reality research and applications. |
 
-### Britt–Howard Unified Aetheric Theory | BHUAT
-My independent theoretical research program investigating recursive dynamics, nonlinear systems, emergence, and mathematical structure.
+These are distinct research, implementation, and public-service layers—not claims that every experimental capability is already a finished product.
 
-### Five-Field Recursion Engine | 5FRE
-An original computational research architecture exploring recursive state evolution, memory, coherence, adaptation, and complex-system behavior.
+## Selected technical evidence
 
-My work includes numerical experimentation, stability analysis, formal methods, computational validation, and associated U.S. patent applications filed in 2025 and 2026.
+- **Physical CPU/GPU comparison · September 2026.** A controlled five-field PTX experiment on an **NVIDIA RTX 5060 Ti** completed **16 GPU launches**. Both specified binary64 trajectories matched the CPU reference exactly under the frozen test conditions. This was Linux/NVIDIA-driver execution, not unrestricted native GPU compute.
+- **Prospective cross-machine replication · September 2026.** Seven initial-condition perturbation scales met a predeclared **finite-horizon amplification** criterion, with exact-rational and binary64 comparisons across two machines. The result is bounded experimental evidence, not a universal chaos or physics proof.
+- **Native LEVI development · 2026.** Recorded machine-specific milestones include authenticated **16-way symmetric multiprocessing**, **5/5 native CPU jobs** in a defined epoch, and governed UEFI source/build continuity. Full native GPU integration remains active engineering work.
+- **Invention and IP · 2025–2026.** Named inventor on a U.S. provisional application filed July 2025 and a U.S. nonprovisional utility application filed July 2026 concerning five-field recursive computation. These are **filed applications, not granted patents**.
+- **Early venture research · 2023.** Invited to submit an **NSF SBIR Phase I** proposal after a project pitch; presented Khaotic at Metaverse Spectrum Pitch Fest.
+- **Industrial engineering · 2006 onward.** Machinery installation, precision fabrication, plant maintenance, PLC-related troubleshooting, project delivery, safety, and crew leadership.
 
-### LEVI | Physics-Native Developmental Computing
-My ongoing work toward a persistent computational architecture integrating recursive dynamics, developmental memory, computational identity, governed autonomy, and physical embodiment.
+My working discipline is **theory → implementation → measurement → failure analysis → controlled revision**. I distinguish hypotheses, software implementations, bounded experimental results, and independently deployed capabilities.
 
-LEVI is being developed across native firmware, CPU and GPU execution, machine interfaces, distributed systems, and evidence-driven recovery.
+## Explore the Khaotic network
 
-Selected experiments include exact CPU/GPU numerical agreement under defined test conditions, native multicore execution, and authenticated machine-state verification.
+- **[Khaotic.ai](https://khaotic.ai)** — our public doorway for connected systems, interactive worlds, pilot inquiries, and business contact.
+- **[Independent research manuscripts](https://independent.academia.edu/KhaoticGaming)** — exploratory BHUAT/5FRE papers and related research writing.
+- **[Industrial and professional photo portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)** — historical projects and physical engineering work.
+- **[LinkedIn](https://www.linkedin.com/in/steven-britt-kg/)** — professional background and connections.
 
-### OMMI, KEEL, and Khaotic Adaptive Fabric
-A connected engineering ecosystem for modular orchestration, computational identity, source continuity, distributed execution, governed operations, and recoverable state.
+Khaotic Gaming LLC is also building a wider commercial network, including storefront activities, creative experiences, and scoped development services. The main website is the current public entry point.
 
-These systems are independently developed components of a larger research and deployment program.
+## Work with me
 
-## Beyond the Research
+I'm interested in **AI safety and control, ML systems, developmental memory, nonlinear computation, experimental infrastructure, embodied computing, research partnerships, and practical applications**.
 
-Khaotic Gaming LLC is more than one research project.
+Much of this work has been independently developed with limited resources. I value collaborators who test ideas rigorously, challenge assumptions—including mine—and turn ambitious questions into experiments that can stand on their own evidence.
 
-I am also building a connected network of products, services, interactive worlds, gaming experiences, geospatial technologies, and commercial ventures.
+The main research repositories remain private because they contain unpublished implementations and patent-sensitive material. Appropriate architectural explanations, bounded experimental records, and demonstrations can be discussed without publishing protected mechanisms.
 
-The broader ecosystem includes Whale Fall, spatial computing, mixed reality, and public-facing tools.
-
-I operate my own business and storefront while continuing to develop the underlying technology.
-
-## Research and Engineering Milestones
-
-- More than two decades of industrial systems, fabrication, maintenance, and technical leadership.
-- Founder of Khaotic Gaming LLC since 2022.
-- Original BHUAT and 5FRE mathematical and computational research.
-- U.S. provisional patent application filed in July 2025.
-- U.S. nonprovisional utility patent application filed in July 2026.
-- Physical RTX 5060 Ti experiment completing 16 GPU launches with exact CPU-reference agreement for the tested trajectories.
-- Documented native LEVI multicore execution, computational experiments, and ongoing firmware development.
-- Continued development of distributed infrastructure, autonomous-system safeguards, and evidence-based research tooling.
-
-## Explore the Khaotic Network
-
-**[Khaotic.ai — Main Website](https://khaotic.ai)**
-
-**[Research Manuscripts](https://independent.academia.edu/KhaoticGaming)**
-
-**[Professional and Industrial Portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
-
-## Collaboration
-
-I'm interested in serious research collaboration, technical partnerships, scientific investigation, engineering opportunities, and bringing useful technology into the world.
-
-My private repositories contain original research, experimental implementations, and patent-sensitive material. Appropriate technical information and demonstrations can be shared through direct discussions.
-
-**Business inquiries:** admin@khaotic.ai
+**Research and business contact:** [admin@khaotic.ai](mailto:admin@khaotic.ai) · *Email preferred*
 
 ---
 
-*This is my life's work. I intend to keep investigating, building, testing, and improving it—whether the road is crowded or I'm walking it alone. Good company makes the journey even better.*
+*This is my life's work. I'll keep building regardless. Good company makes the journey better.*
 
-**Khaotic Gaming LLC · Recursive Physics Lab**
+**Steven Ray Britt · Khaotic Gaming LLC · Recursive Physics Lab**
