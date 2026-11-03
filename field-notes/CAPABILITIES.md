@@ -1,7 +1,7 @@
 # FULL-CYCLE CAPABILITY ATLAS
 ### Steven Ray Britt / Mr Khaotic
 
-[Professional résumé](ENGINEERING.md) · [GitHub front door](../README.md) · [Research](RESEARCH.md) · [Industrial portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)
+[Professional résumé](ENGINEERING.md) · [Source versions](CAREER_SOURCES.md) · [GitHub front door](../README.md) · [Research](RESEARCH.md) · [Industrial portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)
 
 > **My résumé is a record of where I've worked. It isn't the limit of what I know how to do.**
 
@@ -37,6 +37,9 @@ I worked in residential contracting **from the time I could hold a hammer throug
 - Industrial machine installation, layout, mounting, alignment, balancing and coupling.
 - Diagnosing bad clearances, moving parts, wear, faults and mechanical interaction.
 - Turbines, compressors, stationary equipment, production lines and conveyors.
+- **Steel processing:** mill stands, slitters, cut-to-length lines, bundlers, walking beams, transfer tables, recoilers/uncoilers, shears, cut-off saws, rollers and stackers.
+- **Cranes and material handling:** overhead and automated cranes, trackmobiles, forklifts, rigging and lifting; participated in Atlas Tube's early automated-crane implementation.
+- Shutdown/turnaround work, emergency breakdowns, root-cause troubleshooting and field repair.
 - Maintenance planning, inspection, lubrication, parts replacement, corrective maintenance and breakdown work.
 - Heavy plant equipment, industrial power transmission and mechanical repair.
 - Drawing-to-machine interpretation: prints, measurements, fitting, assembly and commissioning-related field work.
@@ -53,6 +56,9 @@ I worked in residential contracting **from the time I could hold a hammer throug
 ## 05 / Fluid power, electrical, controls and mechanical interfaces
 
 - Hydraulic and pneumatic equipment, pressure and actuation, valves and motion-related troubleshooting.
+- **Accumulators, bladders, pumps, cylinders, actuators, solenoids, regulators, high-pressure piping and fluid-power controls**.
+- **Gearboxes, bearings, rollers, shafts, chains, motors and mechanical drives**.
+- **Sensors, proximity and limit switches, encoders, feedback loops and PLC-related crane/industrial automation diagnostics**.
 - Electrical repair, wiring, circuits, AC/DC systems and mechanical/electrical fault diagnosis.
 - PLC-controlled equipment and control-to-mechanical consequence tracing.
 - Pumps, piping, filtration, plant utilities and process machinery.
@@ -77,7 +83,7 @@ I worked in residential contracting **from the time I could hold a hammer throug
 ## 08 / Lead responsibility and operating a business
 
 - **Lead** millwright and fabricator (Systems LLC and Arkansas Mechanical).
-- **Lead** mechanical maintenance specialist (Atlas Tube).
+- **Lead** mechanical maintenance specialist (Atlas Tube), including production machinery, steel processing and early automated-crane deployment.
 - **Foreman** responsible for shop operations (Counts Brothers).
 - Crew assignments, training, mentoring, quality, safe workflow, scheduling, equipment and material requirements.
 - Budgets, estimating and business decisions, customer service, project delivery and continuous improvement.
@@ -103,4 +109,4 @@ I can enter an unfamiliar environment, examine the materials and the problem, li
 
 **[Professional work history](ENGINEERING.md)** · **[Original research and invention](RESEARCH.md)** · **[Investigative method](METHOD.md)** · **[Khaotic Gaming](GAMING.md)**
 
-<sub>Organized from my original employment résumé, extended 15-page expertise portfolio, research CV and first-person career history. The categories are intentionally broad and not exhaustive.</sub>
+<sub>Organized from the 2023 employment résumé, 15-page Visionary portfolio, August 2026 Atlas maintenance résumé, November 2026 research CV and firsthand career history. [Source/version map](CAREER_SOURCES.md). This inventory is intentionally not exhaustive.</sub>

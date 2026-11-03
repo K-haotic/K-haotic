@@ -26,7 +26,7 @@
 
 **My father was a residential contractor. I grew up on his jobsites—from the time I could hold a hammer until I was about 17.** I wasn't just around construction: I was building houses, from dirt work, site preparation, foundations and concrete through framing, roofing, plumbing, electrical, HVAC, finish work and repairs. I had been working so long I didn't even realize I was supposed to be getting paid until I was **15**.
 
-From there I went into industrial construction and maintenance: **steel, pipe, welding, precision millwrighting, heavy equipment, hydraulics, pneumatics, electrical and PLC-controlled machinery, power plants, vehicles, production lines and the people responsible for keeping them running**. I worked as **Lead Millwright / Fabricator** at Systems LLC and Arkansas Mechanical, **Lead Mechanical Maintenance Specialist** at Atlas Tube, and **Shop Foreman** at Counts Brothers.
+From there I went into industrial construction and maintenance: **steel, pipe, welding, precision millwrighting, heavy equipment, automated cranes and mill machinery, hydraulics, pneumatics, electrical and PLC-controlled machinery, power plants, vehicles, production lines and the people responsible for keeping them running**. I worked as **Lead Millwright / Fabricator** at Systems LLC and Arkansas Mechanical, **Lead Mechanical Maintenance Specialist** at Atlas Tube, and **Shop Foreman** at Counts Brothers.
 
 My strength isn't one trade. It is being the **do-it-all problem solver and lead** who can arrive at an unfamiliar job, read the plans, understand the equipment, trace the fault, pick up a tool, lead a crew, learn what's missing and get the work done. Approximately **three decades of building and industrial practice** have shaped how I investigate everything—including mathematics, physical computing, and AI.
 
@@ -60,13 +60,13 @@ I'm also a **lifelong old-school gamer, investigative polymath, inventor, and se
 [REDACTED - PRIVATE HISTORY]
 | **2006–2014** | **Systems LLC — Lead Millwright / Fabricator** | High-pressure pipe, structural steel, welding, industrial installation and field crews. |
 | **2014–2020** | **Arkansas Mechanical — Lead Millwright / Fabricator** | Turbines, compressors, machinery installation, precision alignment, fabrication and customer-facing field coordination. |
-| **2020–2023** | **Atlas Tube — Lead Mechanical Maintenance Specialist** | Hydraulic, PLC-controlled, electrical and mechanical production equipment, plant maintenance and team direction. |
+| **2020–2023** | **Atlas Tube — Lead Mechanical Maintenance Specialist** | Early automated-crane rollout, overhead cranes, slitters, bundlers, steel-processing machinery, hydraulics, pneumatics, PLC-linked equipment, emergency maintenance and crews. |
 | **2023–2025** | **Counts Brothers — Shop Foreman** | People, equipment, shop production, schedules, budgets, customers and delivery. |
 | **2022–present** | **Khaotic Gaming / Khaotic.ai / RPL — Founder and Inventor** | Mathematics, complex and hybrid dynamics, experimental physical computing, AI, language research and interactive worlds. |
 
 **What this means in the field:** Construction and heavy equipment · Welding and structural fabrication · Turbines, compressors and plants · Hydraulics and pneumatics · AC/DC, PLCs and controls · Cars, trucks and small engines · Road, bridge and waterway jobs · Planning, budgeting, customers and crews · Hands-on troubleshooting across trades.
 
-**[The detailed experience](./field-notes/ENGINEERING.md)** · **[Everything that belongs in the capability map](./field-notes/CAPABILITIES.md)** · **[Industrial photo portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
+**[Detailed engineering résumé](./field-notes/ENGINEERING.md)** · **[Capability atlas](./field-notes/CAPABILITIES.md)** · **[Four résumé source versions](./field-notes/CAREER_SOURCES.md)** · **[Industrial photo portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
 
 ---
 
