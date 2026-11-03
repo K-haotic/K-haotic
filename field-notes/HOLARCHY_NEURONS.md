@@ -1,10 +1,10 @@
 # NESTED HOLARCHIES / N-BODY ECOLOGY / NEURAL DEVELOPMENT
 
-[Front door](../README.md) | [Research overview](RESEARCH.md) | [Recursive bodies and autopoiesis](AUTOPOIESIS.md) | [Hybrid mathematics](COMPLEX_SYSTEMS.md) | [Primary sources](PROVENANCE.md)
+[Front door](../README.md) | [Minimum Five / irreducible basis](MINIMUM_FIVE.md) | [Research overview](RESEARCH.md) | [Recursive bodies and autopoiesis](AUTOPOIESIS.md) | [Hybrid mathematics](COMPLEX_SYSTEMS.md) | [Primary sources](PROVENANCE.md)
 
 ## The question is bigger than one neuron or one model
 
-Much of AI is described as weights inside a model. The Khaotic research asks a different, complementary question: **what could make a collection of dynamic components a persistent, accountable body**, and how could multiple such bodies cooperate, specialize, separate, remember, repair and carry their own distinct histories? The answer is not assumed. It is approached through a nested experimental program.
+Much of AI is described as weights inside a model. This program begins instead with **the Minimum-Five body law—ϕ, τ, ψ, χ, Λ—whose declared independent effective support is five**. These roles are constitutive for an admitted five-field recursive body, while a holarchy composes multiple such bodies and specialist organs without inventing a sixth primitive field or subtracting an original one. The Khaotic research asks a different, complementary question: **what could make a collection of dynamic components a persistent, accountable body**, and how could multiple such bodies cooperate, specialize, separate, remember, repair and carry their own distinct histories? The answer is not assumed. It is approached through a nested experimental program.
 
 A **holon** is a component that can be treated as a whole in one local context while also belonging to a larger organized body. The proposed computational levels can be represented as:
 
