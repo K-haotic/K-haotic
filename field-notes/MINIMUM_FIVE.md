@@ -8,6 +8,10 @@
 >
 > **I propose this as a mathematically realizable route through which reality can generate and sustain complex structure. The wider physical interpretation is a research hypothesis; the registered operator and certain support results already have precise mathematical proofs in their stated scope.**
 
+<div align="center">
+<img src="../assets/minimum-five-foundation.svg" width="100%" alt="Five irreducible functional obligations, three scoped mathematical support results and one ongoing physical-theory hypothesis." />
+</div>
+
 This is **not** a decorative list of five inspirational ideas. **Minimum Five** has an operator definition, exact mathematical results, machine-checked support arguments, reduction studies, active falsification programs, physical numerical experiments and a direct relationship to LEVI's intended constitutional body law.
 
 ## 1 / The five necessary roles in the declared bodyhood basis
