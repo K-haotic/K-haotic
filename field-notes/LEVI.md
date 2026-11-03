@@ -8,7 +8,7 @@
 
 *An original computational-body research program led by Steven Ray Britt, Recursive Physics Lab.*
 
-[GitHub front door](../README.md) · [Protected mathematical research](RESEARCH_ACCESS.md) · [Engineering journal](LEVI_JOURNAL.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Open Lab challenges](../docs/OPEN_LAB.md) · [Explorer source](../docs/README.md)
+[GitHub front door](../README.md) · [Protected mathematical research](RESEARCH_ACCESS.md) · [Engineering journal](LEVI_JOURNAL.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Open Lab challenges](../docs/OPEN_LAB.md) · [Live interactive LEVI Open Lab](https://k-haotic.github.io/K-haotic/) · [Site source](../docs/README.md)
 
 </div>
 
@@ -149,7 +149,7 @@ I want mentors and collaborators who can challenge the mathematics, experimental
 
 **I want to know what this system actually is and what it can demonstrably become.** Not because a marketing category said so, but because the experiment earned the answer.
 
-**[Contact RPLΩ about LEVI research and mentorship](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship%20and%20Collaboration)** · **[My engineering foundation](ENGINEERING.md)** · **[Return to the GitHub front door](../README.md)**
+**[Submit a public research challenge](https://github.com/K-haotic/K-haotic/issues/new?template=levi-research-review.md)** · **[Contact RPLΩ about LEVI research and mentorship](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship%20and%20Collaboration)** · **[My engineering foundation](ENGINEERING.md)** · **[Return to the GitHub front door](../README.md)**
 
 ---
 

@@ -99,7 +99,7 @@ My work has never fit into one trade. These are **working disciplines and job en
 | **Plant maintenance** | Preventive and corrective maintenance, breakdown response, lubrication, inspections, machine condition, replacement and operational continuity. |
 | **Drawings and design** | Blueprints, drafting, technical interpretation, measurement, CAD, layout, fabrication plans and 3D tools. |
 | **Production and business leadership** | Lead-man and foreman duties; crews, training, job planning, schedules, budgets, customer relationships, quality, materials and execution. |
-| **Safety and emergency work** | Lockout/tagout, work at height, confined spaces, fire/damage control, plant safety and emergency training. |
+| **Safety and emergency work** | Lockout/tagout, work at height, confined spaces, industrial fire response, emergency procedures and plant safety. |
 | **Computing and invention** | Python and Rust-assisted engineering, Linux and UEFI, firmware, CPU/GPU experiment design, AI systems, mathematics, physical computing and research programs. |
 
 **[Explore the expanded hands-on capability atlas](CAPABILITIES.md)** — construction, civil, heavy equipment, power generation, machining, welding, industrial controls, automotive, business, computing and creative work.

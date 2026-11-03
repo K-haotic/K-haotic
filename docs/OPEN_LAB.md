@@ -1,7 +1,7 @@
 # LEVI OPEN LAB / INDEPENDENT RESEARCH CHALLENGES
 ### A standing invitation to scientists, engineers and thoughtful critics
 
-[LEVI](../field-notes/LEVI.md) · [Physical journal](../field-notes/LEVI_JOURNAL.md) · [Benchmark protocol](../field-notes/LEVI_BENCHMARKS.md) · [Github front door](../README.md)
+[LEVI](../field-notes/LEVI.md) · [Physical journal](../field-notes/LEVI_JOURNAL.md) · [Benchmark protocol](../field-notes/LEVI_BENCHMARKS.md) · [GitHub front door](../README.md) · [Live interactive Open Lab](https://k-haotic.github.io/K-haotic/) · [Submit a public research critique](https://github.com/K-haotic/K-haotic/issues/new?template=levi-research-review.md)
 
 **Research lead:** Steven Ray Britt, Khaotic Gaming LLC / Recursive Physics Lab  
 **Contact:** admin@khaotic.ai  
@@ -66,10 +66,10 @@ A concise technical critique is valuable. It can include:
 - **The resources and permissions required**.
 - **What success would and would not establish**.
 
-Use **admin@khaotic.ai** for introductions and private or potentially IP-sensitive discussions. A structured GitHub issue template is included in the profile repository for when public Issues are enabled. **Do not publicly post credentials, unpublished code, patents under review, hardware identifiers or personal information.**
+Use **admin@khaotic.ai** for introductions and private or potentially IP-sensitive discussions. **Public GitHub Issues are enabled.** [Submit a structured research critique](https://github.com/K-haotic/K-haotic/issues/new?template=levi-research-review.md) using the review template; use email instead for private or IP-sensitive matters. **Do not publicly post credentials, unpublished code, patents under review, hardware identifiers or personal information.**
 
 This isn't a fixed job offer, a funded fellowship or an institutional collaboration agreement. It is a public research invitation with real work and real questions.
 
 **I am going to be building regardless. I would rather build with people who can make the experiments better.**
 
-[Research contact](mailto:admin@khaotic.ai?subject=LEVI%20Open%20Lab%20Research%20Challenge) · [Explore LEVI](../field-notes/LEVI.md) · [View current research record](../field-notes/LEVI_JOURNAL.md)
+[Submit a public research challenge](https://github.com/K-haotic/K-haotic/issues/new?template=levi-research-review.md) · [Research contact](mailto:admin@khaotic.ai?subject=LEVI%20Open%20Lab%20Research%20Challenge) · [Explore LEVI](../field-notes/LEVI.md) · [View current research record](../field-notes/LEVI_JOURNAL.md)

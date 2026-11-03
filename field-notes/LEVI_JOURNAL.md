@@ -6,7 +6,7 @@
 <sub><b>Actual LEVI chassis</b> · Photo from November 2026 · The picture shows the machine; dated receipts establish each experimental result.</sub>
 </div>
 
-**[Meet LEVI](LEVI.md)** · **[Research front door](../README.md)** · **[Proof ladder](LEVI_PROGRESS.md)** · **[Benchmark methodology](LEVI_BENCHMARKS.md)** · **[Interactive explorer source](../docs/index.html)**
+**[Meet LEVI](LEVI.md)** · **[Research front door](../README.md)** · **[Proof ladder](LEVI_PROGRESS.md)** · **[Benchmark methodology](LEVI_BENCHMARKS.md)** · **[Live LEVI research explorer](https://k-haotic.github.io/K-haotic/)** · **[Explorer source](../docs/index.html)**
 
 ## Why keep a journal?
 
@@ -85,7 +85,7 @@ The ambition is large: **bounded developmental autonomy on an accountable physic
 
 I want collaborators who can do more than celebrate the idea: experimental physicists, nonlinear-dynamics specialists, systems and firmware engineers, AI/ML evaluators, statisticians, developmental biologists, thermodynamics researchers and formal-methods practitioners willing to identify better tests, missing mechanisms and alternate explanations.
 
-**[Propose a benchmark or independent review](mailto:admin@khaotic.ai?subject=LEVI%20Independent%20Experiment)** · **[Benchmark protocol](LEVI_BENCHMARKS.md)** · **[Full LEVI research dossier](LEVI.md)**
+**[Submit a public research review](https://github.com/K-haotic/K-haotic/issues/new?template=levi-research-review.md)** · **[Propose a confidential benchmark or independent review](mailto:admin@khaotic.ai?subject=LEVI%20Independent%20Experiment)** · **[Benchmark protocol](LEVI_BENCHMARKS.md)** · **[Full LEVI research dossier](LEVI.md)**
 
 ---
 
