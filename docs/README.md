@@ -29,17 +29,15 @@ Technical support:
 - [Progress ledger](../field-notes/LEVI_PROGRESS.md)
 - [Independent benchmark protocol](../field-notes/LEVI_BENCHMARKS.md)
 
-## Publishing under GitHub Pages
+## Live deployment — verified November 3, 2026
 
-Once this branch is merged into main:
+**[Open the interactive LEVI research site](https://k-haotic.github.io/K-haotic/)**
 
-1. Open the K-haotic/K-haotic repository's **Settings** tab, then **Pages**.
-2. Under Build and deployment, choose **Deploy from a branch**.
-3. Choose **main**, then the **/docs** folder and Save.
-4. Use the **Visit site** link GitHub provides to verify actual hosting.
-5. A typical GitHub Pages project path is https://k-haotic.github.io/K-haotic/ but do not advertise it as live until that URL is reachable and the app works.
+GitHub Pages is enabled for **K-haotic/K-haotic**, deployed from **main /docs**. The initial build completed and the public URL returned **HTTP 200** when verified on November 3, 2026.
 
-The current authenticated GitHub connector can publish repository files but **cannot change the Pages setting**. If Pages is not enabled, the repository contains completed source but the public interactive site is not yet deployed.
+This experience is a public **conceptual five-role atlas**, dated evidence explorer, authentic-chassis-photo presentation and benchmark preregistration designer. It is **not** the private 5FRE operator, a live chassis feed, a completed LEVI-versus-AI benchmark, or a disclosure of proprietary derivations.
+
+To maintain the deployment, update **main /docs** through a reviewed pull request; verify the live link, the JSON evidence snapshot, browser controls and reduced-motion experience after publishing.
 
 ## Testing
 
@@ -62,4 +60,4 @@ Then open http://localhost:8080 and verify:
 
 Version the source data from dated evidence. Update the evidence snapshot, journal and public narrative only when reviewed. Distinguish the hardware boot, source revision and measurement conditions. Do not expose boot identity secrets or unpublished IP in the static site.
 
-**[Public GitHub profile](https://github.com/K-haotic)** · **[Research contact](mailto:admin@khaotic.ai?subject=LEVI%20Independent%20Evaluation)**
+**[Live LEVI Open Lab](https://k-haotic.github.io/K-haotic/)** · **[Public GitHub profile](https://github.com/K-haotic)** · **[Research contact](mailto:admin@khaotic.ai?subject=LEVI%20Independent%20Evaluation)**
