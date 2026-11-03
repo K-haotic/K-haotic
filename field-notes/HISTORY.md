@@ -1,6 +1,6 @@
 # HISTORY / PRESERVE THE ENTIRE LINEAGE
 
-[Front door](../README.md) | [Public Historical Atlas](https://khaotic.ai/atlas/) | [Evidence ledger](EVIDENCE.md) | [System owners](SYSTEMS.md)
+[Front door](../README.md) | [Engineering and career history](ENGINEERING.md) | [Gaming origins](GAMING.md) | [Investigation method](METHOD.md) | [Public Historical Atlas](https://khaotic.ai/atlas/) | [Evidence ledger](EVIDENCE.md) | [System owners](SYSTEMS.md)
 
 > Khaotic did not begin when a current runtime received a name. The chronology preserves industrial practice, game/spatial intent, early AI tools, mathematics, filings, software and firmware, machine-body work, historical recovery, and the public evidence program as distinct epochs.
 
@@ -8,7 +8,7 @@
 
 ~~~mermaid
 flowchart LR
-    I["2006-2022<br/>Industrial systems<br/>Fabrication, controls, leadership"] --> O["2022-2023<br/>Khaotic + spatial worlds<br/>Geospatial and AI-control designs"]
+    I["Early construction + 2006-2022<br/>Industrial systems<br/>Fabrication, controls, leadership"] --> O["2022-2023<br/>Khaotic + spatial worlds<br/>Geospatial and AI-control designs"]
     O --> B["Nov 2024<br/>Dated BHUAT source"]
     B --> F["Jul 2025<br/>Ordered five-field source<br/>Provisional filing"]
     F --> X["2026<br/>Native LEVI, source custody<br/>formal + numeric campaigns"]
@@ -23,10 +23,12 @@ flowchart LR
 
 | Epoch | Preserved historical significance | Evidence discipline |
 | --- | --- | --- |
-| **2006-2014** | Technical and industrial systems practice, fabrication and maintenance work. | Career experience, not a claim that later AI designs already existed. |
-| **2014-2020** | Millwright/fabrication leadership and broader machine work. | Practical engineering lineage. |
-| **2020-2022** | Mechanical maintenance and controls-oriented troubleshooting, alongside developing independent projects. | Physical engineering context for later test and recovery methods. |
-| **2022** | Khaotic Gaming LLC and early spatial/community world ambition. | Business and product ancestry. |
+| **Childhood / early years** | First-person account of learning residential construction with Amidon Construction, including wood, dirt/site work, framing, foundations and house building. | Founder account; no invented payroll dates, position or credential. |
+| **2006-2014** | Systems LLC: lead millwright and fabricator, structural steel, industrial piping, welding, field installation and crew development. | Resume-described experience, not independent employer verification. |
+| **2014-2020** | Arkansas Mechanical: lead millwright and fabricator, mechanical installation, alignment, turbines, compressors, pipe and maintenance. | Practical engineering lineage. |
+| **2020-2023** | Atlas Tube: lead mechanical maintenance specialist; preventive maintenance, hydraulic and PLC-controlled machinery, electrical repairs and training. | Physical engineering context for later test and recovery methods. |
+| **2022** | Khaotic Gaming LLC and early spatial/community world ambition, arising from a lifelong gaming and builder background. | Business and product ancestry; founder work overlaps later industrial positions. |
+| **2023-2025** | Counts Brothers: shop foreman responsibilities in personnel, workflow, production scheduling, safety and client coordination. | Career history, separate from the science and product milestones. |
 | **2023** | Geospatial, mixed-reality and AI-control work; NSF SBIR pitch led to an invitation to submit a Phase I proposal; Metaverse Spectrum pitch activity. | An **invitation** is not an award or an approved grant. Early documents do not establish shipped features. |
 | **November 2, 2024** | Preserved dated BHUAT research source anchor; independent mathematical/interpretive program. | Original dated material is distinct from later architecture summaries. |
 | **July 27, 2025** | Ordered five-field nucleus documented and U.S. provisional application 63/851,781 filed. | The historical source and the filed legal document have related but distinct scopes. |
