@@ -2,8 +2,70 @@
   "schema": "khaotic.levi.public-evidence.v1",
   "publication_date": "2026-11-03",
   "character": "reviewed public snapshot; not live telemetry",
-  "source_basis": "K-haotic GitHub public evidence ledger and November 2026 physical development records",
+  "source_basis": "Canonical 5FRE Minimum Five mathematics and theorem ledger; K-haotic public evidence register and November 2026 physical development records",
   "records": [
+    {
+      "id": "MIN5_OPERATOR",
+      "date": "2026-10-05",
+      "stage": "recorded",
+      "family": "Minimum Five / exact mathematics",
+      "title": "Exact local state dimension = 5",
+      "summary": "Registered ordered five-field operator is locally full rank on nondegenerate open neighborhoods; exact continuous state realization has minimum five coordinates. A scoped mathematical theorem, not a universal physical-law proof.",
+      "sources": [
+        "field-notes/MINIMUM_FIVE.md",
+        "field-notes/COMPLEX_SYSTEMS.md"
+      ],
+      "substrate": "Exact mathematical theorem",
+      "value": {
+        "minimum_exact_state_dimension": 5
+      }
+    },
+    {
+      "id": "MIN5_SUPPORT",
+      "date": "2026-10-05",
+      "stage": "recorded",
+      "family": "Minimum Five / formal methods",
+      "title": "Minimum five effective supports (Lean)",
+      "summary": "Declared independent five-obligation coverage is complete iff effective support arity is at least five. Machine-checked within that basis; empirical universality is a separate research question.",
+      "sources": [
+        "field-notes/MINIMUM_FIVE.md"
+      ],
+      "substrate": "Lean formal support theorem",
+      "value": {
+        "minimum_effective_support_arity": 5
+      }
+    },
+    {
+      "id": "MIN5_REALIZER",
+      "date": "2026-10-05",
+      "stage": "recorded",
+      "family": "Minimum Five / realizer invariance",
+      "title": "Minimum five transfers across admitted realizers",
+      "summary": "Every admitted support-preserving 5FRE realizer carries the minimum-five support-solvency floor even when surface coordinates, observers or encodings differ.",
+      "sources": [
+        "field-notes/MINIMUM_FIVE.md"
+      ],
+      "substrate": "Formal support-preserving realizer theorem",
+      "value": {
+        "minimum_effective_support_arity": 5
+      }
+    },
+    {
+      "id": "MIN5_V2",
+      "date": "2026-09-05",
+      "stage": "recorded",
+      "family": "Minimum Five / challenger evidence",
+      "title": "V2 response rank four — not a four-support body",
+      "summary": "Frozen intervention-response measurement observed rank four. No qualifying complete four-effective-support realization was established; separate reduced-support challenges remain an explicit scientific research lane.",
+      "sources": [
+        "field-notes/MINIMUM_FIVE.md"
+      ],
+      "substrate": "Frozen empirical response-rank experiment",
+      "value": {
+        "measured_response_rank": 4,
+        "admitted_four_support_counterexample": false
+      }
+    },
     {
       "id": "GPU16",
       "date": "2026-09-16",
