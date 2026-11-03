@@ -39,6 +39,7 @@ def forbid(path: str, content: str, pattern: str, why: str) -> None:
 CORE = {
     "README.md": [
         "MINIMUM FIVE",
+        "[REDACTED — PRIVATE HISTORY]",
         "field-notes/MINIMUM_FIVE.md",
         "assets/minimum-five-foundation.svg",
         "assets/khaotic-research-vault.svg",
@@ -55,6 +56,7 @@ CORE = {
     "field-notes/LEVI.md": ["MINIMUM FIVE", "Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)", "MINIMUM_FIVE.md"],
     "field-notes/COMPLEX_SYSTEMS.md": ["Minimum Five", "[REDACTED · CANONICAL RECURRENCE", "[REDACTED · EXACT JACOBIAN", "MINIMUM_FIVE.md"],
     "field-notes/RESEARCH.md": ["MINIMUM FIVE", "MINIMUM_FIVE.md", "RESEARCH_ACCESS.md"],
+    "field-notes/ENGINEERING.md": ["[REDACTED — PRIVATE HISTORY]"],
     "field-notes/RESEARCH_ACCESS.md": ["THE PUBLIC THEOREM", "CURRENT-VIEW REDACTION", "PRIVATE", "Minimum Five"],
     "field-notes/AUTOPOIESIS.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
     "field-notes/PROVENANCE.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
@@ -86,6 +88,8 @@ for name, tokens in CORE.items():
         )
         forbid(name, body, r"five-state theorem without a five-field mythology",
                "obsolete diminishing heading has returned")
+        forbid(name, body, r"\*\*REDACTED\*(?!\*)",
+               "malformed Markdown around a redaction marker")
 
 for svg_name in ("assets/minimum-five-foundation.svg", "assets/levi-body-frontier.svg", "assets/khaotic-research-vault.svg"):
     try:
