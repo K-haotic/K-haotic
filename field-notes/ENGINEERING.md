@@ -2,7 +2,7 @@
 
 **Residential contractor's son · Millwright · Fabricator · Mechanical maintenance lead · Heavy-equipment operator · Shop foreman · Founder · Investigative polymath**
 
-[GitHub front door](../README.md) · [Complete capability atlas](CAPABILITIES.md) · [Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt) · [Research](RESEARCH.md) · [Contact](mailto:admin@khaotic.ai)
+[GitHub front door](../README.md) · [Résumé source versions](CAREER_SOURCES.md) · [Complete capability atlas](CAPABILITIES.md) · [Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt) · [Research](RESEARCH.md) · [Contact](mailto:admin@khaotic.ai)
 
 > **I grew up building houses. Then I built and repaired the machines, plants, and systems the world runs on. Now I apply that same experience to computation, invention, and original research.**
 
@@ -31,6 +31,7 @@ I carried that approach into industrial construction, power-generation environme
 **Lead Millwright / Fabricator**
 
 - Fabricated, assembled, installed, and maintained industrial pipe systems: threaded, screwed, socket-welded, high-pressure and stainless-steel work.
+- Performed machinery installation, leveling, alignment, bearing replacement and setup on steel-processing equipment and **automated material-handling systems** including rollers, transfer tables, stackers and conveyors.
 - Erected structural steel, prepared torque/bolt-up connections, laid out jobs from prints and work orders, welded and reworked metal assemblies.
 - Worked at heights and in confined spaces, handled field installations and plant maintenance, and used lockout/tagout and jobsite safety controls.
 - Trained team members, took on additional responsibility, supported crews, and solved fit-up, maintenance, fabrication, and schedule problems on active projects.
@@ -38,7 +39,8 @@ I carried that approach into industrial construction, power-generation environme
 ### Arkansas Mechanical | November 2014 – August 2020
 **Lead Millwright / Fabricator**
 
-- Installed, aligned, balanced, adjusted, inspected, repaired, and maintained large industrial machines, including work around turbines, compressors, piping, and stationary plant equipment.
+- Installed, aligned, leveled, balanced, adjusted, inspected and repaired **rolling mills, conveyors, walking beams, drive shafts, bearings, turbines, compressors**, cooling-water systems and process piping.
+- Fabricated structural machine guards, supports and custom fixtures; worked with crane/hoist equipment, high-pressure hydraulic and pneumatic lines, vibration analysis and precision mechanical installations.
 - Worked from plans and measurements: layout, mounting, clearances, couplings, welding, fabrication, mechanical repairs, electrical repairs, carpentry, and related field work.
 - Operated and coordinated lifting, drilling, cutting, measuring, grinding, and maintenance equipment.
 - Led crews and assignments, trained personnel, worked with customers, monitored materials, and coordinated schedules and practical delivery.
@@ -47,7 +49,10 @@ I carried that approach into industrial construction, power-generation environme
 **Lead Mechanical Maintenance Specialist**
 
 - Diagnosed and repaired production equipment across **mechanical, hydraulic, electrical, and PLC-controlled systems**.
-- Performed preventive maintenance, inspection, mechanical alignment and balancing, part replacement, machine installation, and production troubleshooting.
+- Maintained **steel-processing and material-handling systems**: slitting and cut-to-length lines, mill stands, bundlers, walking beams, transfer tables, conveyors, cut-off saws, shears, recoilers and uncoilers.
+- Repaired **rollers, motors, gearboxes, bearings, chains**, plus hydraulic cylinders, accumulators, bladders, pumps, solenoids, valves, regulators and pneumatic machinery.
+- **Participated in Atlas Tube's initial automated-crane implementation**; supported overhead and automated cranes, trackmobiles, forklifts, sensors, encoders, proximity/limit switches, feedback loops and automated material flow.
+- Performed mechanical alignment, preventive/corrective maintenance, emergency troubleshooting and shutdown repairs.
 - Handled welding, pipe fitting, carpentry, electrical repairs, equipment and building repair, and whatever else the plant needed to keep operating.
 - Organized work, assessed crew capabilities, assigned tasks, trained people, and responded to faults while protecting production and safety.
 
@@ -66,6 +71,7 @@ I carried that approach into industrial construction, power-generation environme
 - Lead physical and computational development around LEVI, OMMI, KEEL, Adaptive Fabric, Helm, and related systems.
 - Investigate complex and hybrid dynamics, recursive bodies, nested holarchies, developmental computation, organogenesis, native languages, experimental cryptography, and embodied AI.
 - Work across business management, product development, interdisciplinary collaboration, investigation, documentation, and actual machine testing.
+- Apply AI to diagnostic research, mechanical/electrical troubleshooting, maintenance documentation and training, while investigating **predictive maintenance, sensor-history analysis, CAD/3D equipment visualization and AR/VR industrial instruction**.
 
 ### Earlier maritime service
 **U.S. Navy — Boatswain's Mate / Coxswain (recorded professional history)**
@@ -82,6 +88,9 @@ My work has never fit into one trade. These are **working disciplines and job en
 | **Heavy and small equipment** | Large and small construction/industrial equipment, forklifts, cranes, lifting and shop equipment, machine tools and field machinery. |
 | **Civil and infrastructure** | Road and bridge work, asphalt and concrete, structural and load-bearing construction, waterway and barge repair work. |
 | **Industrial plants and power generation** | Turbines, compressors, boilers, conveyors, cooling towers, filtration and water-treatment equipment; coal and natural-gas plant environments. |
+| **Steel processing and automated material handling** | Mill stands, slitters, cut-to-length lines, bundlers, recoilers/uncoilers, walking beams, transfer tables, shears, cut-off saws, rollers, conveyors and stackers. |
+| **Overhead and automated cranes** | Participated in initial automated-crane implementation at Atlas Tube; crane maintenance, trackmobiles, sensors, encoders, proximity/limit switches, control feedback and material flow. |
+| **Specialized hydraulics and drives** | Accumulators, bladders, cylinders, actuators, pumps, solenoids, valves, regulators, pneumatics, gearboxes, bearings and chains. |
 | **Millwrighting** | Machinery installation, precision alignment, coupling, balancing, layout, fit-up, adjustment, clearances, moving components and mechanical troubleshooting. |
 | **Metalwork** | Structural steel, fabrication, welding, cutting, grinding, repairs, rework, complex assemblies and stainless-steel work. |
 | **Pipe and pressure systems** | Pipe fitting, threading, socket welding, high-pressure systems, stainless tubing, installation, leak diagnosis and pressure testing. |
@@ -96,6 +105,10 @@ My work has never fit into one trade. These are **working disciplines and job en
 
 **[Explore the expanded hands-on capability atlas](CAPABILITIES.md)** — construction, civil, heavy equipment, power generation, machining, welding, industrial controls, automotive, business, computing and creative work.
 
+## Selected industrial facility and project environments
+
+My August 2026 industrial-maintenance résumé identifies site or project experience across steelmaking, tube production, power generation and materials handling. Named environments include **Nucor-Yamato Steel, Nucor Steel Arkansas (Hickman), Big River Steel 1 & 2, Atlas Tube, Tenaris/Maverick Tube, IPSCO Tubulars, Ryerson, Friedman's Steel, PACO Steel & Engineering, Magnitude 7, Primetals Technologies, Hytrol Conveyor, Kinder Morgan, Dell Power Plant and Plum Point Energy Station**. My exposure varied across employment, contractor assignments and other project work.
+
 ## The way I work
 
 I'm a **working generalist and a lifelong autodidact**. Give me a problem and I'll determine what it is, what matters, who knows the parts I don't, what the machine or job is actually doing, and how to build a path to a result. I can study the drawing, run the equipment, troubleshoot the failure, get my hands dirty, direct the crew, and explain the work to the customer.
@@ -109,7 +122,7 @@ That ability to **learn, reason, investigate and execute across disciplines** is
 - **Gosnell High School**, high-school diploma (2001).
 - **ITT Technical Institute, Memphis**, Drafting Technology coursework (associate program unfinished).
 - Practical, self-directed technical education across construction, industrial machinery, field operation, computing and scientific research.
-- Historical training in safety, welding, first response and fire protection.
+- Historical training in safety, welding, first response and fire protection, along with **rigger/signalman (NCCER) training**, millwrighting, blueprint reading, hydraulics and pneumatics.
 - Longtime gamer, creator and researcher; interested in mechanics, simulations, game systems, interactive worlds, and scientific questions.
 
 ## What I bring
@@ -120,4 +133,4 @@ That is the complete professional story behind Khaotic Gaming and Recursive Phys
 
 **[Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt)** · **[Research portfolio](RESEARCH.md)** · **[Complete capabilities](CAPABILITIES.md)** · **[GitHub profile](../README.md)** · **[Email](mailto:admin@khaotic.ai)**
 
-<sub>Career history drawn from my 2023 employment résumé, extended professional expertise portfolio, 2026 research CV, and firsthand account of work with my father. This public page is a professional summary rather than a reproduction of personal contact records.</sub>
+<sub>Source base: 2023 employment résumé; 15-page Visionary Innovator / Master Builder portfolio; August 7, 2026 Atlas maintenance and automated-crane résumé; November 3, 2026 Anthropic research CV; and firsthand account of childhood residential contracting. [Résumé versions and their distinct contributions](CAREER_SOURCES.md).</sub>
