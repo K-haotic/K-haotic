@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-### I BUILT HOUSES BEFORE I BUILT COMPUTATIONAL WORLDS.
+<h2>I BUILT HOUSES BEFORE I BUILT COMPUTATIONAL WORLDS.</h2>
 
-**Master Builder · Industrial Lead · Inventor · Investigative Polymath · Lifelong Gamer**
+<strong>Master Builder · Industrial Lead · Inventor · Investigative Polymath · Lifelong Gamer</strong>
 
-*Three decades of hands-on engineering. A lifetime of learning. One connected research program.*
+<em>Three decades of hands-on engineering. A lifetime of learning. One connected research program.</em>
 
 <br/>
 
@@ -175,7 +175,7 @@ I will keep building either way. **The question is what we could build together.
 
 <br/><br/>
 
-**STEVEN RAY BRITT / MR KHAOTIC / SIG:KHA**<br/>
+<strong>STEVEN RAY BRITT / MR KHAOTIC / SIG:KHA</strong><br/>
 <sub>From a hammer to a power plant to a physics-native experimental computer. Still building.</sub>
 
 </div>
