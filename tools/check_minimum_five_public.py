@@ -41,27 +41,31 @@ CORE = {
         "MINIMUM FIVE",
         "field-notes/MINIMUM_FIVE.md",
         "assets/minimum-five-foundation.svg",
+        "assets/khaotic-research-vault.svg",
+        "field-notes/RESEARCH_ACCESS.md",
     ],
     "field-notes/MINIMUM_FIVE.md": [
-        "Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)",
-        "m_{\\min}=5",
-        "CompleteIndependentCoverage",
-        "realizer",
+        "MINIMUM FIVE",
+        "[REDACTED · REGISTERED NONLINEAR OPERATOR]",
+        "[REDACTED · JACOBIAN FACTORIZATION",
+        "[REDACTED · LEAN THEOREM STATEMENT",
         "four-effective-support",
-        "physical",
+        "RESEARCH_ACCESS.md",
     ],
     "field-notes/LEVI.md": ["MINIMUM FIVE", "Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)", "MINIMUM_FIVE.md"],
-    "field-notes/COMPLEX_SYSTEMS.md": ["Minimum Five", "det DF", "MINIMUM_FIVE.md"],
-    "field-notes/RESEARCH.md": ["MINIMUM FIVE", "MINIMUM_FIVE.md"],
+    "field-notes/COMPLEX_SYSTEMS.md": ["Minimum Five", "[REDACTED · CANONICAL RECURRENCE", "[REDACTED · EXACT JACOBIAN", "MINIMUM_FIVE.md"],
+    "field-notes/RESEARCH.md": ["MINIMUM FIVE", "MINIMUM_FIVE.md", "RESEARCH_ACCESS.md"],
+    "field-notes/RESEARCH_ACCESS.md": ["THE PUBLIC THEOREM", "CURRENT-VIEW REDACTION", "PRIVATE", "Minimum Five"],
     "field-notes/AUTOPOIESIS.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
     "field-notes/PROVENANCE.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
     "field-notes/EMBODIMENT.md": ["Minimum Five", "MINIMUM_FIVE.md"],
     "field-notes/HOLARCHY_NEURONS.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
-    "docs/index.html": ["MINIMUM FIVE", "minimum-five-foundation.svg", "field-notes/MINIMUM_FIVE.md"],
+    "docs/index.html": ["MINIMUM FIVE", "minimum-five-foundation.svg", "field-notes/MINIMUM_FIVE.md", "visualTempo", "CANONICAL UPDATE OPERATOR", "khaotic-research-vault.svg"],
     "docs/OPEN_LAB.md": ["Minimum Five", "MINIMUM_FIVE.md"],
     "docs/data/evidence.json": ["MIN5_OPERATOR", "MIN5_SUPPORT", "MIN5_REALIZER", "MIN5_V2"],
     "assets/levi-body-frontier.svg": ["MINIMUM FIVE", "ϕ", "τ", "ψ", "χ", "Λ"],
     "assets/minimum-five-foundation.svg": ["MINIMUM FIVE", "ϕ", "τ", "ψ", "χ", "Λ"],
+    "assets/khaotic-research-vault.svg": ["PROPRIETARY", "ϕ", "τ", "ψ", "χ", "Λ"],
 }
 
 PUBLIC = {}
@@ -83,7 +87,7 @@ for name, tokens in CORE.items():
         forbid(name, body, r"five-state theorem without a five-field mythology",
                "obsolete diminishing heading has returned")
 
-for svg_name in ("assets/minimum-five-foundation.svg", "assets/levi-body-frontier.svg"):
+for svg_name in ("assets/minimum-five-foundation.svg", "assets/levi-body-frontier.svg", "assets/khaotic-research-vault.svg"):
     try:
         root = ET.fromstring(PUBLIC[svg_name])
         if root.tag not in ("{http://www.w3.org/2000/svg}svg", "svg"):
