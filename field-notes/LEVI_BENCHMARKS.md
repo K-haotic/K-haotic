@@ -1,7 +1,7 @@
 # LEVI / COMPARATIVE EXPERIMENT AND BENCHMARK PROGRAM
 ### Make the classification an outcome of experiments
 
-[LEVI flagship](LEVI.md) · [Public progress ledger](LEVI_PROGRESS.md) · [Founder](../README.md) · [Evidence register](PROVENANCE.md)
+[LEVI flagship](LEVI.md) · [Public progress ledger](LEVI_PROGRESS.md) · [Interactive preregistration designer source](../docs/index.html) · [Founder](../README.md) · [Evidence register](PROVENANCE.md)
 
 > **Do not declare LEVI superior to AI systems in advance. Make independent comparisons hard enough that any real difference survives them.**
 
