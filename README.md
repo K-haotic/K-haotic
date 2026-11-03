@@ -57,7 +57,7 @@ I'm also a lifelong **old-school gamer** and a self-taught, multidisciplinary in
 | Period | Responsibility | Work |
 | --- | --- | --- |
 | **Childhood–~17** | **Residential construction with my father / Amidon Construction** | Houses from site preparation to roof: concrete, framing, roofing, plumbing, electrical, HVAC and finish. |
-| **Earlier adulthood** | **U.S. Navy · Boatswain's Mate / Coxswain** | Vessel systems, small-craft operations, firefighting and damage-control training. |
+| **Earlier adulthood** | **REDACTED* | Vessel systems, small-craft operations, firefighting and damage-control training. |
 | **2006–2014** | **Systems LLC · Lead Millwright / Fabricator** | Structural steel, high-pressure piping, welding, industrial installation and crews. |
 | **2014–2020** | **Arkansas Mechanical · Lead Millwright / Fabricator** | Rolling mills, conveyors, turbines, compressors, equipment alignment and industrial field projects. |
 | **2020–2023** | **Atlas Tube · Lead Mechanical Maintenance Specialist** | Steel-processing lines, **early automated-crane implementation**, sensors and feedback, hydraulic accumulators, pneumatics and production maintenance. |
