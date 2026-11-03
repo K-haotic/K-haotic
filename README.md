@@ -7,7 +7,7 @@
 
 <br/>
 
-**A LIFETIME OF BUILDING. A CAREER OF SOLVING. AN OPEN-ENDED RESEARCH PROGRAM.**
+**I BUILT HOUSES BEFORE I BUILT COMPUTATIONAL WORLDS.**
 
 <sub>Steven Ray Britt / Mr Khaotic / Sig:KHA &nbsp; | &nbsp; Founder, Khaotic Gaming LLC and Recursive Physics Lab</sub>
 
@@ -22,25 +22,29 @@
 
 ---
 
-## I build things that have to work.
+## BUILDER FIRST. LEAD BY EXPERIENCE. INVENTOR BY NATURE.
 
-I learned with a hammer in my hands. I grew up around **Amidon Construction**, spent roughly a decade in residential construction and went on to work across industrial fabrication, heavy equipment, maintenance, hydraulic and pneumatic systems, electrical troubleshooting, millwrighting and production leadership. That is **approximately three decades of hands-on building and technical practice**, including early-life experience rather than three decades of formal employment.
+**My father was a residential contractor. I grew up on his jobsites—from the time I could hold a hammer until I was about 17.** I wasn't just around construction: I was building houses, from dirt work, site preparation, foundations and concrete through framing, roofing, plumbing, electrical, HVAC, finish work and repairs. I had been working so long I didn't even realize I was supposed to be getting paid until I was **15**.
 
-I am also a **lifelong old-school gamer**, an autodidact, an investigator and an inventor. I study what I do not yet understand, cross disciplines on purpose, and turn questions into experiments. I founded **Khaotic Gaming LLC** in 2022 and lead a connected program spanning nonlinear mathematical research, physical computing, AI-assisted engineering, interactive worlds and accountable systems.
+From there I went into industrial construction and maintenance: **steel, pipe, welding, precision millwrighting, heavy equipment, hydraulics, pneumatics, electrical and PLC-controlled machinery, power plants, vehicles, production lines and the people responsible for keeping them running**. I worked as **Lead Millwright / Fabricator** at Systems LLC and Arkansas Mechanical, **Lead Mechanical Maintenance Specialist** at Atlas Tube, and **Shop Foreman** at Counts Brothers.
 
-I know the difference between **a drawing, a working machine, a passing experiment and an untested ambition**. My work preserves all four without pretending they are interchangeable.
+My strength isn't one trade. It is being the **do-it-all problem solver and lead** who can arrive at an unfamiliar job, read the plans, understand the equipment, trace the fault, pick up a tool, lead a crew, learn what's missing and get the work done. Approximately **three decades of building and industrial practice** have shaped how I investigate everything—including mathematics, physical computing, and AI.
+
+I'm also a **lifelong old-school gamer, investigative polymath, inventor, and self-taught researcher**. I deliberately go looking for the parts I understand least, because that's where the next question—and often the next invention—starts.
 
 <div align="center">
-<img src="./assets/khaotic-career-arc.png" width="100%" alt="Illustrated career arc from early construction through millwrighting, industrial maintenance and shop leadership to gaming and research systems." />
+<img src="./assets/khaotic-career-arc.png" width="100%" alt="Career arc: growing up building houses with a residential-contractor father, then leading industrial millwright, maintenance and shop work before founding Khaotic Gaming and Recursive Physics Lab." />
 <br/>
-<sub>Different domains. One builder. Research and founding work overlap the industrial career; this is a lineage, not a claim that every activity happened in a strict sequence.</sub>
+<sub>From my father's house-building crews to industrial plants, physical computing and original research. The work didn't begin in 2022—and I never stopped building.</sub>
 </div>
+
+**[FULL ENGINEERING RÉSUMÉ](./field-notes/ENGINEERING.md)** &nbsp; · &nbsp; **[THE COMPLETE CAPABILITY ATLAS](./field-notes/CAPABILITIES.md)** &nbsp; · &nbsp; **[PHOTOS OF ACTUAL WORK](https://stevenbritt7117.wixsite.com/stevenbritt)**
 
 ## Choose your entrance
 
 | THE BUILDER / INVENTOR | THE COMPLEX-SYSTEMS RESEARCHER |
 | :--- | :--- |
-| **[Engineering Resume & Skills](./field-notes/ENGINEERING.md)**<br/>Construction since childhood, heavy equipment, industrial machinery, fabrication, hydraulics, pneumatics, controls, crews and management. | **[Whole Research Program](./field-notes/RESEARCH.md)**<br/>One source-backed view of the mathematics, bodies, neural learning, hardware, native languages, world engines and products. |
+| **[Engineering Résumé & Leadership](./field-notes/ENGINEERING.md)**<br/>House-building from childhood, heavy equipment, field leadership, power plants, industrial troubleshooting, people and projects.<br/><br/>**[Full Capability Atlas](./field-notes/CAPABILITIES.md)**<br/>Construction, civil, mills, welding, fluid power, electrical, engines, business and more. | **[Whole Research Program](./field-notes/RESEARCH.md)**<br/>One source-backed view of the mathematics, bodies, neural learning, hardware, native languages, world engines and products. |
 | **[Old-School Gaming & Worldbuilding](./field-notes/GAMING.md)**<br/>The lifelong gaming foundation of Khaotic Gaming, interactive systems and immersive-world design. | **[Complex and Hybrid Dynamics](./field-notes/COMPLEX_SYSTEMS.md)**<br/>Ordered 5FRE, attractors, viability, event dynamics, chiasms, multiscale geometry, formal methods and physical-law falsifiers. |
 | **[My Research Method](./field-notes/METHOD.md)**<br/>Self-education, investigation, logical deduction, scientific method and deliberate learning at the edge of my understanding. | **[Recursive Bodies & Autopoiesis](./field-notes/AUTOPOIESIS.md)**<br/>History-bearing bodies, nested holarchies, N-body ecology, neural seeds, scar-to-organ experiments and accountable self-construction. |
 | **[LEVI, Android & LEVI Air](./field-notes/EMBODIMENT.md)**<br/>Physical machines, native computing, Android Wand, robotics research and physical-field/airborne recurrence experiments. | **[Original Languages & Ciphers](./field-notes/LANGUAGES_CRYPTO.md)**<br/>TAL, typed body operations, semantic grammars, native compiler research and experimental cryptography. |
@@ -48,22 +52,21 @@ I know the difference between **a drawing, a working machine, a passing experime
 
 **Research evidence register:** [87 publicly readable research evidence summaries](./field-notes/PROVENANCE.md) based on a documented private-repository review. **Public visual research:** [Khaotic Historical Atlas](https://khaotic.ai/atlas/) / [Research Estate](https://khaotic.ai/atlas/research/). Underlying implementation sources remain private; the public register describes each claim and its limits.
 
-## Three decades at the machine, from the house to the plant
+## The work history: nearly every role was lead
 
-| Period | Experience | What I took into the next chapter |
+| Period | Position | Work |
 | :--- | :--- | :--- |
-| **Childhood / early years** | **Amidon Construction** and approximately a decade of residential work with dirt, wood, site work, structures and houses | Learn by doing, measure twice, ask questions and take responsibility for the result. |
-| **2006-2014** | **Systems LLC** - Lead millwright / fabricator | Structural steel, pipe systems, industrial installations, welding, layout and crew development. |
-| **2014-2020** | **Arkansas Mechanical** - Lead millwright / fabricator | Machinery installation, alignment, compressors, turbines, piping and field problem-solving. |
-| **2020-2023** | **Atlas Tube** - Lead mechanical maintenance specialist | Preventive maintenance, hydraulic/PLC-controlled machinery, electrical repairs and production fault isolation. |
-| **2023-2025** | **Counts Brothers** - Shop foreman | Shop operations, supervision, schedules, budgets, training and customer coordination. |
-| **2022-present** | **Khaotic Gaming / RPL** - Founder, investigator, inventor | Research direction, systems architecture, experimental computation, embodied hardware and public experiences. |
+| **Childhood – about 17** | **Residential construction with my father / Amidon Construction** | Houses from site preparation to roof: dirt work, concrete, framing, roofing, plumbing, electrical, HVAC, finish and repair. |
+[REDACTED - PRIVATE HISTORY]
+| **2006–2014** | **Systems LLC — Lead Millwright / Fabricator** | High-pressure pipe, structural steel, welding, industrial installation and field crews. |
+| **2014–2020** | **Arkansas Mechanical — Lead Millwright / Fabricator** | Turbines, compressors, machinery installation, precision alignment, fabrication and customer-facing field coordination. |
+| **2020–2023** | **Atlas Tube — Lead Mechanical Maintenance Specialist** | Hydraulic, PLC-controlled, electrical and mechanical production equipment, plant maintenance and team direction. |
+| **2023–2025** | **Counts Brothers — Shop Foreman** | People, equipment, shop production, schedules, budgets, customers and delivery. |
+| **2022–present** | **Khaotic Gaming / Khaotic.ai / RPL — Founder and Inventor** | Mathematics, complex and hybrid dynamics, experimental physical computing, AI, language research and interactive worlds. |
 
-The early construction history is my personal account; specific employment dates and responsibilities come from my historical resumes and portfolio. Founder work overlaps other positions. No unstated licenses, degrees or current certifications are implied.
+**What this means in the field:** Construction and heavy equipment · Welding and structural fabrication · Turbines, compressors and plants · Hydraulics and pneumatics · AC/DC, PLCs and controls · Cars, trucks and small engines · Road, bridge and waterway jobs · Planning, budgeting, customers and crews · Hands-on troubleshooting across trades.
 
-**Core practice:** construction and heavy equipment / welding and fabrication / precision mechanical systems / hydraulics and pneumatics / AC-DC and PLC-related troubleshooting / maintenance and safety / operations and people / Python, Rust, Linux and firmware / mathematical experiments / gaming and XR.
-
-**[Full technical skill map, career history, education and scope](./field-notes/ENGINEERING.md)** &nbsp; | &nbsp; **[Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt)**
+**[The detailed experience](./field-notes/ENGINEERING.md)** · **[Everything that belongs in the capability map](./field-notes/CAPABILITIES.md)** · **[Industrial photo portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
 
 ---
 
@@ -83,7 +86,7 @@ flowchart LR
     K -.-> N
 ```
 
-**What is already tangible:** a registered sequential nonlinear map; source and scoped mathematical results; a **five-neuron, 25-parameter trainable learning component**; a validated **toy scar-to-organ event at step 60**; physical CPU/GPU experiment receipts; an Android Wand observer stack; native LEVI CPU/firmware milestones; and original language, compiler and experimental cipher sources. **What remains research:** broad self-directed organogenesis, complete native LEVI GPU/robotics autonomy, full physical-field LEVI Air recurrence, and proof that the proposed models recover fundamental laws of nature.
+**What is already tangible:** a registered sequential nonlinear map; source and scoped mathematical results; a **five-neuron, 25-parameter trainable learning component**; a validated **scar-to-organ simulation event at step 60**; physical CPU/GPU experiment receipts; an Android Wand observer stack; native LEVI CPU/firmware milestones; and original language, compiler and experimental cipher sources. **Where the work is going:** developmental organ growth, expanded LEVI compute and embodiment, physical-field computing, and independent experimental challenges to the mathematics. Each area has its own source, experiments, and roadmap.
 
 **[The full research thesis](./field-notes/RESEARCH.md)** / **[Nested holarchies, N-body and neurons](./field-notes/HOLARCHY_NEURONS.md)** / **[Bodies and organogenesis](./field-notes/AUTOPOIESIS.md)** / **[Hybrid dynamics](./field-notes/COMPLEX_SYSTEMS.md)** / **[87-entry public evidence register](./field-notes/PROVENANCE.md)**.
 
@@ -92,32 +95,33 @@ flowchart LR
 <div align="center">
 <a href="./assets/levi-native-operator-2026-11.jpg"><img src="./assets/levi-native-operator-2026-11.jpg" width="95%" alt="Real LEVI experimental chassis operator display photographed in November 2026." /></a>
 <br/>
-<sub><strong>LEVI / Actual experimental hardware, November 2026.</strong> A genuine operator-display photograph, not an AI render. Its displayed labels are not certification that every feature is commissioned.</sub>
+<sub><strong>LEVI / Actual experimental hardware, November 2026.</strong> A genuine photograph of our native computing work, not an AI render.</sub>
 </div>
 
 My research is not a claim that a new equation has already explained the universe. It is a continuing investigation connected to executable code, physical experiments, test boundaries and preserved source history.
 
-| PROGRAM | PURPOSE AND REALITY CHECK |
+| PROGRAM | WHAT WE'RE BUILDING AND INVESTIGATING |
 | :--- | :--- |
-| **BHUAT + 5FRE** | An original mathematical/physical research program involving interacting recursive-state coordinates, nonlinear dynamics, memory, regulation and experimental comparisons. **A proposed interpretation, not established universal physics.** |
-| **LEVI** | A physical developmental-computing research chassis and native firmware/software stack. Boot-specific CPU and firmware milestones are recorded; full native GPU admission remains separate ongoing work. |
-| **KEEL, Helm, Adaptive Fabric** | Governed source and generation custody, typed operator controls, bounded distributed work, recovery and evidence receipts. Different responsibilities, not a single magical runtime. |
-| **OMMI, Whale Fall, Machine City, XR** | Earlier modular-system concepts, browser experiences, geospatial/interactivity research and developing social/product worlds. Implemented surfaces and long-term intentions are distinct. |
-| **Holarchic N-body / neural development** | Nested body/organ identities, coupled-kernel ecology and a real five-neuron bounded residual-learning implementation. Full self-growing computational organs remain a staged research program. |
-| **LEVI Air / physical-field computing** | Proposed distributed wave-field and dense-cloud computational recurrence with preregistered experiments; **not** a flown aircraft or completed field-carried mind. |
-| **TAL / native languages / Khaotic ciphers** | Historical Typed Assembly Language, typed-proof operations, compiler research and experimental finite-bit cipher implementations. The latter have **no production security claim**. |
-| **Materials / physics analogues** | Percolation, elasticity, somatic scarring, cymatic/acoustic correspondences, harmonics and target-specific physical-law tests. Mathematical analogies do not establish universal material or physical laws. |
+| **BHUAT + 5FRE** | Original mathematics around nonlinear recurrence, hybrid event dynamics, coupled states, attractors, stability, memory, coherence, regulation and exact-versus-numeric computation. |
+| **LEVI** | Physical/native developmental-computing systems: hardware bring-up, firmware, CPU/GPU paths, memory, observations, persistence, communications, source continuity and recovery. |
+| **KEEL + Helm + Adaptive Fabric** | Source and generation custody, typed operator control, distributed execution, resources, evidence, review and recovery. |
+| **OMMI / Garden / Hive / Recursants** | Persistent recursive bodies, behavior development, bounded learning, adaptation, multi-body coordination and generational history. |
+| **Holarchic and N-body systems** | Nested kernels, coupled bodies, neural residual learning, scalable relationships, lineage, specialization, and accountable organogenesis. |
+| **TAL, languages and cryptography** | Typed assembly and proof-carrying operations, native language and compiler research, custom cryptographic research and rigorous security testing. |
+| **Physical science and LEVI Air** | Waves and fields, materials, percolation, scarring, spatial computation, dense-cloud hypotheses, hybrid physical realizers and experiment design. |
+| **Whale Fall, Machine City, XR and gaming** | World engines, geospatial observation, civic data, creative tools, simulated ecologies, social systems, games and multimodal experiences. |
 
-### Selected demonstrations with explicit boundaries
+### Results you can investigate
 
-| Recorded evidence | What it demonstrates | What it does *not* demonstrate |
-| :--- | :--- | :--- |
-| **September 2026 - physical RTX 5060 Ti** | 16 Linux/NVIDIA-driver GPU launches; two frozen binary64 five-field traces matched the tested CPU reference at zero observed ULP error. | Universal CPU/GPU equivalence or fully commissioned native LEVI GPU compute. |
-| **September 2026 - cross-machine study** | Seven predeclared initial-condition scales met a finite-horizon amplification criterion in the recorded campaign. | A universal chaos or physics proof. |
-| **2026 - LEVI native CPU** | Authenticated 16-way SMP and five-of-five native CPU jobs recorded in specific boot/epoch receipts. | Continuous readiness on every later boot. |
-| **2025 and 2026 - patent applications** | U.S. provisional **63/851,781** and nonprovisional **19/755,751** filed. | Granted patents or externally validated research claims. |
+| Recorded result | Evidence |
+| :--- | :--- |
+| **Physical GPU computation — September 2026** | 16 RTX 5060 Ti Linux/NVIDIA launches; two tested binary64 five-field trajectories matched the CPU reference with zero observed absolute/ULP difference. |
+| **Cross-machine replication — September 2026** | Seven preregistered initial-condition scales passed the campaign's finite-horizon amplification criterion, with recorded controls. |
+| **Native LEVI CPU and firmware** | Authenticated boot-specific 16-way SMP, native N9 CPU jobs and independently reproduced UEFI builds. |
+| **Learning and organogenesis** | Five-neuron, 25-parameter residual learner implemented in source; scar-to-organ simulation validation recorded an organ event at step 60. |
+| **Inventor record** | U.S. provisional application **63/851,781** (July 27, 2025) and nonprovisional **19/755,751** (July 27, 2026). |
 
-**[Review evidence and limitations](./field-notes/EVIDENCE.md)** &nbsp; | &nbsp; **[Trace research dossiers](https://khaotic.ai/atlas/research/)** &nbsp; | &nbsp; **[Read the chronology](./field-notes/HISTORY.md)** &nbsp; | &nbsp; **[Public Adaptive Fabric](https://khaotic.ai/fabric/)**
+**[Review the source-backed evidence](./field-notes/EVIDENCE.md)** &nbsp; | &nbsp; **[Trace research dossiers](https://khaotic.ai/atlas/research/)** &nbsp; | &nbsp; **[Read the chronology](./field-notes/HISTORY.md)** &nbsp; | &nbsp; **[Public Adaptive Fabric](https://khaotic.ai/fabric/)**
 
 <details>
 <summary><strong>EXPAND: HOW THE SYSTEMS CONNECT</strong> (conceptual architecture, not a live-health dashboard)</summary>
@@ -156,7 +160,7 @@ Khaotic Gaming is where I brought the builder's mindset to interactive worlds, g
 
 > **Where is my understanding weakest, and what experiment would move it forward?**
 
-I am an autodidact and an investigative polymath. I know some domains through decades of practical experience, others through sustained independent study, and some through continuing research. I do not confuse familiarity with mastery. Biology, physics, computing, mechanics, psychology, art and business interest me because their connections are often more revealing than their labels.
+I am an autodidact and an investigative polymath. I grew up solving practical problems, then kept studying everything that caught my attention—biology, physics, mechanics, mathematics, electronics, computing, psychology, art, business and more. **I don't wait for a job title to tell me what I can learn.** I find the gap, ask the right questions, work with people who know it, and put the answer to work.
 
 **Observe. Question. Research. Derive. Build. Test. Document. Revise.**
 
@@ -164,13 +168,15 @@ I am an autodidact and an investigative polymath. I know some domains through de
 
 ---
 
-## Evidence and release boundaries
+## See the sources. See the machines. See the work.
 
-**Public:** selected research summaries, the Historical Atlas, the Research Estate crosswalk, the physical LEVI photograph and public Khaotic/Whale Fall interfaces. **Governed or private:** patent-sensitive implementations, raw source-custody authority, physical operator controls and unpublished internal records. **Still in development:** aspects of native GPU bring-up, wider developmental autonomy, and broader interactive/commerce systems. A release claim is never inferred from an architectural diagram.
+The public research estate connects the inventions, experiments, hardware, test records, physical photographs and applications. The source-evidence pages carry the detailed methods and current research questions; this front door is about the **person doing the work and the program he is building**.
+
+**[Historical Atlas](https://khaotic.ai/atlas/)** · **[Research Estate](https://khaotic.ai/atlas/research/)** · **[Evidence register](./field-notes/PROVENANCE.md)** · **[Engineering résumé](./field-notes/ENGINEERING.md)** · **[Capabilities](./field-notes/CAPABILITIES.md)**
 
 ## Work with me
 
-I welcome technical collaboration and career opportunities in **complex and hybrid dynamical systems, computational physics, nonlinear numerical methods, formal reasoning, accountable AI, neural learning, recursive/body architectures, native and embedded hardware, industrial automation, materials and field-computing experiments, secure software, language design, interactive worlds and XR**. My practical foundation includes heavy equipment, fabrication, machinery repair and team leadership; my research approach is investigative, cross-disciplinary and test-driven. I bring an existing research program and a willingness to challenge my assumptions with better evidence.
+I bring **three decades of building and leading the work**—from residential construction and heavy equipment to industrial plants, fabrication, controls, maintenance, crews and business—plus an original research program in complex systems, mathematics, physical AI, nonlinear and hybrid dynamics, native hardware, languages, secure computation and interactive worlds. I can lead, build, troubleshoot, learn, collaborate and deliver. I want to work with people and organizations ready to do substantial work across disciplines.
 
 <div align="center">
 
@@ -178,11 +184,11 @@ I welcome technical collaboration and career opportunities in **complex and hybr
 <a href="https://khaotic.ai/"><img alt="Visit Khaotic.ai" src="https://img.shields.io/badge/EXPLORE-KHAOTIC.AI-AB8BFF?style=for-the-badge&amp;labelColor=13202F" /></a>
 <a href="https://khaotic.ai/#back-the-build"><img alt="Back the Build" src="https://img.shields.io/badge/SUPPORT-BACK_THE_BUILD-E2B968?style=for-the-badge&amp;labelColor=13202F" /></a>
 
-**[Whole Research Program](./field-notes/RESEARCH.md)** &nbsp; / &nbsp; **[Engineering Resume](./field-notes/ENGINEERING.md)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/steven-britt-kg/)** &nbsp; / &nbsp; **[Research Dossiers](https://khaotic.ai/atlas/research/)** &nbsp; / &nbsp; **[Historical Atlas](https://khaotic.ai/atlas/)** &nbsp; / &nbsp; **[Industrial Portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
+**[Whole Research Program](./field-notes/RESEARCH.md)** &nbsp; / &nbsp; **[Engineering Résumé](./field-notes/ENGINEERING.md)** &nbsp; / &nbsp; **[Capability Atlas](./field-notes/CAPABILITIES.md)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/steven-britt-kg/)** &nbsp; / &nbsp; **[Research Dossiers](https://khaotic.ai/atlas/research/)** &nbsp; / &nbsp; **[Historical Atlas](https://khaotic.ai/atlas/)** &nbsp; / &nbsp; **[Industrial Portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
 
 <br/>
 
-<sub>Real machines. Original questions. Dated evidence. Public-facing material is curated; private source, credentials and patent-sensitive implementation remain under governed custody. KEEL is the Khaotic source-generation authority; this GitHub profile is its public-facing introduction, not its replacement.</sub>
+<sub>Real work. Real machines. Original research. Built from the ground up. Khaotic source and patent-sensitive systems remain under their existing custody.</sub>
 
 **Steven Ray Britt / Mr Khaotic / Sig:KHA**
 

@@ -1,6 +1,6 @@
 # HISTORY / PRESERVE THE ENTIRE LINEAGE
 
-[Front door](../README.md) | [Engineering and career history](ENGINEERING.md) | [Gaming origins](GAMING.md) | [Investigation method](METHOD.md) | [Public Historical Atlas](https://khaotic.ai/atlas/) | [Evidence ledger](EVIDENCE.md) | [System owners](SYSTEMS.md)
+[Front door](../README.md) | [Full engineering résumé](ENGINEERING.md) | [Capability atlas](CAPABILITIES.md) | [Engineering and career history](ENGINEERING.md) | [Gaming origins](GAMING.md) | [Investigation method](METHOD.md) | [Public Historical Atlas](https://khaotic.ai/atlas/) | [Evidence ledger](EVIDENCE.md) | [System owners](SYSTEMS.md)
 
 > Khaotic did not begin when a current runtime received a name. The chronology preserves industrial practice, game/spatial intent, early AI tools, mathematics, filings, software and firmware, machine-body work, historical recovery, and the public evidence program as distinct epochs.
 
@@ -8,7 +8,7 @@
 
 ~~~mermaid
 flowchart LR
-    I["Early construction + 2006-2022<br/>Industrial systems<br/>Fabrication, controls, leadership"] --> O["2022-2023<br/>Khaotic + spatial worlds<br/>Geospatial and AI-control designs"]
+    I["Childhood house-building + industrial lead work<br/>Construction, machinery, controls, crews"] --> O["2022-2023<br/>Khaotic + spatial worlds<br/>Geospatial and AI-control designs"]
     O --> B["Nov 2024<br/>Dated BHUAT source"]
     B --> F["Jul 2025<br/>Ordered five-field source<br/>Provisional filing"]
     F --> X["2026<br/>Native LEVI, source custody<br/>formal + numeric campaigns"]
@@ -23,7 +23,7 @@ flowchart LR
 
 | Epoch | Preserved historical significance | Evidence discipline |
 | --- | --- | --- |
-| **Childhood / early years** | First-person account of learning residential construction with Amidon Construction, including wood, dirt/site work, framing, foundations and house building. | Founder account; no invented payroll dates, position or credential. |
+| **Childhood through ~17** | Worked on residential construction with his father, a residential contractor: site/dirt work, foundations and concrete, framing, roofing, plumbing, electrical, HVAC, finishing and repairs. Real work since he could hold a hammer; he says he did not realize he should be paid until he was 15. | Professional biography and firsthand account. |
 | **2006-2014** | Systems LLC: lead millwright and fabricator, structural steel, industrial piping, welding, field installation and crew development. | Resume-described experience, not independent employer verification. |
 | **2014-2020** | Arkansas Mechanical: lead millwright and fabricator, mechanical installation, alignment, turbines, compressors, pipe and maintenance. | Practical engineering lineage. |
 | **2020-2023** | Atlas Tube: lead mechanical maintenance specialist; preventive maintenance, hydraulic and PLC-controlled machinery, electrical repairs and training. | Physical engineering context for later test and recovery methods. |

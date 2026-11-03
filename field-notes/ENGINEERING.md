@@ -1,115 +1,123 @@
-# THE BUILDER / ENGINEERING RESUME AND SKILL MAP
+# STEVEN RAY BRITT — MASTER BUILDER, INDUSTRIAL LEAD & INVENTOR
 
-**Steven Ray Britt** / Mr Khaotic / Khaotic Gaming LLC / Recursive Physics Lab
+**Residential contractor's son · Millwright · Fabricator · Mechanical maintenance lead · Heavy-equipment operator · Shop foreman · Founder · Investigative polymath**
 
-[Front door](../README.md) | [My investigation method](METHOD.md) | [Gaming and origins](GAMING.md) | [Historical research](HISTORY.md) | [Systems map](SYSTEMS.md)
+[GitHub front door](../README.md) · [Complete capability atlas](CAPABILITIES.md) · [Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt) · [Research](RESEARCH.md) · [Contact](mailto:admin@khaotic.ai)
 
-> I started learning to build as a child. Long before I wrote code or investigated nonlinear dynamics, I learned that the real world answers back: steel bends, machinery fails, tolerances matter, and a job has to get done.
+> **I grew up building houses. Then I built and repaired the machines, plants, and systems the world runs on. Now I apply that same experience to computation, invention, and original research.**
 
-## Professional positioning
+## I started on the jobsite, not behind a desk
 
-**Builder | Millwright | Fabricator | Industrial Maintenance Specialist | Equipment Operator | Shop Foreman | Founder | Inventor | Independent Researcher**
+My father was a **residential contractor**. I was working beside him from the time I was old enough to hold a hammer until around **17 years old**. I was building houses, not merely watching someone else do it. For years I was so used to working that I didn't even realize it was something I should be getting paid for until I was **15**.
 
-Approximately **three decades of hands-on construction and industrial practice**, counting formative early construction experience and later documented employment, rather than claiming three decades of salaried roles. I have worked with buildings, metalwork, equipment, machinery, maintenance, fluid-power systems, electrical troubleshooting, field installation, production people and budgets. I also study across disciplines and develop physical and computational research systems.
+That meant real work from **the dirt up**: clearing and preparing sites, excavation and grading, foundations and concrete, wood framing, roofing, plumbing, residential electrical work, HVAC, interior and exterior finishing, repairs, and the multitude of small problems that appear between blueprints and a finished home. I learned to use tools, materials, measurements, and judgment because the work had to get done. That residential-construction foundation is part of my actual working life—not a passing childhood hobby.
 
-**Location:** Northeast Arkansas, USA  
-**Professional inquiries:** [admin@khaotic.ai](mailto:admin@khaotic.ai?subject=Engineering%20or%20Research%20Inquiry)  
-**Work photos:** [Industrial and construction portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)  
-**Research:** [Khaotic.ai](https://khaotic.ai/) / [Historical Atlas](https://khaotic.ai/atlas/)
+I carried that approach into industrial construction, power-generation environments, heavy machinery, steel and pipe fabrication, maintenance, vehicles, equipment operation, and team leadership. I became the person who could **step into a job, understand the whole problem, coordinate the trades, and get into the work himself**. My documented industrial job titles repeatedly say **Lead**, and later **Foreman**. Those weren't ornamental labels; they reflected responsibility for troubleshooting, field execution, people, safety, and completing jobs.
 
-## Work history
+**Career span:** approximately three decades of hands-on building, mechanical work, industrial troubleshooting, leadership, and self-directed technical development, beginning in childhood.
 
-### Formative construction | Amidon Construction | Childhood and early years
+## Professional experience
 
-I grew up learning with a hammer in my hands, including around a decade of residential construction and related work involving **wood, dirt/site preparation, foundations, framing and house-building**. This early experience shaped my practical approach to problem solving: learn the tools, understand the material, follow the sequence, finish what you start, and own the results.
+### House construction and Amidon Construction | Childhood through approximately age 17
 
-**Evidence boundary:** This is my first-person account of an early-life experience. It is deliberately not assigned a precise employment date, formal title, licensed status or payroll classification.
+**Residential work with my father, a residential contractor.**
 
-### Lead Millwright / Fabricator | Systems LLC | June 2006 - November 2014
+- Built and repaired houses from site preparation and foundations through framing, roofing, systems, and finish work.
+- Worked with excavation, grading, dirt work, concrete, wood framing, structural components, plumbing, residential wiring, HVAC-related tasks, roofing, carpentry, and repairs.
+- Learned to read the site and the job, use machinery and tools, manage material, work across trades, adapt plans, and solve problems without needing a separate specialist for every step.
+- Developed a lifelong habit of taking responsibility for what needs doing rather than limiting myself to a narrow job description.
 
-- Fabricated and installed industrial piping systems, including screw pipe, socket-weld pipe and stainless-steel tubing; threaded pipe with dedicated machinery.
-- Prepared and erected structural steel, including torque and bolt-up connections, and fabricated fitted assemblies from drawings and work orders.
-- Clamped, tack-welded, repaired and reworked metal components; removed unacceptable welds and corrected fit-up.
-- Worked at heights and in confined spaces under job-specific safety requirements, including lockout/tagout, fall protection and protective equipment.
-- Mentored crews, accepted additional responsibility, coordinated field work, and maintained machinery through lubrication, inspection and basic repairs.
+### Systems LLC | June 2006 – November 2014
+**Lead Millwright / Fabricator**
 
-### Lead Millwright / Fabricator | Arkansas Mechanical | November 2014 - August 2020
+- Fabricated, assembled, installed, and maintained industrial pipe systems: threaded, screwed, socket-welded, high-pressure and stainless-steel work.
+- Erected structural steel, prepared torque/bolt-up connections, laid out jobs from prints and work orders, welded and reworked metal assemblies.
+- Worked at heights and in confined spaces, handled field installations and plant maintenance, and used lockout/tagout and jobsite safety controls.
+- Trained team members, took on additional responsibility, supported crews, and solved fit-up, maintenance, fabrication, and schedule problems on active projects.
 
-- Installed and aligned stationary machinery and equipment from drawings and layouts; worked around turbines, compressors, industrial piping and production machinery.
-- Inspected machinery for defects, adjusted clearances and moving parts, balanced new equipment, and carried out preventive maintenance.
-- Performed fabrication, welding, pipe fitting, carpentry, electrical repair and building-maintenance duties within broader field operations.
-- Coordinated schedules and assignments, inspected incoming materials, helped train personnel and worked directly with customers.
-- Used a wide variety of shop and field tools, including cutting, drilling, grinding, lifting and measuring equipment.
+### Arkansas Mechanical | November 2014 – August 2020
+**Lead Millwright / Fabricator**
 
-### Lead Mechanical Maintenance Specialist | Atlas Tube | September 2020 - February 2023
+- Installed, aligned, balanced, adjusted, inspected, repaired, and maintained large industrial machines, including work around turbines, compressors, piping, and stationary plant equipment.
+- Worked from plans and measurements: layout, mounting, clearances, couplings, welding, fabrication, mechanical repairs, electrical repairs, carpentry, and related field work.
+- Operated and coordinated lifting, drilling, cutting, measuring, grinding, and maintenance equipment.
+- Led crews and assignments, trained personnel, worked with customers, monitored materials, and coordinated schedules and practical delivery.
 
-- Performed scheduled inspections and preventive maintenance to reduce disruption to plant operations.
-- Diagnosed and repaired industrial machinery, including mechanical, hydraulic and PLC-controlled systems; traced interactions between electrical, mechanical and control faults.
-- Replaced machine parts, adjusted tolerances and alignments, installed stationary industrial equipment and executed work from technical drawings.
-- Completed electrical repair, pipe fitting, welding, carpentry, painting and building repairs as needed.
-- Supported maintenance workflow, trained personnel, prioritized safe work and coordinated around production demands.
+### Atlas Tube | September 2020 – February 2023
+**Lead Mechanical Maintenance Specialist**
 
-### Shop Foreman | Counts Brothers | 2023 - 2025
+- Diagnosed and repaired production equipment across **mechanical, hydraulic, electrical, and PLC-controlled systems**.
+- Performed preventive maintenance, inspection, mechanical alignment and balancing, part replacement, machine installation, and production troubleshooting.
+- Handled welding, pipe fitting, carpentry, electrical repairs, equipment and building repair, and whatever else the plant needed to keep operating.
+- Organized work, assessed crew capabilities, assigned tasks, trained people, and responded to faults while protecting production and safety.
 
-- Directed day-to-day shop operations and personnel assignments, trained team members, and coordinated production scheduling and workload.
-- Organized workflows around material, equipment, quality, safety and delivery requirements.
-- Managed budgets and schedules, client communications, and the practical work of moving jobs from planning to execution.
-- Helped crews diagnose operational problems, improve work methods and maintain consistent delivery.
+### Counts Brothers | 2023 – 2025
+**Shop Foreman**
 
-### Founder / Research Architect | Khaotic Gaming LLC, Khaotic.ai and RPL | 2022 - present
+- Ran daily shop operations, crews, task assignments, material and equipment coordination, production schedules, and workloads.
+- Trained personnel, diagnosed shop and project problems, improved work strategies, and upheld quality and safety.
+- Handled scheduling, budgets, client communication, workflow, and delivery—not simply oversight from an office.
 
-- Brought a lifelong gaming interest together with practical engineering, geospatial computing, XR concepts, AI and independent scientific investigation.
-- Originated and directed BHUAT and the Five-Field Recursion Engine (5FRE) as mathematical/computational research, including numerical experiments and reproducibility studies.
-- Directed LEVI's physical/native computing research and related software, firmware, source control and continuity systems.
-- Built a connected development program incorporating source custody (KEEL), typed controls (Helm), scoped work (Adaptive Fabric), modular designs (OMMI) and public interactive worlds.
-- Used AI models for research acceleration and engineering work while retaining human responsibility for hypotheses, actions, interpretations and release decisions.
+### Khaotic Gaming LLC · Khaotic.ai · Recursive Physics Lab | 2022 – present
+**Founder · Inventor · Principal Investigator · Systems Architect**
 
-**Period note:** Founder and research work overlaps the last industrial roles; these are not sequential full-time claims.
+- Founded a business that joins decades of hands-on building with lifelong gaming, original mathematics, software, AI, native hardware, and interactive-world development.
+- Originated and direct the Britt–Howard Unified Aetheric Theory (BHUAT) and Five-Field Recursion Engine (5FRE) research program.
+- Lead physical and computational development around LEVI, OMMI, KEEL, Adaptive Fabric, Helm, and related systems.
+- Investigate complex and hybrid dynamics, recursive bodies, nested holarchies, developmental computation, organogenesis, native languages, experimental cryptography, and embodied AI.
+- Work across business management, product development, interdisciplinary collaboration, investigation, documentation, and actual machine testing.
 
-## Technical skills by discipline
-
-| Domain | Demonstrated work or stated practical experience |
-| --- | --- |
-| **Residential construction** | Site/ground preparation, concrete and foundations, framing, woodwork, roofing, plumbing, HVAC, building systems and finishing. |
-| **Equipment operation** | Large and small construction/industrial equipment; forklifts, cranes and shop machinery in work environments. Specific operating licenses are not claimed here. |
-| **Industrial mechanical** | Millwrighting, machinery layout, precision installation, alignment, balancing, fitting, clearances, mechanical repair and preventive maintenance. |
-| **Metalwork and welding** | Structural fabrication, welding and rework, pipe-threading, fitting, steel and stainless tubing, large assemblies, working from drawings and specifications. |
-| **Hydraulics / pneumatics** | Industrial fluid-power equipment, control/actuation troubleshooting, mechanical integration and maintenance. |
-| **Electrical / controls** | AC/DC principles, industrial electrical troubleshooting, wiring and repair, PLC-related fault-finding and electromechanical integration. |
-| **Power and production sites** | Work in industrial and power-generation environments, including machinery, turbines, compressors, piping and field maintenance. |
-| **Vehicles and engines** | Automotive, truck and small-engine mechanical experience; specialized diesel work is less extensive. |
-| **Shop and project leadership** | Scheduling, workflows, budgets, customers, personnel, safety, materials, production response and mentoring. |
-| **Computing and AI** | Linux/UEFI, AI-assisted Python/Rust work, Git/CI, firmware, CPU/GPU experiments, protocols, software architecture and debugging. |
-| **Research** | Nonlinear dynamics, mathematical models, exact and floating-point comparisons, scientific experimentation, lineage and evidence management. |
-
-### Working with unfamiliar systems
-
-I am comfortable moving between systems that share little vocabulary but many underlying principles. I use questions, drawings, observable behavior, measurements, documentation and tests to understand a system. **I can enter a new environment prepared to learn, rather than pretending to arrive as a specialist in every domain.**
-
-I have broad familiarity and long-running independent study in physics, biology, chemistry, mathematics, electronics, robotics, psychology and other subjects. That breadth is distinct from advanced licensed or formally accredited practice. **High-voltage electrical systems, specialized diesel work and advanced robotics are not represented as established specialties.**
-
-## Education and additional service
-
-- **Gosnell High School:** High School Diploma, 2001, according to the historical resume.
-- **ITT Technical Institute, Memphis:** Drafting Technology coursework; later portfolio records that the associate program was **unfinished**. No completed associate degree is claimed.
 [REDACTED - PRIVATE HISTORY]
-- **Certifications:** Historical portfolios mention OSHA, welding and first-responder/fire-safety training but label certificates as requiring updates. This page makes **no claim of current active credentials**.
+[REDACTED - PRIVATE HISTORY]
 
-## Research-to-industry transfer: why my career matters
+[REDACTED - PRIVATE HISTORY]
 
-| What I learned in the field | How I apply it in the lab |
+## Full field capability: more than a job title
+
+My work has never fit into one trade. These are **working disciplines and job environments**, not a finite list of everything I have ever done.
+
+| Area | Work across my career |
 | --- | --- |
-| Steel, tolerances, fit-up and the cost of mistakes | Explicit interfaces, reproducible inputs and tests with declared acceptance criteria. |
-| Hydraulic, pneumatic and electrical control chains | Distinguishing commands, observed actuation, feedback, faults and actual machine state. |
-| Manufacturing downtime and preventive maintenance | Telemetry, dependency mapping, failure isolation and recovery that does not erase evidence. |
-| Lockout/tagout and one-way physical actions | Guarded execution, no-retry decisions, authenticated control and bounded release. |
-| Work orders, drawings and field notes | Source histories, audits, data lineage, controlled documentation and checkable claims. |
-| Foreman responsibility for production and people | Coordinating cross-disciplinary work, assigning bounded tasks, reviewing results and taking ownership of decisions. |
+| **House building, start to finish** | Dirt and sitework; foundations; concrete; wood framing; roofs; siding and finish; plumbing; electrical; HVAC; repairs and renovations. |
+| **Heavy and small equipment** | Large and small construction/industrial equipment, forklifts, cranes, lifting and shop equipment, machine tools and field machinery. |
+| **Civil and infrastructure** | Road and bridge work, asphalt and concrete, structural and load-bearing construction, waterway and barge repair work. |
+| **Industrial plants and power generation** | Turbines, compressors, boilers, conveyors, cooling towers, filtration and water-treatment equipment; coal and natural-gas plant environments. |
+| **Millwrighting** | Machinery installation, precision alignment, coupling, balancing, layout, fit-up, adjustment, clearances, moving components and mechanical troubleshooting. |
+| **Metalwork** | Structural steel, fabrication, welding, cutting, grinding, repairs, rework, complex assemblies and stainless-steel work. |
+| **Pipe and pressure systems** | Pipe fitting, threading, socket welding, high-pressure systems, stainless tubing, installation, leak diagnosis and pressure testing. |
+| **Hydraulics and pneumatics** | Fluid-power equipment, actuation, pressure and motion systems, fault diagnosis, repair and maintenance. |
+| **Electrical and controls** | Residential and industrial electrical work, AC/DC, wiring, fault tracing, controls, PLC-linked machines and electromechanical interactions. |
+| **Vehicles and engines** | Cars, trucks, automotive repairs, small engines, mechanical diagnostics, rebuilding, and auto-body finishing and paint. |
+| **Plant maintenance** | Preventive and corrective maintenance, breakdown response, lubrication, inspections, machine condition, replacement and operational continuity. |
+| **Drawings and design** | Blueprints, drafting, technical interpretation, measurement, CAD, layout, fabrication plans and 3D tools. |
+| **Production and business leadership** | Lead-man and foreman duties; crews, training, job planning, schedules, budgets, customer relationships, quality, materials and execution. |
+| **Safety and emergency work** | Lockout/tagout, work at height, confined spaces, fire/damage control, plant safety and emergency training. |
+| **Computing and invention** | Python and Rust-assisted engineering, Linux and UEFI, firmware, CPU/GPU experiment design, AI systems, mathematics, physical computing and research programs. |
 
-## Evidence, not embellishment
+**[Explore the expanded hands-on capability atlas](CAPABILITIES.md)** — construction, civil, heavy equipment, power generation, machining, welding, industrial controls, automotive, business, computing and creative work.
 
-This page combines: (1) first-person early-life and knowledge background provided by Steven Ray Britt; (2) his **2023 resume**; (3) his extended professional expertise portfolio; and (4) the **2026 research CV**. It is a professional portfolio, not a third-party employment verification, credential registry, safety audit or endorsement by named employers.
+## The way I work
 
-**I do not present experience as licensure, an unfinished degree as a completed degree, a filed invention as a granted patent, or a prototype as a deployed product.**
+I'm a **working generalist and a lifelong autodidact**. Give me a problem and I'll determine what it is, what matters, who knows the parts I don't, what the machine or job is actually doing, and how to build a path to a result. I can study the drawing, run the equipment, troubleshoot the failure, get my hands dirty, direct the crew, and explain the work to the customer.
 
-[Back to front door](../README.md) | [Research method](METHOD.md) | [Research evidence](EVIDENCE.md) | [Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt)
+I'm a knowledge glutton. My independent studies extend across biology, physics, mathematics, chemistry, mechanics, electricity, materials, computing, AI, languages, philosophy, psychology and business. I tend to lean into the areas where my understanding has the most room to grow.
+
+That ability to **learn, reason, investigate and execute across disciplines** is the thread connecting the house-building years to industrial leadership and to the research I direct today.
+
+## Education and related preparation
+
+- **Gosnell High School**, high-school diploma (2001).
+- **ITT Technical Institute, Memphis**, Drafting Technology coursework (associate program unfinished).
+- Practical, self-directed technical education across construction, industrial machinery, field operation, computing and scientific research.
+- Historical training in safety, welding, first response and fire protection.
+- Longtime gamer, creator and researcher; interested in mechanics, simulations, game systems, interactive worlds, and scientific questions.
+
+## What I bring
+
+**Hands-on execution. Cross-trade troubleshooting. Leadership under pressure. A builder's understanding of real machines. Business and people skills. The curiosity and discipline to learn unfamiliar fields. Original inventions and a continuing research program.**
+
+That is the complete professional story behind Khaotic Gaming and Recursive Physics Lab. I was building long before I started putting equations into code—and I have not stopped.
+
+**[Industrial work photographs](https://stevenbritt7117.wixsite.com/stevenbritt)** · **[Research portfolio](RESEARCH.md)** · **[Complete capabilities](CAPABILITIES.md)** · **[GitHub profile](../README.md)** · **[Email](mailto:admin@khaotic.ai)**
+
+<sub>Career history drawn from my 2023 employment résumé, extended professional expertise portfolio, 2026 research CV, and firsthand account of work with my father. This public page is a professional summary rather than a reproduction of personal contact records.</sub>
