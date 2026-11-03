@@ -23,14 +23,16 @@
 
 <br/>
 
-<a href="./field-notes/ENGINEERING.md"><img alt="Engineering career" src="https://img.shields.io/badge/CAREER-ENGINEERING_RESUME-36DCCB?style=for-the-badge&amp;labelColor=122338" /></a>
-<a href="./field-notes/CAPABILITIES.md"><img alt="Full capabilities" src="https://img.shields.io/badge/EXPLORE-FULL_SKILL_ATLAS-E9B970?style=for-the-badge&amp;labelColor=122338" /></a>
-<a href="./field-notes/RESEARCH_ACCESS.md"><img alt="Protected research and intellectual property" src="https://img.shields.io/badge/RESEARCH-PROTECTED_IP-EDBF82?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/MINIMUM_FIVE.md"><img alt="Minimum Five fundamental mathematics" src="https://img.shields.io/badge/FOUNDATION-MINIMUM_FIVE-46C9ED?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="mailto:admin@khaotic.ai?subject=Build%20Together"><img alt="Contact for collaboration" src="https://img.shields.io/badge/CONNECT-BUILD_TOGETHER-70C9F0?style=for-the-badge&amp;labelColor=122338" /></a>
 
+<br/>
+
+<a href="./field-notes/ENGINEERING.md"><img alt="Engineering career" src="https://img.shields.io/badge/CAREER-ENGINEERING_RESUME-36DCCB?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/CAPABILITIES.md"><img alt="Full capabilities" src="https://img.shields.io/badge/EXPLORE-FULL_SKILL_ATLAS-E9B970?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/RESEARCH_ACCESS.md"><img alt="Protected research and intellectual property" src="https://img.shields.io/badge/RESEARCH-PROTECTED_IP-EDBF82?style=for-the-badge&amp;labelColor=122338" /></a>
 <br/><br/>
 
 <img src="./assets/khaotic-foundation-console.svg" width="100%" alt="Nearly 30 years building, four documented industrial lead and foreman positions, fourteen research families and two US patent filings." />
