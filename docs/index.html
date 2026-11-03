@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#071421">
+<meta name="description" content="LEVI / The Body Comes First. Explore Steven Ray Britt's physical recursive-body research: authentic hardware, five-field simulation, evidence, developmental continuity and independent benchmark design.">
+<meta property="og:title" content="LEVI — The Body Comes First | Khaotic Research">
+<meta property="og:description" content="A real native computing chassis. A new computational-body research architecture. Investigate the mathematics, evidence and experimental frontier.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://raw.githubusercontent.com/K-haotic/K-haotic/main/assets/levi-native-operator-2026-11.jpg">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b2234'/%3E%3Ctext x='32' y='47' text-anchor='middle' font-size='42' font-family='Arial' font-weight='bold' fill='%233ce3da'%3E%CE%9B%3C/text%3E%3C/svg%3E">
+<title>LEVI — The Body Comes First | Recursive Physics Lab</title>
+<style>
+:root{color-scheme:dark;--bg:#07121e;--panel:#0e2031;--panel2:#13263b;--line:#2b5068;--fg:#ecf7fb;--muted:#a0b8c6;--aqua:#4be7da;--blue:#7bcffc;--violet:#c0a1ff;--gold:#eec17b;--mint:#86e2b1;--red:#f5a7a0;--radius:22px}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(ellipse at 50% 0,#152a44,#07121e 42%);color:var(--fg);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;overflow-x:hidden}
+a{color:var(--aqua);text-underline-offset:3px}
+a:hover{color:#fff}
+button,select,input{font:inherit}
+button{cursor:pointer}
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:4px}
+.skip{position:absolute;top:-100px;left:20px;padding:12px;background:#fff;color:#000;z-index:40}.skip:focus{top:20px}
+nav{position:sticky;top:0;z-index:20;background:#071421eb;border-bottom:1px solid #21425b;backdrop-filter:blur(18px)}
+.navin{max-width:1250px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 24px;flex-wrap:wrap}
+.brand{font-weight:900;font-size:20px;letter-spacing:.15em;text-decoration:none;color:#fff}.brand span{color:var(--aqua)}
+.navlinks{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+.navlinks a{font-size:13px;color:#c5dae6;text-decoration:none;font-weight:720;letter-spacing:.04em}
+.navlinks a:hover{color:var(--aqua)}
+.shell{width:min(1200px,calc(100% - 38px));margin:auto}
+.hero{position:relative;min-height:680px;overflow:hidden;border-bottom:1px solid #2f5166}
+.hero:before{content:"";position:absolute;inset:0;background:linear-gradient(95deg,#071421 4%,#071421e0 43%,#0714218c 78%,#071421ac),url("https://raw.githubusercontent.com/K-haotic/K-haotic/main/assets/levi-native-operator-2026-11.jpg") center right/cover no-repeat;filter:saturate(.88)}
+.hero:after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,transparent 0,transparent 45px,#5ef0ef0b 46px,#5ef0ef0b 47px),repeating-linear-gradient(90deg,transparent 0,transparent 59px,#5ef0ef08 60px,#5ef0ef08 61px);pointer-events:none}
+.aurora{position:absolute;inset:0;background:radial-gradient(ellipse at 76% 58%,#2fc6bc26,transparent 40%);animation:breath 9s ease-in-out infinite;pointer-events:none}
+@keyframes breath{50%{opacity:.35}}
+.hero .shell{position:relative;z-index:2;padding:98px 0 76px}
+.pill{display:inline-flex;align-items:center;gap:10px;padding:7px 13px;border:1px solid #3b8794;border-radius:99px;color:#90ebe8;background:#102c3b;font-size:12px;font-weight:800;letter-spacing:.14em}
+.dot{width:9px;height:9px;background:var(--aqua);border-radius:50%;box-shadow:0 0 17px var(--aqua);animation:breath 3s ease-in-out infinite}
+h1,h2,h3,p{margin-top:0}
+h1{font-size:clamp(65px,12vw,152px);letter-spacing:-.08em;line-height:.92;margin:30px 0 13px;text-shadow:0 0 55px #2eaecc22}
+h1 span{display:block;color:var(--aqua)}
+.hero h2{font-size:clamp(21px,3.3vw,39px);letter-spacing:-.03em;margin:14px 0 16px;max-width:700px}
+.lead{font-size:clamp(17px,2vw,21px);color:#c4dbe5;max-width:670px}
+.actions{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 17px;border:1px solid #3f8392;border-radius:11px;background:#174252;color:#e9fffe;font-weight:800;text-decoration:none;line-height:1.2}
+.btn:hover{background:#246277;color:#fff}
+.btn.alt{background:#201b36;border-color:#755e9b;color:#e8ddff}
+.btn.gold{background:#45341e;border-color:#9b7845;color:#ffead1}
+.btn.ghost{background:#112233be;border-color:#45647b;color:#eaf7ff}
+.micro{font-size:12px;color:#b1c3cd;letter-spacing:.04em}
+.hero-bottom{position:relative;z-index:3;background:#0b1b2bd9;border:1px solid #2c4f66;border-radius:16px;padding:14px 19px;margin-top:64px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;max-width:920px}
+.hero-bottom strong{color:var(--mint)}
+section{padding:80px 0;scroll-margin-top:72px}
+.kicker{font-weight:800;font-size:12px;letter-spacing:.20em;color:var(--aqua);text-transform:uppercase;margin:0 0 10px}
+h2.section-title{font-size:clamp(32px,5vw,56px);line-height:1.13;letter-spacing:-.05em;margin-bottom:18px}
+.section-intro{max-width:820px;color:#bfd1dc;font-size:17px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.panel{background:linear-gradient(144deg,#10263a,#101a2c);border:1px solid #2e5067;border-radius:var(--radius);padding:26px}
+.panel h3{margin-bottom:8px;font-size:22px}
+.panel p{color:#b7ccda}
+.label{font-weight:850;font-size:12px;letter-spacing:.12em;color:var(--gold)}
+.quote{border-left:4px solid var(--aqua);padding:6px 20px;margin:32px 0;color:#e9f4fa;font-size:21px;max-width:970px;font-weight:620}
+.statbar{display:grid;grid-template-columns:repeat(4,1fr);gap:11px;margin:24px 0 0}
+.stat{padding:21px;border:1px solid #345569;border-radius:17px;background:#102535}
+.stat b{display:block;font-size:39px;line-height:1.2;color:var(--aqua)}
+.stat span{display:block;font-size:12px;color:#aac0ce;letter-spacing:.07em}
+.frames{display:grid;grid-template-columns:1.2fr .8fr;gap:24px;align-items:stretch}
+.stage{min-height:390px;border:1px solid #37667b;border-radius:20px;overflow:hidden;background:#071421;position:relative}
+.stage:before{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#071421f6,#0714214f 65%),url("https://raw.githubusercontent.com/K-haotic/K-haotic/main/assets/levi-native-operator-2026-11.jpg") center/cover no-repeat;filter:saturate(.88);opacity:.9}
+.stage .overlay{position:absolute;inset:0;z-index:1;padding:30px;display:flex;flex-direction:column;justify-content:flex-end}
+.stage .chapter{font-size:12px;color:var(--aqua);font-weight:800;letter-spacing:.18em}
+.stage .frame-title{font-size:34px;line-height:1.12;font-weight:850;max-width:560px;transition:opacity .4s}
+.stage .frame-note{max-width:550px;color:#c0d4dc}
+.stage .scan{position:absolute;z-index:1;left:0;right:0;top:30%;height:2px;background:#54ebf855;box-shadow:0 0 25px #39ebf8;animation:scan 8s linear infinite}
+@keyframes scan{0%{transform:translateY(-130px)}50%{transform:translateY(250px)}100%{transform:translateY(-130px)}}
+.trace{display:grid;gap:9px;margin-top:19px}
+.trace span{background:#122d40;border-left:3px solid #3adbd6;padding:9px 14px;color:#c0dbe6;font-size:13px}
+.badge{display:inline-block;font-size:11px;font-weight:900;border-radius:99px;padding:5px 11px;letter-spacing:.06em;white-space:nowrap}
+.badge.recorded{color:#89ead0;border:1px solid #238e7c;background:#0b3835}
+.badge.frontier{color:#ffe0ad;border:1px solid #927344;background:#3c2f21}
+.badge.proposed{color:#d5bdff;border:1px solid #745ca5;background:#2e2444}
+.bench{border:1px solid #3b5369;background:linear-gradient(145deg,#111e34,#111a29);border-radius:20px;padding:24px}
+.filters{display:flex;flex-wrap:wrap;gap:9px;margin:19px 0}
+.filter{border:1px solid #3a627a;background:#102a3b;color:#ccdee9;border-radius:99px;padding:8px 14px;font-weight:750;font-size:13px}
+.filter[aria-pressed="true"]{border-color:var(--aqua);background:#194e51;color:#fff}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.evidence{background:linear-gradient(145deg,#112438,#0d1c2d);padding:22px;border:1px solid #30526a;border-radius:17px;display:flex;flex-direction:column;gap:12px}
+.evidence h3{font-size:20px;margin:0}.evidence .meta{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.evidence .meta time{font-size:12px;color:#90acbe}
+.evidence p{color:#b5ccda;flex:1;margin:0}
+.evidence small{color:#93b1c3}
+.evidence a{font-size:13px}
+.evidence[hidden]{display:none}
+.lab{border-radius:21px;background:linear-gradient(140deg,#0c2339,#1b1e38);border:1px solid #3d607b;padding:28px;box-shadow:0 26px 50px #0003}
+.lab-grid{display:grid;grid-template-columns:2fr 1fr;gap:24px}
+.canvas-wrap{position:relative;min-height:340px;background:#071727;border:1px solid #32516a;border-radius:15px;padding:12px;overflow:hidden}
+canvas{display:block;width:100%;height:330px}
+.controls{display:grid;gap:16px}
+.control label{font-size:13px;color:#c9d7e5;font-weight:750;display:flex;justify-content:space-between;margin-bottom:6px}
+.control output{font-family:ui-monospace,monospace;color:var(--aqua)}
+.control input[type=range]{width:100%;accent-color:#52e8e0}
+.values{display:grid;grid-template-columns:repeat(5,1fr);gap:9px;margin-top:15px}
+.values div{border:1px solid #304c61;border-radius:12px;background:#10253a;padding:12px;min-width:0}
+.values strong{font-size:23px;font-family:ui-monospace,monospace;display:block;overflow-wrap:anywhere}
+.values span{font-size:13px;color:#a5bfd0}
+.note{background:#3b3022;border:1px solid #b18c52;color:#f3dfc1;padding:14px 16px;border-radius:13px;font-size:14px;margin-top:18px}
+.metric{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:17px}
+.metric div{border:1px solid #36546b;padding:15px;border-radius:14px;background:#12263a}
+.metric b{display:block;font-size:20px;color:#e8f2ff}.metric small{color:#99b6c9}
+.formgrid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+.formgrid label{font-size:13px;color:#bad0dd;display:block;font-weight:800}
+.formgrid select,.formgrid input{width:100%;border:1px solid #42667d;background:#101f31;color:#f7fdff;border-radius:11px;padding:13px;margin-top:6px}
+.formgrid select option{color:#fff;background:#101f31}
+.inline-code{font-family:ui-monospace,Consolas,monospace;border:1px solid #3e6076;border-radius:11px;background:#0c1a2a;padding:17px;overflow-wrap:anywhere;color:#d5e5f0}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:17px}
+.step{padding:22px;border:1px solid #35566f;border-radius:18px;background:#102238}
+.step em{display:block;color:var(--aqua);font-style:normal;font-size:13px;font-weight:850;letter-spacing:.12em;margin-bottom:12px}
+.step h3{font-size:20px}
+.step p{color:#b5cedb;font-size:14px}
+footer{border-top:1px solid #2f536c;padding:38px 0;background:#081724;color:#a6c0d0}
+footer .foot{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;align-items:center}
+footer strong{color:#e7f9fc}
+.screen-reader{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:900px){.row,.frames,.lab-grid{grid-template-columns:1fr}.cards{grid-template-columns:repeat(2,1fr)}.statbar{grid-template-columns:repeat(2,1fr)}.hero{min-height:auto}.hero:before{background:linear-gradient(90deg,#071421 5%,#071421b8 100%),url("https://raw.githubusercontent.com/K-haotic/K-haotic/main/assets/levi-native-operator-2026-11.jpg") center/cover no-repeat}.hero .shell{padding:75px 0 48px}}
+@media(max-width:620px){section{padding:55px 0}.navlinks{gap:9px}.navlinks a{font-size:11px}.cards,.steps,.formgrid{grid-template-columns:1fr}.values{grid-template-columns:repeat(3,1fr)}.statbar{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:76px}.hero-bottom{margin-top:28px}.stage{min-height:440px}.lab{padding:17px}.metric{grid-template-columns:1fr}.frame-title{font-size:26px!important}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to the research</a>
+<nav aria-label="Primary navigation">
+<div class="navin">
+<a class="brand" href="#top">KHAOTIC<span> / LEVI</span></a>
+<div class="navlinks">
+<a href="#origin">Thesis</a><a href="#media">Chassis</a><a href="#evidence">Evidence</a><a href="#lab">5FRE Lab</a><a href="#benchmarks">Benchmark</a><a href="#openlab">Open Lab</a>
+</div>
+</div>
+</nav>
+<header class="hero" id="top">
+<div class="aurora" aria-hidden="true"></div>
+<div class="shell">
+<div class="pill"><span class="dot" aria-hidden="true"></span> RPLΩ / PHYSICAL COMPUTATIONAL BODY RESEARCH</div>
+<h1>LE<span>VI.</span></h1>
+<h2>THE BODY COMES FIRST.</h2>
+<p class="lead">A real experimental chassis. A five-field recursive constitution. A research program investigating persistent identity, learned development, accountable self-maintenance and measurable physical effects.</p>
+<div class="actions">
+<a class="btn" href="#media">Meet the chassis &darr;</a>
+<a class="btn alt" href="#lab">Explore the equations &rarr;</a>
+<a class="btn gold" href="#openlab">Challenge the research &rarr;</a>
+</div>
+<div class="micro">Original research by Steven Ray Britt / Mr Khaotic · Khaotic Gaming LLC · Recursive Physics Lab</div>
+<div class="hero-bottom">
+<span><strong>REAL CHASSIS PHOTO</strong> / November 2026</span>
+<span>Evidence reviewed <b>2026-11-03</b></span>
+<span>Current comparative status: <b>NOT RUN</b></span>
+</div>
+</div>
+</header>
+<main id="main">
+<section id="origin">
+<div class="shell">
+<p class="kicker">01 / The thesis</p>
+<h2 class="section-title">Not another chatbot.<br>Not a finished label.</h2>
+<p class="section-intro">The research begins with an inversion: the computational body is primary. A model, neural network, GPU kernel or tool can be a specialist inside it without becoming the owner of its history, constraints, source lineage or continuing identity.</p>
+<div class="quote">“Let the realized behavior and independent evidence tell us what LEVI becomes.”</div>
+<div class="row">
+<div class="panel"><div class="label">CONSTITUTIVE BODY LAW</div><h3>Five interacting fields</h3><p>ϕ emergence · τ structure/cadence · ψ memory · χ context/coherence · Λ pressure/regulation. The registered model is a nonlinear ordered recurrence with separate hybrid event and viability research.</p><a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/COMPLEX_SYSTEMS.md">Mathematical research &rarr;</a></div>
+<div class="panel"><div class="label">LIFTED IDENTITY</div><h3>Z = (X, H, C, E)</h3><p>Not merely today’s vector. The proposed body includes operational state, retained history, context and append-only evidence. The experimental question is whether that architecture supports durable, useful development.</p><a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI.md">Read the full architecture &rarr;</a></div>
+</div>
+<div class="statbar" aria-label="Recorded milestones and program breadth">
+<div class="stat"><b>16</b><span>PHYSICAL GPU PTX LAUNCHES / TESTED CAMPAIGN</span></div>
+<div class="stat"><b>16</b><span>AUTHENTICATED NATIVE SMP CORES / RECORDED BOOT</span></div>
+<div class="stat"><b>5/5</b><span>N9 NATIVE CPU JOBS / RECORDED EPOCH</span></div>
+<div class="stat"><b>0</b><span>PUBLISHED LEVI-VS-BASELINE SCORES / NOT RUN</span></div>
+</div>
+</div>
+</section>
+<section id="media" style="background:#091a2c;border-top:1px solid #214458;border-bottom:1px solid #214458">
+<div class="shell">
+<p class="kicker">02 / Authentic chassis / motion story</p>
+<h2 class="section-title">Steel, silicon and the experiment.</h2>
+<p class="section-intro">This illustrated sequence animates a real LEVI chassis photograph and dated research captions. <strong>It is not live video footage or a real-time hardware feed.</strong> Actual filmed demonstrations can replace the illustrated sequence when approved footage is available.</p>
+<div class="frames">
+<div class="stage" aria-label="Illustrated LEVI chassis sequence using a genuine November 2026 photograph">
+<div class="scan" aria-hidden="true"></div>
+<div class="overlay"><span class="chapter" id="frameIndex">CHAPTER 01 / THE CHASSIS</span><div class="frame-title" id="frameTitle">A real machine. A serious question.</div><p class="frame-note" id="frameNote">Actual LEVI hardware, photographed November 2026.</p></div>
+</div>
+<div class="panel">
+<div class="label">OPENING SEQUENCE</div><h3>LEVI / Research film treatment</h3>
+<p>Four verified narrative beats. Animated graphics guide the story; every named hardware achievement remains attached to its own recorded experiment.</p>
+<div class="actions">
+<button class="btn" id="playStory" type="button">Play illustrated story</button>
+<button class="btn ghost" id="nextStory" type="button">Next frame</button>
+</div>
+<div class="trace"><span>01 · Real experimental chassis</span><span>02 · Authenticated native CPU/SMP milestones</span><span>03 · Linux GPU numerical conformance</span><span>04 · Developmental continuity: next frontier</span></div>
+<p class="micro" id="storyStatus" role="status" aria-live="polite">Standing on frame 1 of 4.</p>
+<a href="https://github.com/K-haotic/K-haotic/blob/main/docs/MEDIA_CAPTURE.md">Footage capture and release plan &rarr;</a>
+</div>
+</div>
+</div>
+</section>
+<section id="evidence">
+<div class="shell">
+<p class="kicker">03 / Dated proof ledger</p><h2 class="section-title">Receipts before reputation.</h2>
+<p class="section-intro">Recorded numerical and physical results, unresolved integration gates and experimental proposals occupy different categories. This is a reviewed snapshot—not a claim that the webpage is communicating with the chassis.</p>
+<div class="filters" aria-label="Filter evidence by maturity">
+<button type="button" class="filter" data-filter="all" aria-pressed="true">All entries</button>
+<button type="button" class="filter" data-filter="recorded" aria-pressed="false">Recorded</button>
+<button type="button" class="filter" data-filter="frontier" aria-pressed="false">Active frontier</button>
+<button type="button" class="filter" data-filter="proposed" aria-pressed="false">Proposed</button>
+</div>
+<div class="cards" id="evidenceCards" aria-live="polite"></div>
+<p class="micro" id="filterCount" role="status">Loading dated evidence records…</p>
+<div class="actions"><a class="btn ghost" href="./data/evidence.json">Machine-readable evidence JSON &rarr;</a><a class="btn ghost" href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI_JOURNAL.md">Engineering journal &rarr;</a></div>
+</div>
+</section>
+<section id="lab" style="background:linear-gradient(150deg,#081827,#141c35);border-top:1px solid #24455e;border-bottom:1px solid #24455e">
+<div class="shell">
+<p class="kicker">04 / Interactive computational-body laboratory</p><h2 class="section-title">Touch the five-field recurrence.</h2>
+<p class="section-intro">Change the illustrative parameters and initial conditions of a five-state ordered recurrence. The plot is calculated locally in your browser; it never sends data to the LEVI chassis and does not claim to reproduce a physical experiment.</p>
+<div class="lab">
+<div class="lab-grid">
+<div>
+<div class="canvas-wrap"><canvas id="modelCanvas" role="img" aria-label="Five-field illustrative recurrence plot for emergence, structure, memory, context and regulation over 240 steps">A five-field time-series plot appears here when JavaScript is enabled.</canvas></div>
+<div class="values" id="fieldValues" aria-label="Five-field values at the selected time step"></div>
+</div>
+<div class="controls">
+<div><div class="label">USER-ADJUSTABLE MODEL PARAMETERS</div><p class="micro">Values here are illustrative, not calibrated LEVI physical telemetry.</p></div>
+<div class="control"><label for="parameterA">Nonlinearity a <output id="aRead">1.40</output></label><input id="parameterA" type="range" min="0.80" max="1.90" step="0.05" value="1.40"></div>
+<div class="control"><label for="parameterK">Coupling k₁ <output id="kRead">0.075</output></label><input id="parameterK" type="range" min="0" max="0.15" step="0.005" value="0.075"></div>
+<div class="control"><label for="initialPhi">Initial ϕ <output id="phiRead">0.10</output></label><input id="initialPhi" type="range" min="-0.6" max="0.6" step="0.05" value="0.10"></div>
+<div class="control"><label for="timeStep">Inspect step <output id="timeRead">120</output></label><input id="timeStep" type="range" min="0" max="240" step="1" value="120"></div>
+<div class="actions"><button class="btn ghost" id="resetModel" type="button">Reset lab</button></div>
+</div>
+</div>
+<div class="note"><b>ILLUSTRATIVE NUMERICAL SANDBOX.</b> The update follows the five-field sequential map with example parameters; it omits hybrid guard/vent rules, physical calibration, resource accounting, proof obligations and LEVI’s body history. The plot is not a live LEVI diagnostic or benchmark result.</div>
+[REDACTED - FIELD EQUATION]
+</div>
+</div>
+</section>
+<section id="benchmarks">
+<div class="shell">
+<p class="kicker">05 / No leaderboard theater</p><h2 class="section-title">Define the experiment. Then measure.</h2>
+<p class="section-intro">The research proposes matched comparisons against stateless LLM calls, memory-augmented agents, tool-using systems and adaptive controllers. Here you can generate a preregistration draft. <strong>No LEVI-vs-baseline benchmark scores have been reported in this dashboard.</strong></p>
+<div class="row">
+<div class="bench">
+<div class="label">EXPERIMENT DESIGNER</div><h3>Create a test specification</h3>
+<div class="formgrid">
+<label>Evaluation family<select id="evalFamily"><option value="retention">Long-horizon memory retention</option><option value="continuity">State / identity continuity</option><option value="repair">Self-repair under controlled faults</option><option value="specialization">Learned specialization / organogenesis</option><option value="dynamics">Hybrid dynamics / viability</option><option value="energy">Energy and resource use</option><option value="effects">Verified external task effects</option></select></label>
+<label>Comparator<select id="evalBaseline"><option value="memory_augmented_agent">Memory-augmented agent</option><option value="stateless_llm">Stateless model</option><option value="tool_using_agent">Tool-using agent</option><option value="recurrent_controller">Recurrent / adaptive controller</option><option value="ablation_no_history">LEVI ablation: history disabled</option><option value="ablation_no_regulation">LEVI ablation: regulation disabled</option></select></label>
+<label>Trial count (proposal)<input id="evalTrials" type="number" min="3" max="1000" value="30"></label>
+<label>Substrate<select id="evalSubstrate"><option value="simulation">Simulation / fixed resource budget</option><option value="linux_gpu">Linux GPU / bounded</option><option value="native_levi">Native LEVI / once admitted</option><option value="controlled_physical">Approved physical hardware</option></select></label>
+</div>
+<div class="actions"><button class="btn" id="exportProtocol" type="button">Download preregistration JSON</button><a class="btn ghost" href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI_BENCHMARKS.md">Full benchmark protocol</a></div>
+<p class="micro" id="exportMessage" role="status" aria-live="polite">This only exports a plan; it does not run a benchmark.</p>
+</div>
+<div class="panel">
+<div class="label">PUBLIC COMPARISON STATUS</div><h3>Not yet run</h3><p>No comparative superiority claim is established. We have recorded mathematical, simulation and hardware milestones, while a fair external task/effects study requires commissioned capabilities and controlled evaluation.</p>
+<div class="metric"><div><small>Published baseline trials</small><b>0</b></div><div><small>Verified comparative results</small><b>NONE</b></div></div>
+<div class="trace"><span>Matched compute + tool access</span><span>Preregistered negative controls</span><span>Long-horizon interruption / repair</span><span>Energy, authority and evidence metrics</span><span>Independent review and replication</span></div>
+</div>
+</div>
+</div>
+</section>
+<section id="openlab" style="background:#0c1d2e;border-top:1px solid #2b516c">
+<div class="shell">
+<p class="kicker">06 / Open laboratory</p><h2 class="section-title">Bring the question LEVI can't answer yet.</h2>
+<p class="section-intro">A lifelong builder and autodidact needs more than an enthusiastic room. The lab welcomes external mentors and critical collaborators willing to test assumptions, design falsifiers and improve the work.</p>
+<div class="steps">
+<div class="step"><em>RESEARCH CHALLENGE / 01</em><h3>Formalize the body</h3><p>Nonlinear dynamics, viability, geometric mechanics, thermodynamics, autopoietic conditions, control and formal proof obligations.</p></div>
+<div class="step"><em>ENGINEERING CHALLENGE / 02</em><h3>Close physical gates</h3><p>UEFI, GPU command paths, resource management, trusted I/O, device observers, fault recovery and provenance through generations.</p></div>
+<div class="step"><em>EVALUATION CHALLENGE / 03</em><h3>Try to falsify us</h3><p>Stronger baselines, ablations, independent replication, blinded task suites, resource accounting, comparison after model swaps and genuine observed effects.</p></div>
+</div>
+<div class="quote">“I will be doing this work regardless. Having capable colleagues and mentors would make the science stronger—and make the work more interesting.”</div>
+<div class="actions">
+<a class="btn" href="mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship%20or%20Independent%20Testing">Collaborate with RPLΩ</a>
+<a class="btn alt" href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI_JOURNAL.md">Review the engineering journal</a>
+<a class="btn gold" href="https://github.com/K-haotic">Return to GitHub</a>
+</div>
+<p class="micro">Public source and evidence notes are curated. No secrets, boot tokens or proprietary implementation are required to start a research conversation.</p>
+</div>
+</section>
+</main>
+<footer>
+<div class="shell foot">
+<div><strong>LEVI / RPLΩ / KHAOTIC GAMING</strong><br><span>Steven Ray Britt — Builder · Inventor · Investigator</span></div>
+<div>Research evidence snapshot: <b>2026-11-03</b><br><span>Interactive sandbox, not live hardware telemetry.</span></div>
+<div><a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI.md">Technical dossier</a> · <a href="https://khaotic.ai/atlas/">Historical Atlas</a></div>
+</div>
+</footer>
+<script>
+"use strict";
+(function(){
+const frames=[
+["CHAPTER 01 / PHYSICAL CHASSIS","A real machine. A serious question.","Actual LEVI hardware, photographed November 2026."],
+["CHAPTER 02 / NATIVE CPU","The body boots, executes and leaves evidence.","Recorded boot-specific authenticated SMP16 and five-of-five N9 CPU jobs."],
+["CHAPTER 03 / GPU NUMERICS","Five fields on actual GPU hardware.","Recorded Linux/NVIDIA PTX experiment: 16 launches and bounded CPU agreement."],
+["CHAPTER 04 / DEVELOPMENTAL FRONTIER","Continuity across change is the test.","Native GPU admission, lasting body history and N→N+1→N+2 self-hosting are future proof gates."]
+];
+let frame=0,timer=null;
+const $=id=>document.getElementById(id);
+function drawFrame(){const f=frames[frame];$("frameIndex").textContent=f[0];$("frameTitle").textContent=f[1];$("frameNote").textContent=f[2];$("storyStatus").textContent="Illustrated story frame "+(frame+1)+" of "+frames.length+"."; }
+$("nextStory").addEventListener("click",()=>{frame=(frame+1)%frames.length;drawFrame();});
+$("playStory").addEventListener("click",()=>{if(timer){clearInterval(timer);timer=null;$("playStory").textContent="Play illustrated story";return;}$("playStory").textContent="Pause story";frame=0;drawFrame();timer=setInterval(()=>{frame=(frame+1)%frames.length;drawFrame();if(frame===frames.length-1){clearInterval(timer);timer=null;$("playStory").textContent="Replay story";}},3400);});
+const fallback=[
+{id:"GPU16",date:"2026-09-16",stage:"recorded",family:"Physical numerics",title:"16 GPU PTX launches",summary:"RTX 5060 Ti / Linux NVIDIA: two bounded binary64 traces matched CPU reference at zero observed ULP difference.",sources:["field-notes/EVIDENCE.md"]},
+{id:"CROSS7",date:"2026-09-16",stage:"recorded",family:"Replicability",title:"Seven initial-condition scales",summary:"Recorded controlled finite-horizon amplification comparisons.",sources:["field-notes/LEVI_JOURNAL.md"]},
+{id:"SMP16",date:"2026-11-01",stage:"recorded",family:"Native chassis",title:"Authenticated SMP16",summary:"Boot-specific native CPU milestone. No claim of complete current peripheral commissioning.",sources:["field-notes/LEVI_PROGRESS.md"]},
+{id:"N9CPU",date:"2026-11-01",stage:"recorded",family:"Native chassis",title:"5/5 N9 CPU jobs",summary:"Recorded native execution epoch with authenticated custody.",sources:["field-notes/LEVI_PROGRESS.md"]},
+{id:"NEURAL5",date:"2026-10-23",stage:"recorded",family:"Developmental research",title:"Five-neuron residual learner",summary:"25-parameter trainable component in source, not a complete body benchmark.",sources:["field-notes/HOLARCHY_NEURONS.md"]},
+{id:"ORGAN60",date:"2026-06-27",stage:"recorded",family:"Developmental research",title:"Scar-to-organ simulation",summary:"Validated simulation candidate event at step 60.",sources:["field-notes/AUTOPOIESIS.md"]},
+{id:"GPU_N",date:"2026-11-02",stage:"frontier",family:"Native chassis",title:"Native GPU admission",summary:"Native GSP/RM compute integration and guarded recovery remain under investigation.",sources:["field-notes/LEVI_PROGRESS.md"]},
+{id:"SELFHOST",date:"2026-11-03",stage:"proposed",family:"Autopoiesis",title:"Generational self-hosting",summary:"N→N+1→N+2 authenticated continuity is a research acceptance target.",sources:["field-notes/LEVI.md"]},
+{id:"INDEP",date:"2026-11-03",stage:"proposed",family:"Evaluation",title:"Independent comparison",summary:"Preregistered matched baselines and ablations; comparative results not yet run.",sources:["field-notes/LEVI_BENCHMARKS.md"]}
+];
+let records=fallback,activeFilter="all";
+function card(rec){const box=document.createElement("article");box.className="evidence";box.dataset.stage=rec.stage;
+const line=document.createElement("div");line.className="meta";
+const badge=document.createElement("span");badge.className="badge "+rec.stage;badge.textContent=rec.stage==="frontier"?"ACTIVE FRONTIER":rec.stage.toUpperCase();
+const time=document.createElement("time");time.dateTime=rec.date;time.textContent=rec.date;
+line.append(badge,time);box.appendChild(line);
+const title=document.createElement("h3");title.textContent=rec.title;box.appendChild(title);
+const desc=document.createElement("p");desc.textContent=rec.summary;box.appendChild(desc);
+const meta=document.createElement("small");meta.textContent=rec.family;box.appendChild(meta);
+const link=document.createElement("a");const raw=Array.isArray(rec.sources)?rec.sources.find(s=>/^field-notes\/[A-Za-z0-9_.-]+\.md$/.test(s)):"";link.href="https://github.com/K-haotic/K-haotic/blob/main/"+(raw||"field-notes/LEVI.md");link.textContent="Review source →";link.target="_blank";link.rel="noopener noreferrer";box.appendChild(link);
+return box;
+}
+function renderEvidence(){const wrap=$("evidenceCards");wrap.replaceChildren();const filtered=records.filter(x=>activeFilter==="all"||x.stage===activeFilter);filtered.forEach(x=>wrap.appendChild(card(x)));$("filterCount").textContent=filtered.length+" of "+records.length+" research checkpoints shown. Snapshot: 2026-11-03. No live telemetry."; }
+document.querySelectorAll("[data-filter]").forEach(btn=>btn.addEventListener("click",()=>{activeFilter=btn.dataset.filter;document.querySelectorAll("[data-filter]").forEach(x=>x.setAttribute("aria-pressed",String(x===btn)));renderEvidence();}));
+async function hydrateEvidence(){try{const response=await fetch("./data/evidence.json",{cache:"no-store"});if(!response.ok)throw Error("no data");const json=await response.json();if(json.schema!=="khaotic.levi.public-evidence.v1"||!Array.isArray(json.records)||json.records.length<3)throw Error("schema");records=json.records.filter(x=>["recorded","frontier","proposed"].includes(x.stage));}catch(error){records=fallback;}renderEvidence();}
+const colors=["#4be7da","#7bcffc","#c0a1ff","#eec17b","#86e2b1"],labels=["ϕ","τ","ψ","χ","Λ"],keys=["phi","tau","psi","chi","lambda"];
+const canvas=$("modelCanvas"),ctx=canvas.getContext("2d");let series=[];
+function n(id){return Number($(id).value)}
+function simulate(){
+const a=n("parameterA"),k=n("parameterK");
+let s={phi:n("initialPhi"),tau:0,psi:0,chi:0,lambda:0};series=[Object.assign({},s)];
+for(let i=0;i<240;i++){
+/* [REDACTED - REGISTERED OPERATOR] */
+/* [REDACTED - REGISTERED OPERATOR] */
+/* [REDACTED - REGISTERED OPERATOR] */
+/* [REDACTED - REGISTERED OPERATOR] */
+/* [REDACTED - REGISTERED OPERATOR] */
+s={phi,tau,psi,chi,lambda};
+if(keys.some(key=>!Number.isFinite(s[key])||Math.abs(s[key])>1e6)){s={phi:0,tau:0,psi:0,chi:0,lambda:0};}
+series.push(s);
+}
+$("aRead").textContent=a.toFixed(2);$("kRead").textContent=k.toFixed(3);$("phiRead").textContent=n("initialPhi").toFixed(2);draw();
+}
+function draw(){
+const rect=canvas.getBoundingClientRect();const w=Math.max(rect.width,240),h=330;const dpr=Math.min(devicePixelRatio||1,2);canvas.width=Math.ceil(w*dpr);canvas.height=Math.ceil(h*dpr);ctx.setTransform(dpr,0,0,dpr,0,0);
+ctx.clearRect(0,0,w,h);ctx.fillStyle="#071727";ctx.fillRect(0,0,w,h);
+const l=47,top=18,bottom=31,right=14,plotW=w-l-right,plotH=h-top-bottom;
+const finite=series.flatMap(s=>keys.map(k=>s[k])).filter(Number.isFinite);const min=Math.min(-1.25,...finite),max=Math.max(1.25,...finite),range=max-min||1;
+ctx.font="12px ui-monospace,monospace";ctx.lineWidth=1;ctx.textAlign="right";
+for(let i=0;i<6;i++){const y=top+i*plotH/5;ctx.strokeStyle="#29435a";ctx.beginPath();ctx.moveTo(l,y);ctx.lineTo(w-right,y);ctx.stroke();ctx.fillStyle="#7f9caf";ctx.fillText((max-range*i/5).toFixed(1),l-7,y+4);}
+for(let i=0;i<7;i++){const x=l+i*plotW/6;ctx.strokeStyle="#213d50";ctx.beginPath();ctx.moveTo(x,top);ctx.lineTo(x,h-bottom);ctx.stroke();ctx.fillStyle="#8ca7b8";ctx.textAlign="center";ctx.fillText(String(Math.round(i*240/6)),x,h-10);}
+keys.forEach((key,ix)=>{ctx.beginPath();series.forEach((s,i)=>{const x=l+i*plotW/240,y=top+(max-s[key])*plotH/range;if(i===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)});ctx.strokeStyle=colors[ix];ctx.lineWidth=ix===0?2.5:1.8;ctx.stroke();});
+const step=n("timeStep"),sx=l+step*plotW/240;ctx.strokeStyle="#ffffff88";ctx.setLineDash([5,5]);ctx.beginPath();ctx.moveTo(sx,top);ctx.lineTo(sx,h-bottom);ctx.stroke();ctx.setLineDash([]);
+const values=$("fieldValues");values.replaceChildren();keys.forEach((key,ix)=>{const item=document.createElement("div");const span=document.createElement("span");span.textContent=labels[ix]+" / "+key;const strong=document.createElement("strong");strong.style.color=colors[ix];strong.textContent=series[step][key].toFixed(3);item.append(span,strong);values.appendChild(item)});
+$("timeRead").textContent=String(step);
+}
+["parameterA","parameterK","initialPhi"].forEach(id=>$(id).addEventListener("input",simulate));
+$("timeStep").addEventListener("input",draw);
+$("resetModel").addEventListener("click",()=>{$("parameterA").value="1.40";$("parameterK").value="0.075";$("initialPhi").value="0.10";$("timeStep").value="120";simulate()});
+window.addEventListener("resize",()=>{if(series.length)draw()});
+$("exportProtocol").addEventListener("click",()=>{
+const plan={schema:"khaotic.levi.benchmark.preregistration.v1",created_at:new Date().toISOString(),status:"PROPOSAL_NOT_RUN",owner:"Unassigned / independent review invited",research_question:"Does accountable recursive-body architecture provide measured benefits beyond matched conventional baselines?",family:$("evalFamily").value,baseline:$("evalBaseline").value,substrate:$("evalSubstrate").value,trial_count:Math.max(3,Math.min(1000,Number($("evalTrials").value)||30)),body_configuration:"To be recorded and frozen before run",source_revision:"To be pinned",matching_conditions:["compute budget","tools","data access","time","model/controller versions"],controls:["negative controls","ablations","independent acceptance evaluation"],metrics:["task effects","retention","continuity","evidence completeness","recovery","resource/energy cost","authority violations"],results:null,notes:"This template is not a result. See public LEVI_BENCHMARKS.md for full protocol."};
+const blob=new Blob([JSON.stringify(plan,null,2)+"\n"],{type:"application/json"});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download="levi-preregistration-proposal.json";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);$("exportMessage").textContent="Downloaded an unrun benchmark proposal. No data uploaded.";
+});
+hydrateEvidence();simulate();
+})();
+</script>
+</body>
+</html>

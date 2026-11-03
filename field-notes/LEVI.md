@@ -8,7 +8,7 @@
 
 *An original computational-body research program led by Steven Ray Britt, Recursive Physics Lab.*
 
-[GitHub front door](../README.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Research program](RESEARCH.md)
+[GitHub front door](../README.md) · [Engineering journal](LEVI_JOURNAL.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Open Lab challenges](../docs/OPEN_LAB.md) · [Explorer source](../docs/README.md)
 
 </div>
 
