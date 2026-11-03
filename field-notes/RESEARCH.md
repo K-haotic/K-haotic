@@ -1,6 +1,6 @@
 # ONE RESEARCH PROGRAM / MANY SCALES
 
-[Front door](../README.md) | [Complex dynamics](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [Holarchy and neurons](HOLARCHY_NEURONS.md) | [Physical embodiment](EMBODIMENT.md) | [Languages and cryptography](LANGUAGES_CRYPTO.md) | [Worlds and products](WORLDS.md) | [Source ledger](PROVENANCE.md)
+[Front door](../README.md) | [LEVI — recursive body](LEVI.md) | [LEVI benchmarks](LEVI_BENCHMARKS.md) | [Complex dynamics](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [Holarchy and neurons](HOLARCHY_NEURONS.md) | [Physical embodiment](EMBODIMENT.md) | [Languages and cryptography](LANGUAGES_CRYPTO.md) | [Worlds and products](WORLDS.md) | [Source ledger](PROVENANCE.md)
 
 > I started by learning how to build and repair physical things. Today I investigate what it would take to build computational systems that retain consequences, develop capabilities, survive changes in substrate and remain answerable for what they do. -- Steven Ray Britt
 
@@ -11,6 +11,8 @@
 That question is not a claim that the answer is already known. It ties together original mathematical models, nonlinear and hybrid dynamics, neural learning, recursive body formalization, organogenesis, physical computation, native software, source custody, distributed execution, interactive worlds and human governance. It is the *research direction* behind BHUAT, 5FRE, LEVI, OMMI, Garden, Hive, KEEL, Helm, Adaptive Fabric and the public Khaotic ecosystem.
 
 The distinctive effort is to connect levels that are often separated: **equations -> implementation -> machine -> developmental history -> controlled action -> human experience -> evidence of what actually happened**.
+
+**LEVI is the embodiment experiment.** Its proposed identity is not a replaceable neural network or a cloud inference task. It is an accountable, non-closed recursive body whose realized characteristics—including possible thermodynamic, geometric and developmental effects—must be discovered through experiments and contrasted with serious baseline systems. [Read the LEVI research identity](LEVI.md), [dated physical frontier](LEVI_PROGRESS.md), and [independent evaluation design](LEVI_BENCHMARKS.md).
 
 ## The systems-level map
 

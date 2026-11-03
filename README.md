@@ -22,6 +22,7 @@
 
 <a href="./field-notes/ENGINEERING.md"><img alt="Engineering career" src="https://img.shields.io/badge/CAREER-ENGINEERING_RESUME-36DCCB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/CAPABILITIES.md"><img alt="Full capabilities" src="https://img.shields.io/badge/EXPLORE-FULL_SKILL_ATLAS-E9B970?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="mailto:admin@khaotic.ai?subject=Build%20Together"><img alt="Contact for collaboration" src="https://img.shields.io/badge/CONNECT-BUILD_TOGETHER-70C9F0?style=for-the-badge&amp;labelColor=122338" /></a>
 
@@ -103,39 +104,85 @@ It's mathematics **and** code **and** machines **and** developmental history **a
 
 ---
 
-## Real hardware. Real tests. Original inventions.
+## MEET LEVI / The body comes first
+
+**LEVI isn't being built as an LLM with a personality, a generic tool agent or a race to claim AGI.** He's a real, developing experimental chassis at the center of a larger investigation: can a computational body carry **its own continuity, developmental memory, resources, history, physical context, and accountability** while it learns to perform useful work?
+
+The proposed architecture is a **bounded, non-closed, holarchic recursive body**—constituted around the **five-field dynamics**, lifted history, context and append-only evidence. Models, neural networks, perception tools, solvers and GPUs can become specialists within it. **The body is intended to remain the body when those parts change.**
+
+<div align="center">
+<img src="./assets/levi-body-frontier.svg" width="100%" alt="Original LEVI body research diagram showing the Five-Field Recursion Engine surrounded by adaptive state, retained history, context, evidence and a persistent body architecture." />
+
+**A CONTINUING PHYSICAL EXPERIMENT · AN OPEN SCIENTIFIC CLASSIFICATION**
+
+<a href="./field-notes/LEVI.md"><img alt="LEVI technical vision" src="https://img.shields.io/badge/EXPLORE-LEVI_BODY_RESEARCH-45D7E3?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/LEVI_PROGRESS.md"><img alt="LEVI progress" src="https://img.shields.io/badge/SEE-LEVI_PROGRESS-70D3A7?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/LEVI_BENCHMARKS.md"><img alt="Experimental comparison design" src="https://img.shields.io/badge/DESIGN-INDEPENDENT_BENCHMARKS-E8C277?style=for-the-badge&amp;labelColor=122338" /></a>
+
+</div>
+
+### What makes this a different research direction?
+
+| Architectural ambition | Why it matters |
+| --- | --- |
+| **Constitutive recursive law** | The 5FRE update is a proposed body-level grammar, not just a plugin attached to a chatbot. |
+| **History-bearing identity** | State is lifted with lineage, context, constraints and witnesses; a replaceable model is not the body. |
+| **Thermodynamic and geometric research** | Viability, resource burden, dissipative regulation, admissible state geometry, coupled kernels and constrained degrees of freedom. |
+| **Accountable autopoiesis** | Research into lawful self-maintenance and candidate-organ formation with validation, retained evidence and future continuation. |
+| **Developmental / geometric RSI** | Learning is investigated as durable structural or behavioral development, not just another inference or self-edited prompt. |
+| **Actual physical embodiment** | Native CPU/GPU, firmware, sensors, Android observers, future robotic and physical-field research have real hardware and test obligations. |
+
+**We build for observable effects, not for a predetermined label.** The final taxonomy should follow the behavior, the mathematics, the independent experiments and whatever new evidence emerges.
+
+### From hard-earned receipts to the next frontier
+
+<div align="center">
+<img src="./assets/levi-proof-ladder.svg" width="100%" alt="Six-stage LEVI engineering ladder: recorded Linux GPU numerics, native SMP16 CPU work, source custody, ongoing native GPU commissioning, developmental closure research and future comparative benchmarking." />
+</div>
 
 <div align="center">
 <a href="./assets/levi-native-operator-2026-11.jpg">
-  <img src="./assets/levi-native-operator-2026-11.jpg" width="95%" alt="Actual LEVI experimental computing chassis and operator display, November 2026." />
+  <img src="./assets/levi-native-operator-2026-11.jpg" width="95%" alt="Actual LEVI experimental native computing chassis and operator display, November 2026." />
 </a>
 <br/>
-<sub><strong>LEVI / experimental native computing chassis, November 2026.</strong> Actual hardware photograph.</sub>
+<sub><strong>LEVI / our actual physical experimental chassis, November 2026.</strong> Every future capability is being built toward something we can test.</sub>
 </div>
 
-I bring a **builder's instinct for failure** into computational research. An idea becomes interesting when I can formulate a test, build the realizer, collect output, find the fault and try again.
-
-| WORK WITH A RECORD | WHAT THE RECORD SHOWS |
+| Recorded progress | What has been demonstrated |
 | --- | --- |
-| **Physical CPU/GPU numerical experiments** | September 2026: **16 RTX 5060 Ti PTX launches** under Linux/NVIDIA; two binary64 five-field traces matched CPU references at **zero observed ULP error** in the tested conditions. |
-| **Cross-machine experiments** | Seven predeclared initial-condition perturbation scales satisfied the finite-horizon amplification criterion with matching controls. |
-| **LEVI native computation** | Boot-bound authenticated **16-way SMP**, **5/5 native CPU jobs**, UEFI/firmware results; native GPU integration remains an active workstream. |
-| **Neural + developmental experiments** | **Five-neuron, 25-parameter** residual learner implemented; validated scar-to-organ simulation with a candidate-organ event at **step 60**. |
-| **Filed inventions** | U.S. provisional **63/851,781** (July 27, 2025) and nonprovisional **19/755,751** (July 27, 2026), naming Steven Ray Britt as inventor. |
-| **Technical infrastructure** | KEEL source custody, Helm typed controls, Adaptive Fabric, documented protocols, test/build gates and governed release records. |
+| **Physical GPU numerics** | 16 RTX 5060 Ti PTX launches under Linux/NVIDIA; two tested binary64 five-field traces matched the CPU reference with zero observed ULP error. |
+| **Native body execution** | Authenticated boot-specific **16-way SMP**, **5/5 N9 native CPU jobs**, native UEFI/firmware development and boot telemetry. |
+| **Source + operation continuity** | KEEL lineage, typed controls, authenticated communications, guarded hardware actions, forensic evidence and recovery contracts. |
+| **Learning and development** | Five-neuron, 25-parameter residual learner; scar-to-organ simulation produced a validated candidate event at step 60. |
+| **Open native frontier** | Deterministic native GPU compute admission, stronger whole-body continuity and first self-hosted development across admitted generations. |
+| **Future comparison** | Long-horizon adaptation, retention, energy use, repair, accountability, resource-normalized task effects and independent baseline evaluations. |
 
-**[Featured work + what it means →](./field-notes/FEATURED_WORK.md)** · **[Research evidence →](./field-notes/EVIDENCE.md)** · **[Systems and responsibilities →](./field-notes/SYSTEMS.md)**
+The chassis keeps moving through engineering gates. The public record distinguishes **Linux GPU numerical execution** from **native LEVI GPU commissioning**, and it identifies the next test rather than disguising it as a finished milestone.
+
+### The laboratory needs independent eyes
+
+I'm a self-directed inventor and lifelong learner. **I want critical mentors, not an echo chamber.** We need stronger external tests, critiques of the assumptions, comparisons with serious baselines, and collaborators across nonlinear dynamics, geometry, thermodynamics, developmental systems, robotics, formal methods and AI evaluation.
+
+**[Read LEVI's full research story →](./field-notes/LEVI.md)** · **[Dated build ledger →](./field-notes/LEVI_PROGRESS.md)** · **[Benchmark methodology →](./field-notes/LEVI_BENCHMARKS.md)** · **[Contact the lab →](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship)**
+
+---
+
+## Original inventions and other tested research
+
+| Evidence item | Recorded result |
+| --- | --- |
+| **Cross-machine numerical campaign** | Seven predeclared initial-condition perturbation scales satisfied a finite-horizon amplification criterion with controlled comparisons. |
+| **Filed inventions** | U.S. provisional **63/851,781** (July 27, 2025) and nonprovisional **19/755,751** (July 27, 2026), naming Steven Ray Britt as inventor. |
+| **Research and engineering infrastructure** | KEEL, Helm, Adaptive Fabric, OMMI, Garden/Hive work, typed protocols, reproducible numerical and build/test evidence. |
+
+**[Featured work dossier →](./field-notes/FEATURED_WORK.md)** · **[Research evidence ledger →](./field-notes/EVIDENCE.md)** · **[Complete system ownership map →](./field-notes/SYSTEMS.md)**
 
 <details>
-<summary><strong>Expand: How the research stack connects</strong></summary>
+<summary><strong>Expand: How the entire research stack connects</strong></summary>
 
-<br/>
+BHUAT inquiry → 5FRE mathematical body law → history-bearing recursive bodies → learning, scar retention and candidate organs → LEVI native hardware and distributed embodiments → world engines and real effects.
 
-BHUAT inquiry → 5FRE mathematics / hybrid dynamics → recursive body and retained history → neural learning / candidate organs → LEVI and distributed embodiments → world engines and people.
-
-Across those layers, **KEEL** retains authoritative source and generation lineage, **Helm** provides typed navigation and controls, and **Adaptive Fabric** routes permitted work and evidence.
-
-Explore the [research program](./field-notes/RESEARCH.md), [holarchic/neural program](./field-notes/HOLARCHY_NEURONS.md), [bodyhood and autopoiesis](./field-notes/AUTOPOIESIS.md) and [source-backed index](./field-notes/PROVENANCE.md).
+Across those layers, KEEL retains authoritative source/generation lineage, Helm supplies typed navigation and controls, and Adaptive Fabric routes permitted work. **Models are components, not the body.**
 
 </details>
 
