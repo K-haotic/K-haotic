@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="314" viewBox="0 0 1480 314" role="img" aria-label="Five-part career lineage from construction to industrial work and founder research.">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091625"/><stop offset="1" stop-color="#1E2235"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#4D7C91" opacity=".18"/></pattern></defs>
+<rect width="1480" height="314" rx="12" fill="url(#b)"/><rect width="1480" height="314" rx="12" fill="url(#g)"/>
+<text x="40" y="47" fill="#A6D9DF" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="2.2" font-weight="700">THE ARC / A LIFE SPENT BUILDING SYSTEMS</text>
+<path d="M130 161 H1350" stroke="#3B5974" stroke-width="4" stroke-linecap="round"/>
+
+<rect x="32" y="85" width="255" height="162" rx="14" fill="#101E2E" stroke="#35CBDF" stroke-opacity=".8" stroke-width="2"/>
+<path d="M 44 98 H120" stroke="#35CBDF" stroke-width="4"/>
+<text x="49" y="127" fill="#35CBDF" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700">EARLY YEARS</text>
+<text x="49" y="167" fill="#FFFFFF" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700">CONSTRUCTION</text>
+<text x="49" y="205" fill="#A7BDD0" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700">WOOD / DIRT / HOUSES</text>
+<path d="M287 166 L313 166" stroke="#35CBDF" stroke-width="2.8"/>
+<path d="M308 159 L316 166 L308 173" fill="none" stroke="#35CBDF" stroke-width="2.8"/>
+<rect x="322" y="85" width="255" height="162" rx="14" fill="#101E2E" stroke="#E6B96A" stroke-opacity=".8" stroke-width="2"/>
+<path d="M 334 98 H410" stroke="#E6B96A" stroke-width="4"/>
+<text x="339" y="127" fill="#E6B96A" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700">2006 - 2020</text>
+<text x="339" y="167" fill="#FFFFFF" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700">MILLWRIGHT</text>
+<text x="339" y="205" fill="#A7BDD0" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700">STEEL / PIPE / MACHINES</text>
+<path d="M577 166 L603 166" stroke="#E6B96A" stroke-width="2.8"/>
+<path d="M598 159 L606 166 L598 173" fill="none" stroke="#E6B96A" stroke-width="2.8"/>
+<rect x="612" y="85" width="255" height="162" rx="14" fill="#101E2E" stroke="#36D3A4" stroke-opacity=".8" stroke-width="2"/>
+<path d="M 624 98 H700" stroke="#36D3A4" stroke-width="4"/>
+<text x="629" y="127" fill="#36D3A4" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700">2020 - 2023</text>
+<text x="629" y="167" fill="#FFFFFF" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700">MAINTENANCE</text>
+<text x="629" y="205" fill="#A7BDD0" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700">CONTROLS / FLUID POWER</text>
+<path d="M867 166 L893 166" stroke="#36D3A4" stroke-width="2.8"/>
+<path d="M888 159 L896 166 L888 173" fill="none" stroke="#36D3A4" stroke-width="2.8"/>
+<rect x="902" y="85" width="255" height="162" rx="14" fill="#101E2E" stroke="#AF96FF" stroke-opacity=".8" stroke-width="2"/>
+<path d="M 914 98 H990" stroke="#AF96FF" stroke-width="4"/>
+<text x="919" y="127" fill="#AF96FF" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700">2023 - 2025</text>
+<text x="919" y="167" fill="#FFFFFF" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700">FOREMAN</text>
+<text x="919" y="205" fill="#A7BDD0" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700">PEOPLE / PRODUCTION</text>
+<path d="M1157 166 L1183 166" stroke="#AF96FF" stroke-width="2.8"/>
+<path d="M1178 159 L1186 166 L1178 173" fill="none" stroke="#AF96FF" stroke-width="2.8"/>
+<rect x="1192" y="85" width="255" height="162" rx="14" fill="#101E2E" stroke="#66C8FF" stroke-opacity=".8" stroke-width="2"/>
+<path d="M 1204 98 H1280" stroke="#66C8FF" stroke-width="4"/>
+<text x="1209" y="127" fill="#66C8FF" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700">2022 - NOW</text>
+<text x="1209" y="167" fill="#FFFFFF" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700">GAMING + RPL</text>
+<text x="1209" y="205" fill="#A7BDD0" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700">5FRE / LEVI / WORLDS</text>
+<text x="43" y="292" fill="#98AEC0" font-family="DejaVu Sans,sans-serif" font-size="16">Founder work overlaps industrial work. Early childhood construction is self-reported, not dated employment.</text>
+</svg>

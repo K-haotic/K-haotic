@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="460" viewBox="0 0 1480 460" role="img" aria-label="Khaotic signature banner: Steven Ray Britt, builder, inventor, polymath, investigator. From dirt and steel to silicon and science.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131F"/><stop offset=".52" stop-color="#102035"/><stop offset="1" stop-color="#17182E"/></linearGradient>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DE6CF"/><stop offset=".53" stop-color="#36CBE7"/><stop offset="1" stop-color="#B69BFF"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#2EC9DC" stop-opacity=".13"/><stop offset="1" stop-color="#2EC9DC" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#47718E" stroke-width=".65" opacity=".23" /></pattern>
+ <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" /></filter>
+</defs>
+<rect width="1480" height="460" fill="url(#bg)" />
+<rect width="1480" height="460" fill="url(#grid)" opacity=".52" />
+<rect x="2" y="2" width="1476" height="456" rx="18" fill="none" stroke="#35536C" stroke-width="2" />
+<rect x="18" y="18" width="1444" height="424" rx="12" fill="none" stroke="#1C445B" stroke-width="1" />
+<path d="M 56 68 H 804" stroke="url(#base)" opacity=".7" stroke-width="2" />
+<circle cx="815" cy="68" r="4" fill="#3BCADF" />
+<circle cx="1236" cy="225" r="240" fill="url(#halo)"/>
+<path d="M 930 90 H 1100 L 1150 130 M 925 400 H 1080 L 1150 328" stroke="#2D8DAB" opacity=".55" stroke-width="2" fill="none" />
+<circle cx="1080" cy="400" r="4" fill="#E3B96E" />
+<text x="60" y="53" fill="#64E0E3" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" letter-spacing="3">KHAOTIC / RECURSIVE PHYSICS LAB</text>
+<text x="60" y="175" fill="#F5FAFF" font-family="DejaVu Sans, sans-serif" font-size="73" font-weight="700" letter-spacing="-2">STEVEN RAY BRITT</text>
+<rect x="62" y="194" width="670" height="4" rx="2" fill="url(#base)"/>
+<text x="61" y="242" fill="#C1D6E6" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="700" letter-spacing="1.1">FROM DIRT &amp; STEEL TO SILICON &amp; SCIENCE</text>
+<text x="62" y="284" fill="#85A7B9" font-family="DejaVu Sans, sans-serif" font-size="20" letter-spacing=".6">BUILDER  /  INVENTOR  /  POLYMATH  /  LIFELONG GAMER</text>
+<text x="62" y="321" fill="#A8BBCD" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing=".8">HANDS-ON ENGINEERING  x  INDEPENDENT INVESTIGATION</text>
+
+<rect x="64" y="365" width="264" height="46" rx="22" fill="#162A3C" stroke="#39D3EA" stroke-width="1.4"/>
+<text x="196.0" y="394" text-anchor="middle" fill="#39D3EA" font-family="DejaVu Sans,sans-serif" font-size="16" font-weight="700" letter-spacing=".5">3 DECADES BUILDING</text>
+<rect x="342" y="365" width="255" height="46" rx="22" fill="#162A3C" stroke="#AD91FF" stroke-width="1.4"/>
+<text x="469.5" y="394" text-anchor="middle" fill="#AD91FF" font-family="DejaVu Sans,sans-serif" font-size="16" font-weight="700" letter-spacing=".5">OLD-SCHOOL GAMER</text>
+<rect x="612" y="365" width="195" height="46" rx="22" fill="#162A3C" stroke="#E6B96A" stroke-width="1.4"/>
+<text x="709.5" y="394" text-anchor="middle" fill="#E6B96A" font-family="DejaVu Sans,sans-serif" font-size="16" font-weight="700" letter-spacing=".5">5FRE / LEVI</text>
+<circle cx="1236" cy="225" r="165" fill="none" stroke="#294B63" stroke-width="1.6" />
+<circle cx="1236" cy="225" r="155" fill="none" stroke="#2A6676" stroke-width="3.4" stroke-dasharray="3 13" opacity=".72" />
+<circle cx="1236" cy="225" r="116" fill="#102235" stroke="#3B8096" stroke-width="2.5" />
+<circle cx="1236" cy="225" r="95" fill="none" stroke="#30536F" stroke-width="1" stroke-dasharray="8 8" />
+<circle cx="1236" cy="225" r="79" fill="#0C1928" stroke="#61C7D0" stroke-width="3" />
+<line x1="1236" y1="225" x2="1236.0" y2="100.0" stroke="#39D3EA" stroke-opacity=".65" stroke-width="2.2"/>
+<line x1="1236" y1="225" x2="1354.9" y2="186.4" stroke="#AD91FF" stroke-opacity=".65" stroke-width="2.2"/>
+<line x1="1236" y1="225" x2="1309.5" y2="326.1" stroke="#E6B96A" stroke-opacity=".65" stroke-width="2.2"/>
+<line x1="1236" y1="225" x2="1162.5" y2="326.1" stroke="#29C79B" stroke-opacity=".65" stroke-width="2.2"/>
+<line x1="1236" y1="225" x2="1117.1" y2="186.4" stroke="#86D8FF" stroke-opacity=".65" stroke-width="2.2"/>
+<circle cx="1236.0" cy="100.0" r="19" fill="#142A3B" stroke="#39D3EA" stroke-width="2.6"/>
+<circle cx="1236.0" cy="100.0" r="5" fill="#39D3EA" />
+<circle cx="1354.9" cy="186.4" r="19" fill="#142A3B" stroke="#AD91FF" stroke-width="2.6"/>
+<circle cx="1354.9" cy="186.4" r="5" fill="#AD91FF" />
+<circle cx="1309.5" cy="326.1" r="19" fill="#142A3B" stroke="#E6B96A" stroke-width="2.6"/>
+<circle cx="1309.5" cy="326.1" r="5" fill="#E6B96A" />
+<circle cx="1162.5" cy="326.1" r="19" fill="#142A3B" stroke="#29C79B" stroke-width="2.6"/>
+<circle cx="1162.5" cy="326.1" r="5" fill="#29C79B" />
+<circle cx="1117.1" cy="186.4" r="19" fill="#142A3B" stroke="#86D8FF" stroke-width="2.6"/>
+<circle cx="1117.1" cy="186.4" r="5" fill="#86D8FF" />
+<text x="1236" y="223" text-anchor="middle" fill="#EAFDFF" font-family="DejaVu Sans,sans-serif" font-size="29" font-weight="700" letter-spacing="2">5FRE</text>
+<text x="1236" y="252" text-anchor="middle" fill="#78DBE8" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="700" letter-spacing="3">LEVI</text>
+<text x="1403" y="53" text-anchor="end" fill="#91A2B4" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="1.2">SIG:KHA  /  2026</text>
+<text x="1385" y="412" text-anchor="end" fill="#A1BACA" font-family="DejaVu Sans,sans-serif" font-size="14" letter-spacing="2">PHYSICAL x COMPUTATIONAL</text>
+</svg>
