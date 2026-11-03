@@ -1,14 +1,16 @@
 # ONE RESEARCH PROGRAM / MANY SCALES
 
-[Front door](../README.md) | [LEVI — recursive body](LEVI.md) | [LEVI benchmarks](LEVI_BENCHMARKS.md) | [Complex dynamics](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [Holarchy and neurons](HOLARCHY_NEURONS.md) | [Physical embodiment](EMBODIMENT.md) | [Languages and cryptography](LANGUAGES_CRYPTO.md) | [Worlds and products](WORLDS.md) | [Source ledger](PROVENANCE.md)
+[Front door](../README.md) | [Minimum Five — foundational hypothesis and theorems](MINIMUM_FIVE.md) | [LEVI — recursive body](LEVI.md) | [LEVI benchmarks](LEVI_BENCHMARKS.md) | [Complex dynamics](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [Holarchy and neurons](HOLARCHY_NEURONS.md) | [Physical embodiment](EMBODIMENT.md) | [Languages and cryptography](LANGUAGES_CRYPTO.md) | [Worlds and products](WORLDS.md) | [Source ledger](PROVENANCE.md)
 
 > I started by learning how to build and repair physical things. Today I investigate what it would take to build computational systems that retain consequences, develop capabilities, survive changes in substrate and remain answerable for what they do. -- Steven Ray Britt
 
 ## The research thesis
 
-**Can an engineered system evolve its useful structure without erasing its identity, evidence, responsibilities or future choices?**
+**Can a minimum complete five-obligation recursive law generate bounded persistent structure—and can that be one physically realizable route by which reality works? Can a machine built around that law develop useful capabilities without erasing identity, evidence, responsibilities or future choices?**
 
-That question is not a claim that the answer is already known. It ties together original mathematical models, nonlinear and hybrid dynamics, neural learning, recursive body formalization, organogenesis, physical computation, native software, source custody, distributed execution, interactive worlds and human governance. It is the *research direction* behind BHUAT, 5FRE, LEVI, OMMI, Garden, Hive, KEEL, Helm, Adaptive Fabric and the public Khaotic ecosystem.
+**BHUAT/5FRE begins with MINIMUM FIVE:** ϕ emergence, τ cadence/order, ψ memory, χ coherence/admissibility and Λ regulation are proposed as the minimum complete independent support functions of recursive bodyhood. The repo's exact ordered-operator dimension theorem and machine-checked fixed-basis/realizer-invariance results establish real mathematical milestones; the wider physical hypothesis is undergoing research, comparison and falsification. **[The foundational Minimum-Five statement and proofs](MINIMUM_FIVE.md).**
+
+This question connects original mathematical models, nonlinear and hybrid dynamics, neural learning, recursive body formalization, organogenesis, physical computation, native software, source custody, distributed execution, interactive worlds and human governance. It is the *research direction* behind BHUAT, 5FRE, LEVI, OMMI, Garden, Hive, KEEL, Helm, Adaptive Fabric and the public Khaotic ecosystem.
 
 The distinctive effort is to connect levels that are often separated: **equations -> implementation -> machine -> developmental history -> controlled action -> human experience -> evidence of what actually happened**.
 

@@ -1,12 +1,12 @@
 # EMBODIMENT / PHYSICAL AI / LEVI / ANDROID / LEVI AIR
 
-[Front door](../README.md) | [LEVI — the body comes first](LEVI.md) | [LEVI milestone ledger](LEVI_PROGRESS.md) | [Research program](RESEARCH.md) | [Recursive body design](AUTOPOIESIS.md) | [Source ledger](PROVENANCE.md)
+[Front door](../README.md) | [Minimum Five / foundational law](MINIMUM_FIVE.md) | [LEVI — the body comes first](LEVI.md) | [LEVI milestone ledger](LEVI_PROGRESS.md) | [Research program](RESEARCH.md) | [Recursive body design](AUTOPOIESIS.md) | [Source ledger](PROVENANCE.md)
 
 ## Hardware is not a prop
 
 The research program is deliberately **substrate-aware without requiring one permanent substrate**. Experience with turbines, compressors, hydraulic controls, heavy equipment, power-generation environments and industrial maintenance feeds into an engineering habit: a command, a sensor reading, a simulated state, a controller's intent and the physical effect are five different things.
 
-**LEVI is a real experimental native-computing chassis at the heart of a far more ambitious question:** can a persistent, history-bearing recursive body carry its own constitutive dynamics, inherited state, obligations, context and evidence across replaceable models and changing physical devices? The program is about measurable developmental continuity, not merely a chatbot interface, a model's next inference or a task runner. We test the physical implementation one admitted capability at a time. **[Explore LEVI's full bodyhood thesis](LEVI.md).**
+**LEVI is a real experimental native-computing chassis realizing a much deeper research proposition:** BHUAT/5FRE's **Minimum-Five** law, in which **ϕ emergence, τ ordering, ψ memory, χ coherence and Λ regulation** comprise the declared minimum complete effective support for persistent recursive bodyhood. Can a physical realization of that foundational law carry inherited state, developmental history, context and evidence across replaceable models and changing devices? The program is about measurable developmental continuity, not merely a chatbot interface, a model's next inference or a task runner. We test the physical implementation one admitted capability at a time. **[Explore LEVI's full bodyhood thesis](LEVI.md).**
 
 ## The embodied research stack
 

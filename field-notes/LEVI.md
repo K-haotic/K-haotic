@@ -39,24 +39,29 @@ These are proposed properties, formal models and developmental targets; **classi
 
 ## 02 / The five-field law is constitutive
 
-The **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** supply the program's original mathematical grammar. The operational state uses five interacting roles:
+**[See the complete Minimum-Five visual foundation and theorem map](MINIMUM_FIVE.md)** — no four-field shorthand, no missing τ, no substitution of bookkeeping for constitutional law.
 
-**ϕ — emergence/novelty · τ — cadence/structure · ψ — retained memory · χ — context/coherence · Λ — pressure/regulation**
+The **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** propose a fundamental mathematical route by which reality can generate and sustain recursive, persistent structure. At the operational level, **MINIMUM FIVE is non-negotiable in the declared bodyhood law**:
 
-The broader lifted-body formalization is:
+**Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)**
 
-**Z = (X, H, C, E)**
-
-| Part | What it represents |
+| Required field | Constitutional obligation |
 | --- | --- |
-| **X** | Exposed five-field operational state and its ordered update law. |
-| **H** | History, lineage, memory, retained corrections and scars. |
-| **C** | Active regime, context, constraints, environment and resources. |
-| **E** | Witnesses, append-only evidence, provenance and actual action receipts. |
+| **ϕ** | Emergence, opening, novelty, source drive. |
+| **τ** | Cadence, ordering, sequencing, structured transition. |
+| **ψ** | Memory, inheritance, retained consequence. |
+| **χ** | Coherence, contextual integration, admissibility. |
+| **Λ** | Regulation, burden/pressure, threshold and lawful renewal. |
 
-The research's central architectural inversion is that **5FRE is not just an app running inside LEVI**. The five-field law and its continuation obligations are being investigated as the **constitution of the computational body**, while LEVI is a physical realization carrying it across state, device, time and generation.
+**ϕ → τ → ψ → χ → Λ → ϕ** is the ordered cycle. **Four is not a substitute for the five-field state.** No observer projection, diagnostic response rank, database record or grouped metadata tuple is authorized to replace an omitted obligation.
 
-**[Original mathematics and hybrid dynamics](COMPLEX_SYSTEMS.md)** · **[Bodyhood and autopoiesis](AUTOPOIESIS.md)** · **[Nested holarchies and neurons](HOLARCHY_NEURONS.md)**
+LEVI also retains **history, context, scar lineage, permissions, resources, and evidence**. These are the wider constitution's developmental and accountability structures **around the five-field law**. They do not constitute a competing four-field law and do not change the Minimum-Five claim.
+
+The mathematical program includes **scoped exact five-state dimension minimality, machine-checked fixed-basis support-solvency minimum five, and realizer-invariant minimum five for admitted support-preserving implementations**. The bodyhood-science challenger program asks whether alternative realizations can genuinely satisfy all obligations with fewer than five *effective* supports rather than hiding the missing role in a scheduler, memory, clock, controller or evaluator.
+
+**This is not merely software architecture.** It is the laboratory's proposed generative account of one way physical reality can work, with LEVI as a developing hardware realization of the recursive-body research. The broader physical hypothesis requires its own discriminating experiments; the scoped mathematical theorems already have precise formal foundations.
+
+**[MINIMUM FIVE — foundational statement and theorem layers](MINIMUM_FIVE.md)** · **[Original mathematics and hybrid dynamics](COMPLEX_SYSTEMS.md)** · **[Bodyhood and autopoiesis](AUTOPOIESIS.md)** · **[Nested holarchies and neurons](HOLARCHY_NEURONS.md)**
 
 ## 03 / Why thermodynamics, geometry, autopoiesis and RSI all belong here
 

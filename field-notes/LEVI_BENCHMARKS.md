@@ -7,7 +7,7 @@
 
 ## 1 / What we are testing
 
-LEVI is being developed around **constitutive five-field recurrence, retained history, accountable continuity, bounded adaptation, developmental specialization and physical embodiment**. Conventional labels such as LLM, AI agent, RSI system or AGI do not isolate the proposed mechanism.
+LEVI is being developed around BHUAT/5FRE's **MINIMUM FIVE**: five independently supported functions—**ϕ emergence, τ ordering, ψ memory, χ coherence and Λ regulation**—are the declared complete basis for persistent recursive bodyhood. The mathematical program already contains a scoped exact five-state minimality theorem and Lean-checked independent-support/realizer-invariance results. The wider physical hypothesis proposes one way reality can produce and sustain structure. LEVI investigates how this five-field law can be physically realized with retained history, accountable continuity, bounded adaptation and organogenesis. Conventional labels such as LLM, AI agent, RSI system or AGI do not capture the proposed body-law requirement. **[Minimum-Five theorem and proof-status map](MINIMUM_FIVE.md).**
 
 The experimental question is:
 
@@ -30,7 +30,13 @@ The target isn't a leaderboard badge. It is a **reproducible capability map** wi
 
 Comparisons require matched or explicitly normalized compute, context budgets, tool access, hardware, task time, sampling settings, input access and data leakage controls.
 
-## 3 / Experimental families
+## 3 / Minimum-Five falsification belongs in the benchmark plan
+
+A formal or empirical minimum-five challenge must distinguish **visible coordinate count**, **response rank**, **exact state-realization dimension** and **independent effective support**. A four-coordinate simulation can hide the fifth obligation in evaluator ordering, clocks, cached history, a reset, controller or external environment. Such hidden support must be counted.
+
+The current scope already has an exact local five-state result for the ordered registered operator, a Lean-checked fixed-basis minimum-five theorem and a support-preserving realizer result. The next scientific test asks whether another independently admitted bodyhood realizer can satisfy all five declared obligations with fewer than five *effective* supports. Freeze controls and criteria in advance and record every outcome, including failures to confirm five-obligation independence. **[Full Minimum-Five research program](MINIMUM_FIVE.md).**
+
+## 4 / Experimental families
 
 | Family | Example experiment | Metrics |
 | --- | --- | --- |
@@ -47,7 +53,7 @@ Comparisons require matched or explicitly normalized compute, context budgets, t
 
 If a measurement needs a new sensor, instrument or dataset, it belongs in the preregistered methods—not in the reported results.
 
-## 4 / Suggested core metrics
+## 5 / Suggested core metrics
 
 For each trial record task success and confidence interval alongside a small set of interpretable metrics:
 
@@ -63,7 +69,7 @@ For each trial record task success and confidence interval alongside a small set
 
 These are **benchmark definitions to implement**. No current values are being claimed.
 
-## 5 / The proof ladder before serious comparisons
+## 6 / The proof ladder before serious comparisons
 
 1. **Conformance:** demonstrate the registered mathematical operator on numerical and selected physical execution paths.
 2. **Native execution:** native CPU and GPU stages complete with preserved evidence.
@@ -74,7 +80,7 @@ These are **benchmark definitions to implement**. No current values are being cl
 
 A clean experiment does more for the classification than a confident name.
 
-## 6 / Statistical and methodological commitments
+## 7 / Statistical and methodological commitments
 
 - Preregister sample sizes, task splits, prompts, budgets and acceptance criteria.
 - Preserve **negative controls** and explicit falsifiers.
@@ -86,7 +92,7 @@ A clean experiment does more for the classification than a confident name.
 - Make failure traces available in a reviewed disclosure tier when they do not reveal secrets, hardware credentials or patent-sensitive source.
 - Invite independent critics to design the strongest fair baselines.
 
-## 7 / Suggested result record
+## 8 / Suggested result record
 
 ~~~text
 experiment_id:
@@ -111,7 +117,7 @@ independent_review_status:
 
 A result without an attributable version, substrate, intervention, observation and control is not strong evidence for the hypothesis.
 
-## 8 / Independent research and mentorship invitation
+## 9 / Independent research and mentorship invitation
 
 I want experts in **statistical design, nonlinear dynamics, thermodynamic accounting, developmental systems, robotics, ML systems evaluation, formal methods, control theory and trustworthy AI** to propose tougher tests.
 

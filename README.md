@@ -22,6 +22,7 @@
 
 <a href="./field-notes/ENGINEERING.md"><img alt="Engineering career" src="https://img.shields.io/badge/CAREER-ENGINEERING_RESUME-36DCCB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/CAPABILITIES.md"><img alt="Full capabilities" src="https://img.shields.io/badge/EXPLORE-FULL_SKILL_ATLAS-E9B970?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/MINIMUM_FIVE.md"><img alt="Minimum Five fundamental mathematics" src="https://img.shields.io/badge/FOUNDATION-MINIMUM_FIVE-46C9ED?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="mailto:admin@khaotic.ai?subject=Build%20Together"><img alt="Contact for collaboration" src="https://img.shields.io/badge/CONNECT-BUILD_TOGETHER-70C9F0?style=for-the-badge&amp;labelColor=122338" /></a>
@@ -79,7 +80,17 @@ I founded **Khaotic Gaming LLC** to build new experiences and technologies, and 
 
 **What happens when complex computational systems retain the consequences of experience? Can they develop useful structure, carry memory and identity across changing parts, work through physical machines and remain accountable for what they do?**
 
-My original **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** are at the mathematical heart of a wider program: nonlinear and **hybrid dynamical systems**, coupled recursive kernels, attractors, viability, memory, multi-scale structure, self-maintenance, learning, embodiment and physically grounded experiments.
+My original **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** investigate **one mathematically realizable way reality can generate and sustain persistent, evolving structure**. The foundation is **MINIMUM FIVE**: emergence **ϕ**, ordering **τ**, memory **ψ**, coherence **χ** and regulation **Λ** form the minimum complete effective support basis for the declared recursive-body theory. This is the core of our nonlinear and **hybrid dynamical systems**, coupled kernels, attractors, geometry, thermodynamic investigation, viability, memory, physical computing, embodied development and formal proof program.
+
+<div align="center">
+<a href="./field-notes/MINIMUM_FIVE.md"><img src="./assets/minimum-five-foundation.svg" width="100%" alt="The Minimum Five foundation: phi emergence, tau ordering, psi memory, chi coherence and Lambda regulation; scoped exact state theorem, formal Lean support result, realizer invariance and open BHUAT physical hypothesis." /></a>
+</div>
+
+**THIS IS MORE THAN A NAME FOR FIVE VARIABLES.** The repo contains a scoped proof that the registered operator needs **exactly five continuous state dimensions**, machine-checked independent-support minimum-five theorems, support-preserving realizer invariance, and active reduced-field/falsification experiments. **Four visible coordinates or a rank-four response are not the same as four independent bodyhood supports.** The wider physical interpretation is the BHUAT research hypothesis; the mathematical results have named scopes.
+
+**[MINIMUM FIVE — THE MATHEMATICAL FOUNDATION, PROOFS AND PHYSICAL HYPOTHESIS →](./field-notes/MINIMUM_FIVE.md)**
+
+**The proof stack:** Scoped **mₘᵢₙ = 5** for the registered ordered operator · Lean-checked independent support **arity ≥ 5** · Realizer-invariant minimum five within the admitted support-preserving class · Active hidden-support and physical-hypothesis challenges. **The project does not equate a measured response rank four with a four-support body.**
 
 It's mathematics **and** code **and** machines **and** developmental history **and** governed action **and** worlds people can use.
 
@@ -87,10 +98,15 @@ It's mathematics **and** code **and** machines **and** developmental history **a
 <img src="./assets/khaotic-research-constellation.svg" width="100%" alt="BHUAT and the Five-Field Recursion Engine connected to hybrid dynamics, accountable autopoiesis, nested N-body and neural learning, LEVI physical AI, KEEL and Adaptive Fabric, native languages and ciphers, materials science and world engines." />
 </div>
 
+### Five is the minimum complete bodyhood support—not the limit of what we're building
+
+**ϕ → τ → ψ → χ → Λ → ϕ**. The five-field law is the constitutional core; nested holarchic bodies, physical realizers, languages, observers, history and evidence build upon it. Lower-dimensional images can reveal aspects of the system, but they do not silently replace the complete five-role dynamics.
+
 ### The research program is much bigger than one model
 
 | RESEARCH FRONT | WHAT IT CONNECTS |
 | --- | --- |
+| **[MINIMUM FIVE / BHUAT physical hypothesis](./field-notes/MINIMUM_FIVE.md)** | Five independent obligations as the declared minimum complete recursive-body basis; exact scoped state-dimension theorem, Lean-checked support-minimum and realizer-invariance proofs, four-support challenger research, and an explicit proposed route for the emergence of persistent structure in reality. |
 | **[Complex + hybrid dynamics](./field-notes/COMPLEX_SYSTEMS.md)** | Ordered five-field recurrence **ϕ → τ → ψ → χ → Λ**; Jacobians, Lyapunov analysis, bifurcations, discrete events, guards, venting, resets, viability, coupled kernels, harmonics, geometry, exact/floating-point experiments and physical-law realization tests. |
 | **[Nested holarchies, N-body + neurons](./field-notes/HOLARCHY_NEURONS.md)** | Parent/child bodies, compositional identity, coupled kernels, neural learning, feedback, specialization, populations and multiscale cognition research. |
 | **[Accountable autopoiesis + organogenesis](./field-notes/AUTOPOIESIS.md)** | History-bearing bodies, memory, scars and retained consequences, candidate organs, learned degrees of freedom, self-maintenance and developmental lifecycles. |
@@ -108,7 +124,7 @@ It's mathematics **and** code **and** machines **and** developmental history **a
 
 **LEVI isn't being built as an LLM with a personality, a generic tool agent or a race to claim AGI.** He's a real, developing experimental chassis at the center of a larger investigation: can a computational body carry **its own continuity, developmental memory, resources, history, physical context, and accountability** while it learns to perform useful work?
 
-The proposed architecture is a **bounded, non-closed, holarchic recursive body**—constituted around the **five-field dynamics**, lifted history, context and append-only evidence. Models, neural networks, perception tools, solvers and GPUs can become specialists within it. **The body is intended to remain the body when those parts change.**
+The proposed architecture is a **bounded, non-closed, holarchic recursive body** grounded in the **irreducible Minimum-Five law: ϕ, τ, ψ, χ, Λ**. **Not four.** Its history, context, scar lineage and evidence are additional body records and obligations—not a replacement four-variable state. Models, neural networks, perception tools, solvers and GPUs can become specialists within this minimum-five body. **LEVI is the physical effort to realize and test that constitutional mathematics.**
 
 <div align="center">
 <img src="./assets/levi-body-frontier.svg" width="100%" alt="Original LEVI body research diagram showing the Five-Field Recursion Engine surrounded by adaptive state, retained history, context, evidence and a persistent body architecture." />
@@ -126,7 +142,7 @@ The proposed architecture is a **bounded, non-closed, holarchic recursive body**
 
 | Architectural ambition | Why it matters |
 | --- | --- |
-| **Constitutive recursive law** | The 5FRE update is a proposed body-level grammar, not just a plugin attached to a chatbot. |
+| **Minimum-Five constitutive law** | The **five independently supported functions** ϕ, τ, ψ, χ, Λ are the declared minimum complete basis of bodyhood; the registered operator has a scoped exact five-state minimum and admitted realizer support invariance. **[The mathematics →](./field-notes/MINIMUM_FIVE.md)** |
 | **History-bearing identity** | State is lifted with lineage, context, constraints and witnesses; a replaceable model is not the body. |
 | **Thermodynamic and geometric research** | Viability, resource burden, dissipative regulation, admissible state geometry, coupled kernels and constrained degrees of freedom. |
 | **Accountable autopoiesis** | Research into lawful self-maintenance and candidate-organ formation with validation, retained evidence and future continuation. |
