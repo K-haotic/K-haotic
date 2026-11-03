@@ -73,10 +73,9 @@ I carried that approach into industrial construction, power-generation environme
 - Work across business management, product development, interdisciplinary collaboration, investigation, documentation, and actual machine testing.
 - Apply AI to diagnostic research, mechanical/electrical troubleshooting, maintenance documentation and training, while investigating **predictive maintenance, sensor-history analysis, CAD/3D equipment visualization and AR/VR industrial instruction**.
 
-### Earlier maritime service
-**U.S. Navy — Boatswain's Mate / Coxswain (recorded professional history)**
+### Earlier period | [REDACTED]
 
-Small-craft operation, maritime duties, firefighting, damage control, emergency response, and the discipline of carrying out difficult work with a crew.
+**[REDACTED — PRIVATE HISTORY]** Details from this period are intentionally withheld from the public résumé.
 
 ## Full field capability: more than a job title
 
