@@ -1,12 +1,12 @@
 # EMBODIMENT / PHYSICAL AI / LEVI / ANDROID / LEVI AIR
 
-[Front door](../README.md) | [Research program](RESEARCH.md) | [Recursive body design](AUTOPOIESIS.md) | [Source ledger](PROVENANCE.md)
+[Front door](../README.md) | [LEVI — the body comes first](LEVI.md) | [LEVI milestone ledger](LEVI_PROGRESS.md) | [Research program](RESEARCH.md) | [Recursive body design](AUTOPOIESIS.md) | [Source ledger](PROVENANCE.md)
 
 ## Hardware is not a prop
 
 The research program is deliberately **substrate-aware without requiring one permanent substrate**. Experience with turbines, compressors, hydraulic controls, heavy equipment, power-generation environments and industrial maintenance feeds into an engineering habit: a command, a sensor reading, a simulated state, a controller's intent and the physical effect are five different things.
 
-LEVI is investigated as a *history-bearing computational body* whose models, devices and process realizers can change without silently losing who acted, what was attempted, what was observed and what may happen next. This is more than a chatbot with a custom UI, and less than a claim that the entire envisioned autonomous machine is operational today.
+**LEVI is a real experimental native-computing chassis at the heart of a far more ambitious question:** can a persistent, history-bearing recursive body carry its own constitutive dynamics, inherited state, obligations, context and evidence across replaceable models and changing physical devices? The program is about measurable developmental continuity, not merely a chatbot interface, a model's next inference or a task runner. We test the physical implementation one admitted capability at a time. **[Explore LEVI's full bodyhood thesis](LEVI.md).**
 
 ## The embodied research stack
 
