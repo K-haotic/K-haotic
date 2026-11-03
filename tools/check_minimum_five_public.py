@@ -91,6 +91,27 @@ for name, tokens in CORE.items():
         forbid(name, body, r"\*\*REDACTED\*(?!\*)",
                "malformed Markdown around a redaction marker")
 
+# Public biography protection: preserve the intentional redaction itself.
+# This check deliberately stores no identifying facts about the private period.
+timeline_expected = "| **Earlier period** | **[REDACTED — PRIVATE HISTORY]** | Details intentionally withheld from this public résumé. |"
+timeline_rows = [
+    line for line in PUBLIC["README.md"].splitlines()
+    if line.startswith("| **Earlier period** |")
+]
+if timeline_rows != [timeline_expected]:
+    ERRORS.append("README.md: earlier-period public timeline must remain fully redacted")
+
+engineering = PUBLIC["field-notes/ENGINEERING.md"]
+private_section_start = engineering.find("### Earlier period | [REDACTED]")
+private_section_end = engineering.find("\n## ", private_section_start + 1) if private_section_start >= 0 else -1
+private_section_expected = (
+    "### Earlier period | [REDACTED]\n\n"
+    "**[REDACTED — PRIVATE HISTORY]** Details from this period are intentionally withheld from the public résumé."
+)
+if (private_section_start < 0 or private_section_end < 0 or
+    engineering[private_section_start:private_section_end].strip() != private_section_expected):
+    ERRORS.append("field-notes/ENGINEERING.md: earlier-period section must remain redacted")
+
 for svg_name in ("assets/minimum-five-foundation.svg", "assets/levi-body-frontier.svg", "assets/khaotic-research-vault.svg"):
     try:
         root = ET.fromstring(PUBLIC[svg_name])
