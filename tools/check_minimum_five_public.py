@@ -57,7 +57,7 @@ CORE = {
     "field-notes/COMPLEX_SYSTEMS.md": ["Minimum Five", "[REDACTED · CANONICAL RECURRENCE", "[REDACTED · EXACT JACOBIAN", "MINIMUM_FIVE.md"],
     "field-notes/RESEARCH.md": ["MINIMUM FIVE", "MINIMUM_FIVE.md", "RESEARCH_ACCESS.md"],
     "field-notes/ENGINEERING.md": ["[REDACTED — PRIVATE HISTORY]"],
-    "field-notes/RESEARCH_ACCESS.md": ["THE PUBLIC THEOREM", "CURRENT-VIEW REDACTION", "PRIVATE", "Minimum Five"],
+    "field-notes/RESEARCH_ACCESS.md": ["THE PUBLIC THEOREM", "PUBLIC BRANCH REWRITE", "GitHub-managed pull-request references", "PRIVATE", "Minimum Five"],
     "field-notes/AUTOPOIESIS.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
     "field-notes/PROVENANCE.md": ["Minimum-Five", "MINIMUM_FIVE.md"],
     "field-notes/EMBODIMENT.md": ["Minimum Five", "MINIMUM_FIVE.md"],
