@@ -82,9 +82,15 @@ I founded **Khaotic Gaming LLC** to build new experiences and technologies, and 
 
 My original **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** investigate **one mathematically realizable way reality can generate and sustain persistent, evolving structure**. The foundation is **MINIMUM FIVE**: emergence **ϕ**, ordering **τ**, memory **ψ**, coherence **χ** and regulation **Λ** form the minimum complete effective support basis for the declared recursive-body theory. This is the core of our nonlinear and **hybrid dynamical systems**, coupled kernels, attractors, geometry, thermodynamic investigation, viability, memory, physical computing, embodied development and formal proof program.
 
+<div align="center">
+<a href="./field-notes/MINIMUM_FIVE.md"><img src="./assets/minimum-five-foundation.svg" width="100%" alt="The Minimum Five foundation: phi emergence, tau ordering, psi memory, chi coherence and Lambda regulation; scoped exact state theorem, formal Lean support result, realizer invariance and open BHUAT physical hypothesis." /></a>
+</div>
+
 **THIS IS MORE THAN A NAME FOR FIVE VARIABLES.** The repo contains a scoped proof that the registered operator needs **exactly five continuous state dimensions**, machine-checked independent-support minimum-five theorems, support-preserving realizer invariance, and active reduced-field/falsification experiments. **Four visible coordinates or a rank-four response are not the same as four independent bodyhood supports.** The wider physical interpretation is the BHUAT research hypothesis; the mathematical results have named scopes.
 
 **[MINIMUM FIVE — THE MATHEMATICAL FOUNDATION, PROOFS AND PHYSICAL HYPOTHESIS →](./field-notes/MINIMUM_FIVE.md)**
+
+**The proof stack:** Scoped **mₘᵢₙ = 5** for the registered ordered operator · Lean-checked independent support **arity ≥ 5** · Realizer-invariant minimum five within the admitted support-preserving class · Active hidden-support and physical-hypothesis challenges. **The project does not equate a measured response rank four with a four-support body.**
 
 It's mathematics **and** code **and** machines **and** developmental history **and** governed action **and** worlds people can use.
 
