@@ -10,7 +10,7 @@
 
 ## Why keep a journal?
 
-LEVI is a **physical, experimental realization of a proposed accountable recursive body**. This journal documents the engineering path from the five-field mathematics to actual native computation, device observation, memory, lineage, self-maintenance and future measurable developmental autonomy.
+LEVI is a **physical, experimental realization of BHUAT/5FRE's proposed Minimum-Five recursive body law**. At the root are **ϕ emergence, τ ordering, ψ memory, χ coherence and Λ regulation**—the declared minimum complete independent functional basis. The program asks whether this is one physical route through which reality can sustain persistent structure. The journal follows those exact mathematics into actual native computation, device observation, memory, lineage, self-maintenance and future developmental autonomy. **[Minimum-Five mathematical and physical research foundation](MINIMUM_FIVE.md).**
 
 The point is not to declare a static launch or wait for one enormous result. **The engineering progress is the story**: formal definitions, software, boot and firmware development, CPU acceptance, GPU tests, transport, repairs, telemetry, evidence preservation and each next gate.
 
@@ -19,7 +19,7 @@ This is **a dated research journal, not an automatic real-time dashboard**. All 
 ## Recorded checkpoints
 
 ### 2025 — Original invention and research foundation
-- The Five-Field Recursion Engine (5FRE) and Britt–Howard Unified Aetheric Theory (BHUAT) establish the mathematical and computational research direction.
+- The Five-Field Recursion Engine (5FRE) and Britt–Howard Unified Aetheric Theory (BHUAT) establish the **Minimum-Five** mathematical and physical-theory research direction: five irreducible bodyhood obligations, a registered nonlinear ordered map, exact local state-dimension theorem and conditional effective-support proof program.
 - U.S. provisional filing **63/851,781** recorded on July 27, 2025.
 
 **Research meaning:** a named invention and investigable model precede a future physical body.
