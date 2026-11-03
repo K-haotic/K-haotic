@@ -1,0 +1,151 @@
+{
+  "schema": "khaotic.levi.public-evidence.v1",
+  "publication_date": "2026-11-03",
+  "character": "reviewed public snapshot; not live telemetry",
+  "source_basis": "K-haotic GitHub public evidence ledger and November 2026 physical development records",
+  "records": [
+    {
+      "id": "GPU16",
+      "date": "2026-09-16",
+      "stage": "recorded",
+      "family": "Physical numerics",
+      "title": "16 GPU PTX launches",
+      "summary": "RTX 5060 Ti / Linux NVIDIA, two tested binary64 five-field trajectories with zero observed ULP differences against CPU reference.",
+      "sources": [
+        "field-notes/EVIDENCE.md",
+        "field-notes/LEVI_PROGRESS.md"
+      ],
+      "substrate": "Linux GPU",
+      "value": {
+        "launches": 16,
+        "observed_ulp_error_on_tested_traces": 0
+      }
+    },
+    {
+      "id": "CROSS7",
+      "date": "2026-09-16",
+      "stage": "recorded",
+      "family": "Replicability",
+      "title": "Seven initial-condition scales",
+      "summary": "Predeclared finite-horizon amplification criterion met under recorded cross-machine comparisons and controls.",
+      "sources": [
+        "field-notes/EVIDENCE.md",
+        "field-notes/LEVI_JOURNAL.md"
+      ],
+      "substrate": "Cross-machine numeric experiment",
+      "value": {
+        "perturbation_scales": 7
+      }
+    },
+    {
+      "id": "SMP16",
+      "date": "2026-11-01",
+      "stage": "recorded",
+      "family": "Native chassis",
+      "title": "Authenticated 16-way SMP",
+      "summary": "Boot-specific native CPU/SMP evidence; not a statement that all current peripheral services are commissioned.",
+      "sources": [
+        "field-notes/EMBODIMENT.md",
+        "field-notes/LEVI_PROGRESS.md"
+      ],
+      "substrate": "LEVI native boot",
+      "value": {
+        "logical_cpus": 16
+      }
+    },
+    {
+      "id": "N9CPU",
+      "date": "2026-11-01",
+      "stage": "recorded",
+      "family": "Native chassis",
+      "title": "Five of five N9 CPU jobs",
+      "summary": "Native CPU execution epoch recorded with authenticated boot/source custody.",
+      "sources": [
+        "field-notes/LEVI_PROGRESS.md",
+        "field-notes/LEVI_JOURNAL.md"
+      ],
+      "substrate": "LEVI native boot",
+      "value": {
+        "jobs_complete": 5,
+        "jobs_total": 5
+      }
+    },
+    {
+      "id": "NEURAL5",
+      "date": "2026-10-23",
+      "stage": "recorded",
+      "family": "Developmental research",
+      "title": "Five-neuron residual learner",
+      "summary": "Small 25-parameter trainable research component in source; not a complete LEVI cognition benchmark.",
+      "sources": [
+        "field-notes/HOLARCHY_NEURONS.md",
+        "field-notes/LEVI.md"
+      ],
+      "substrate": "Source implementation",
+      "value": {
+        "neurons": 5,
+        "parameters": 25
+      }
+    },
+    {
+      "id": "ORGAN60",
+      "date": "2026-06-27",
+      "stage": "recorded",
+      "family": "Developmental research",
+      "title": "Scar-to-organ event at step 60",
+      "summary": "Validated event in toy/simulation apparatus; not a native self-created physical organ.",
+      "sources": [
+        "field-notes/AUTOPOIESIS.md",
+        "field-notes/LEVI.md"
+      ],
+      "substrate": "Simulation",
+      "value": {
+        "event_step": 60
+      }
+    },
+    {
+      "id": "GPU_N",
+      "date": "2026-11-02",
+      "stage": "frontier",
+      "family": "Native chassis",
+      "title": "Native GPU compute admission",
+      "summary": "GSP/RM bring-up and recovery investigation; previous GPU_INIT attempt marked no-retry for its boot.",
+      "sources": [
+        "field-notes/LEVI_PROGRESS.md",
+        "field-notes/LEVI_JOURNAL.md"
+      ],
+      "substrate": "LEVI native GPU",
+      "value": null
+    },
+    {
+      "id": "SELFHOST",
+      "date": "2026-11-03",
+      "stage": "proposed",
+      "family": "Accountable autopoiesis",
+      "title": "N→N+1→N+2 self-hosting closure",
+      "summary": "Preregisterable generational continuity acceptance target; not yet recorded as a successful physical test.",
+      "sources": [
+        "field-notes/LEVI.md",
+        "field-notes/LEVI_BENCHMARKS.md"
+      ],
+      "substrate": "Future governed experiment",
+      "value": null
+    },
+    {
+      "id": "INDEP",
+      "date": "2026-11-03",
+      "stage": "proposed",
+      "family": "Independent evaluation",
+      "title": "Comparative LEVI benchmark",
+      "summary": "Controlled baselines, hardware/compute budget, continuity, retention, resource energy and effects. No comparative scores reported.",
+      "sources": [
+        "field-notes/LEVI_BENCHMARKS.md"
+      ],
+      "substrate": "Future preregistered evaluation",
+      "value": null
+    }
+  ],
+  "comparison_results": [],
+  "comparison_status": "NOT_RUN",
+  "public_contact": "admin@khaotic.ai"
+}
