@@ -118,6 +118,7 @@ The proposed architecture is a **bounded, non-closed, holarchic recursive body**
 <a href="./field-notes/LEVI.md"><img alt="LEVI technical vision" src="https://img.shields.io/badge/EXPLORE-LEVI_BODY_RESEARCH-45D7E3?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI_PROGRESS.md"><img alt="LEVI progress" src="https://img.shields.io/badge/SEE-LEVI_PROGRESS-70D3A7?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI_BENCHMARKS.md"><img alt="Experimental comparison design" src="https://img.shields.io/badge/DESIGN-INDEPENDENT_BENCHMARKS-E8C277?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./docs/OPEN_LAB.md"><img alt="LEVI open lab" src="https://img.shields.io/badge/JOIN-LEVI_OPEN_LAB-B49BFF?style=for-the-badge&amp;labelColor=122338" /></a>
 
 </div>
 
@@ -163,7 +164,7 @@ The chassis keeps moving through engineering gates. The public record distinguis
 
 I'm a self-directed inventor and lifelong learner. **I want critical mentors, not an echo chamber.** We need stronger external tests, critiques of the assumptions, comparisons with serious baselines, and collaborators across nonlinear dynamics, geometry, thermodynamics, developmental systems, robotics, formal methods and AI evaluation.
 
-**[Read LEVI's full research story →](./field-notes/LEVI.md)** · **[Dated build ledger →](./field-notes/LEVI_PROGRESS.md)** · **[Benchmark methodology →](./field-notes/LEVI_BENCHMARKS.md)** · **[Contact the lab →](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship)**
+**[LEVI's full research story →](./field-notes/LEVI.md)** · **[Engineering journal →](./field-notes/LEVI_JOURNAL.md)** · **[Interactive explorer / release source →](./docs/README.md)** · **[Independent Open Lab challenges →](./docs/OPEN_LAB.md)** · **[Benchmark methodology →](./field-notes/LEVI_BENCHMARKS.md)** · **[Contact RPLΩ →](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship)**
 
 ---
 
@@ -175,7 +176,7 @@ I'm a self-directed inventor and lifelong learner. **I want critical mentors, no
 | **Filed inventions** | U.S. provisional **63/851,781** (July 27, 2025) and nonprovisional **19/755,751** (July 27, 2026), naming Steven Ray Britt as inventor. |
 | **Research and engineering infrastructure** | KEEL, Helm, Adaptive Fabric, OMMI, Garden/Hive work, typed protocols, reproducible numerical and build/test evidence. |
 
-**[Featured work dossier →](./field-notes/FEATURED_WORK.md)** · **[Research evidence ledger →](./field-notes/EVIDENCE.md)** · **[Complete system ownership map →](./field-notes/SYSTEMS.md)**
+**[Featured work dossier →](./field-notes/FEATURED_WORK.md)** · **[Five-field interactive explorer source →](./docs/index.html)** · **[Research evidence ledger →](./field-notes/EVIDENCE.md)** · **[Complete system ownership map →](./field-notes/SYSTEMS.md)**
 
 <details>
 <summary><strong>Expand: How the entire research stack connects</strong></summary>
