@@ -13,13 +13,13 @@ I learned to build houses with my father and spent years as an industrial lead t
 
 **I don't want the lab to become an echo chamber.** I need better questions, stronger counterexamples, practitioners with different experience and outside eyes on the test design. This isn't a call for people to accept my theory; it's an invitation to challenge it constructively.
 
-## Research challenge 1 — What is an accountable recursive body?
+## Research challenge 1 — Test Minimum Five, the actual foundation
 
-The public formalization proposes an exposed five-field state with additional history, context and evidence. Analyze whether this lifted state is sufficient for meaningful persistence, recoverability and admitted adaptation.
+**BHUAT proposes one way reality can generate bounded, persistent structure through five independent recursive obligations: ϕ emergence, τ ordering, ψ memory, χ coherence and Λ regulation.** The program already contains an exact local five-state theorem for the registered ordered operator, a Lean-checked fixed-basis support-minimum and an admitted realizer-invariance result.
 
-**What would help:** a precise mathematical definition, counterexample, minimal theorem, formal invariant or a test where an ordinary persisted-state machine behaves identically.
+**What would help:** interrogate the proof scopes, challenge semantic independence, attempt an honest **four-effective-support** body with all hidden/external support counted, design new negative controls, or find a distinct physically discriminating test. A four-dimensional plot or response rank is not by itself the requested counterexample.
 
-**Related:** [LEVI body thesis](../field-notes/LEVI.md), [Autopoiesis](../field-notes/AUTOPOIESIS.md).
+**Related:** [Minimum Five](../field-notes/MINIMUM_FIVE.md), [LEVI body thesis](../field-notes/LEVI.md), [Autopoiesis](../field-notes/AUTOPOIESIS.md).
 
 ## Research challenge 2 — Thermodynamics and viability
 

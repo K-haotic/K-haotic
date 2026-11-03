@@ -1,0 +1,36 @@
+name: Minimum-Five public canon integrity
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - field-notes/**
+      - docs/**
+      - assets/minimum-five-foundation.svg
+      - assets/levi-body-frontier.svg
+      - tools/check_minimum_five_public.py
+      - .github/workflows/minimum-five-public-integrity.yml
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - field-notes/**
+      - docs/**
+      - assets/minimum-five-foundation.svg
+      - assets/levi-body-frontier.svg
+      - tools/check_minimum_five_public.py
+      - .github/workflows/minimum-five-public-integrity.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-minimum-five:
+    name: Minimum Five / public claim integrity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out public profile
+        uses: actions/checkout@v4
+      - name: Verify five-field foundation and evidence status
+        run: python3 tools/check_minimum_five_public.py

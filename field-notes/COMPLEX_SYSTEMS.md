@@ -4,7 +4,7 @@
 
 ## Where the mathematics begins
 
-The Britt-Howard Unified Aetheric Theory (BHUAT) is an original investigative framework; the Five-Field Recursion Engine (5FRE) gives the public research an executable mathematical form. The five *operational state roles* are emergence (`phi`), cadence/structure (`tau`), memory (`psi`), contextual coherence (`chi`) and pressure/regulation (`Lambda`). The fields are coordinates in an explicit nonlinear computational model; calling them fields does not certify a new universal physical theory.
+The **Britt–Howard Unified Aetheric Theory (BHUAT)** is Steven Ray Britt's original hypothesis for **one mathematically realizable route by which physical reality could generate and sustain persistent recursive structure**. The Five-Field Recursion Engine (5FRE) is its executable mathematical program. Its **Minimum-Five principle** requires a declared independent support basis of emergence (`phi`), cadence/structure (`tau`), memory (`psi`), contextual coherence (`chi`) and pressure/regulation (`Lambda`). **Five is a structural research requirement, not an arbitrary notation choice.** The repository supplies scoped exact theorems and machine-checked minimum-five support results, while the larger physical account is investigated through separate experimental gates. **[Read the foundational Minimum-Five research statement](MINIMUM_FIVE.md).**
 
 [REDACTED - REGISTERED OPERATOR IDENTIFIER]
 
@@ -41,9 +41,15 @@ Another research lane, **Recursive Resolution by Event Reduction (RRER)**, asks 
 | **Time and order** | Physical clock/metrology, causal ordering, internal `tau`, polycordal cadences and observer-relative temporal reconstruction | Different time objects; `tau` must not be reported as proper time. |
 | **Formal methods** | Theorem statements, Lean proofs, typed realizers, proof obligation families, numerical identity and negative controls | Exact statements only within assumptions; tests are not formal proofs. |
 
-## A five-state theorem without a five-field mythology
+## Minimum Five — two exact theorem layers and the wider physical question
 
-The exact state-dimension minimality analysis states that the registered map requires five coordinates to realize its local full state continuously and exactly on nondegenerate neighborhoods. That is stronger than simply listing five labels. It is also *narrower* than claiming that five is the universally minimal number of physical fields or that every useful four-state approximation is impossible. Reduced behavioral models can still be valuable for finite tests and selected observables (R03, R04).
+[REDACTED - JACOBIAN FACTORIZATION]
+
+A distinct machine-checked theorem establishes an exact **minimum effective support arity of five** for the declared independent five-obligation basis. Another formal result preserves that minimum across **admitted support-preserving 5FRE realizers**. The serious remaining scientific question is the semantic independence of those obligations across arbitrary challengers after hidden clocks, evaluators, memory and other imported support are counted.
+
+A four-dimensional diagnostic, projection or measured rank is **not** a demonstrated four-effective-support recursive body. The frozen V2 intervention-response campaign did observe response rank four; the repo preserves that outcome and did not admit a qualifying four-support body from it. **These are separate experimental and mathematical claims.**
+
+BHUAT's broader ambition remains a physical and ontological investigation: **Minimum Five as one candidate means by which reality may generate bounded, persistent, non-terminal structure through recursive law.** [Read the full Minimum-Five argument, theorem scopes and challengers](MINIMUM_FIVE.md).
 
 ## Coupled kernels, phase structure and holarchic N-body research
 

@@ -1,10 +1,12 @@
 # RESEARCH EVIDENCE REGISTER / PUBLIC DISCLOSURE
 
-[Front door](../README.md) | [Research thesis](RESEARCH.md) | [Complex systems](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [LEVI and embodiment](EMBODIMENT.md) | [Languages & cryptography](LANGUAGES_CRYPTO.md)
+[Front door](../README.md) | [Minimum Five / fundamental mathematics](MINIMUM_FIVE.md) | [Research thesis](RESEARCH.md) | [Complex systems](COMPLEX_SYSTEMS.md) | [Recursive bodies](AUTOPOIESIS.md) | [LEVI and embodiment](EMBODIMENT.md) | [Languages & cryptography](LANGUAGES_CRYPTO.md)
 
 **87 curated topic/evidence entries · 80 distinct underlying research sources · 14 interconnected research families.**
 
 > **Publication boundary:** The original research repository is **private**. The entries below are readable public summaries prepared from a dated owner-access source review (November 3, 2026). They are **not public source-code releases**, externally accessible citations, independent reproduction, proof of patents, proof of full runtime deployment, or claims of scientific peer review. Source-level evidence may be supplied selectively under an appropriate review or collaboration arrangement. No private file paths, commit identifiers, keys, device identifiers, or unreleased source are published by this index.
+
+**Foundation checkpoint:** The [Minimum-Five research statement](MINIMUM_FIVE.md) consolidates the **scoped exact local five-state operator theorem**, **Lean-checked fixed-basis effective-support minimum five**, **realizer-invariance in the admitted support-preserving 5FRE class**, and **the observed rank-four V2 response that did not establish complete four-support bodyhood**. This is not an extra invented research family or a retroactive change to the 87-entry count; it is a public reading map for the mathematical core already present in the source corpus.
 
 The entry IDs provide stable points of discussion in this public profile. The original private research archive retains the source documents, code, test fixtures and their full provenance. The labels refer to their original source posture; they have **not** all been independently validated by outside reviewers.
 

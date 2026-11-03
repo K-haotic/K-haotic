@@ -4,7 +4,11 @@
 
 ## The fundamental distinction: model versus body
 
-A language model, neural component or process can be swapped. The proposed *recursive body* is a larger history-bearing object. In the project's foundation the lifted state has exposed five-field state **X**, retained history **H**, support/context **C** and event/scar/evidence **E**. Its legal update includes more than copying current numerical coordinates. Its continuing identity depends on lineage, prior permissions, witnesses, preserved constraints and whether lawful future behavior remains possible.
+A language model, neural component or process can be swapped. The proposed *recursive body* is a larger history-bearing object founded on the **irreducible Minimum-Five operational law**:
+
+**Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)** — emergence, ordering, memory, coherence and regulation.
+
+The body also retains **history, source lineage, contextual constraints, resources, scarring, authority and witnessed evidence**. Those additional developmental records do **not** collapse the five obligations into a four-field state. Its legal update includes more than copying numerical coordinates; continuing identity depends on inherited conditions and whether lawful continuation remains possible. **[Minimum Five is the constitutive starting point](MINIMUM_FIVE.md).**
 
 ```text
 current state != whole body

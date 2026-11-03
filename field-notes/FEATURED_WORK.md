@@ -37,7 +37,7 @@ I diagnosed hydraulic actuators, accumulators, bladders, pumps, valves, solenoid
 
 ## 04 / Original nonlinear and hybrid mathematics: BHUAT / 5FRE
 
-**What I originated.** **Britt–Howard Unified Aetheric Theory (BHUAT)**, and the **Five-Field Recursion Engine (5FRE)** as a computational research program. The registered ordered five-state operator uses **ϕ, τ, ψ, χ and Λ** for emergence, structure/cadence, retained memory, contextual interaction and regulation/pressure.
+**What I originated.** **Britt–Howard Unified Aetheric Theory (BHUAT)** and the **Five-Field Recursion Engine (5FRE)** as a mathematical, computational and physical-theory research program proposing **one way reality can produce and sustain complex structure through recursive law**. Its **Minimum-Five principle** is the declared irreducible functional basis: **ϕ emergence, τ cadence/order, ψ memory, χ coherence, Λ regulation**. The ordered five-state map has a scoped exact five-dimensionality theorem; declared support-solvency minimum five is machine-checked, with a realizer-invariance result in its admitted class. The broader physical hypothesis is investigated through separate falsifiable experiments. **[See the Minimum-Five foundation](MINIMUM_FIVE.md).**
 
 **How I investigate it.** Explicit update order, nonlinear maps, Jacobians and Lyapunov behavior, viability and invariant sets, hybrid event conditions, coupled kernels, controlled comparisons, exact arithmetic and binary64 implementations, finite-step experiments and formal propositions.
 
