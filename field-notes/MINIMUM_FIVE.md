@@ -15,11 +15,11 @@ This is **not** a decorative list of five inspirational ideas. **Minimum Five** 
 The canonical operational state is
 
 
-$
+$$
 
 \boxed{X_n=(\phi_n,\tau_n,\psi_n,\chi_n,\Lambda_n)}
 
-$
+$$
 
 
 In Unicode: **Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)**.
@@ -43,7 +43,7 @@ No field is silently removed, identified with another field, or replaced by a de
 One canonical registered realization, **OP-5F-SEQ-QUAD-FRESH-V1**, has a fresh-predecessor update:
 
 
-$
+$$
 
 \begin{aligned}
 \phi_{n+1} &= 1-a\phi_n^2+k_1\Lambda_n,\\
@@ -53,7 +53,7 @@ $
 \Lambda_{n+1} &= c_4\chi_{n+1}-d\Lambda_n.
 \end{aligned}
 
-$
+$$
 
 
 **The order is part of the mathematics.** τ consumes the *new* ϕ, ψ consumes the *new* τ, χ consumes the *new* ψ, and Λ consumes the *new* χ. A synchronous historical variant, hybrid Vent composition, clamp, reset or alternate realizer is not automatically this same operator.
@@ -65,11 +65,11 @@ The wider 5FRE program investigates **nonlinear and hybrid dynamics**: guards, t
 For the registered ordered operator, the project derives
 
 
-$
+$$
 
 \det DF=2ad\,\phi(1-c_1)(1-c_2)(1-c_3).
 
-$
+$$
 
 
 Where this determinant is nonzero, the operator is locally invertible. Exact continuous realization on such an open five-dimensional neighborhood requires at least five real state coordinates: fewer cannot continuously encode and reconstruct the local exact transition without losing information.
@@ -77,11 +77,11 @@ Where this determinant is nonzero, the operator is locally invertible. Exact con
 The original map itself uses five state coordinates, so the lower and upper bounds agree:
 
 
-$
+$$
 
 \boxed{m_{\min}=5}
 
-$
+$$
 
 
 **Result:** Exactly five is the minimum local continuous exact state dimension **for this registered operator on its nondegenerate theorem domain**.
@@ -93,21 +93,21 @@ This is a stronger statement than "we happen to use five variables." It is not t
 A separate formal proof program begins with five declared independently required *bodyhood obligations*. Its support basis can be written as
 
 
-$
+$$
 
 O=\{\text{emergence},\text{cadence},\text{memory},\text{coherence},\text{regulation}\}.
 
-$
+$$
 
 
 For the declared independent-coverage model, **complete support holds if and only if effective arity is at least five**:
 
 
-$
+$$
 
 \text{CompleteIndependentCoverage}(n)\;\Longleftrightarrow\; 5\le n.
 
-$
+$$
 
 
 Its Lean formalization closes the fixed-basis arithmetic result. A related theorem proves that **every admitted 5FRE realizer with an explicit support-preserving bridge** carries the same minimum-five support-solvency floor. That result does not depend on whether the realizer calls its coordinates by the original five names.
