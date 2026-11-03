@@ -39,6 +39,20 @@ I use AI to extend my reach—**not to surrender authorship, experimental judgme
 | :---: | :---: | :---: |
 | Industrial engineering & leadership | Provisional (2025) + nonprovisional utility (2026) | CPU/GPU conformance & native LEVI milestones |
 
+## ⟡ LEVI — the physical machine
+
+<div align="center">
+
+<a href="./assets/levi-native-operator-2026-11.jpg"><img src="./assets/levi-native-operator-2026-11.jpg" width="100%" alt="Photograph of the physical LEVI display running the native 5FRE body read-only operator interface. The blue menu lists system status, file and disk managers, network manager, CPU/GPU/RAM, KEEL generations, Adaptive Fabric, permissions and recovery." /></a>
+
+<br />
+
+<sub><strong>LEVI | Native 5FRE body operator display · November 2026</strong><br />An actual photograph of my experimental chassis. The screen shows the native operator view and available menu surfaces; it is not a claim that every displayed subsystem is fully commissioned or that autonomous intelligence has been demonstrated. Click the image to view full size.</sub>
+
+</div>
+
+**From equations to firmware to physical hardware.** The same research program reaches from nonlinear mathematics and deterministic execution into native firmware, authenticated system states, real machine interfaces, continuity and recovery. The machine is experimental. The work and measured milestones are real; unfinished capabilities remain engineering goals.
+
 ## ⟡ Research, architecture, and the machine
 
 <table>
