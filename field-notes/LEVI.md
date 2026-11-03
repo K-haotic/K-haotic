@@ -39,6 +39,8 @@ These are proposed properties, formal models and developmental targets; **classi
 
 ## 02 / The five-field law is constitutive
 
+**[See the complete Minimum-Five visual foundation and theorem map](MINIMUM_FIVE.md)** — no four-field shorthand, no missing τ, no substitution of bookkeeping for constitutional law.
+
 The **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** propose a fundamental mathematical route by which reality can generate and sustain recursive, persistent structure. At the operational level, **MINIMUM FIVE is non-negotiable in the declared bodyhood law**:
 
 **Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)**
