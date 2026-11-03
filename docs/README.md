@@ -8,6 +8,7 @@ GitHub's README view cannot execute custom JavaScript. This explorer is a normal
 
 - Cinematic authentic chassis photo and clearly labeled illustrated motion storyboard; no fabricated live footage.
 - Filterable evidence ledger: recorded vs active frontier vs proposed, including **Minimum-Five exact theorem, Lean support, realizer-invariance and challenger records**, with dated public source links.
+- **Minimum-Five proof panel:** visual five-obligation basis, scoped exact five-state theorem, Lean-checked independent-support floor, admitted realizer invariance and open BHUAT physical hypothesis.
 - Five-field browser laboratory: adjustable recurrence parameters, locally calculated chart and step inspector. Explicit simulation, never live LEVI telemetry.
 - Benchmark preregistration: choose evaluation family, baseline, trial count and test substrate, then export a JSON proposal with no fake results.
 - Open Lab: interdisciplinary critique, mentor invitation and independent evaluation challenges.
