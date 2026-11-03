@@ -57,13 +57,13 @@ The related cross-machine initial-condition study recorded **seven predeclared p
 
 ## 06 / LEVI: a physical developmental-computing research chassis
 
-**What I direct.** **LEVI** combines native firmware, CPU and GPU investigations, physical device observations, continuity and authenticated execution with a larger research agenda around history-bearing computational bodies.
+**What I direct.** **LEVI** is the physical/native realization program for a proposed **accountable developmental recursive body**: five-field constitutive dynamics, retained lineage, context, evidence and bounded adaptation. The chassis integrates real firmware, CPU and GPU investigation, sensors, physical observations and recovery. Neural models and tools may serve as components without owning the body's continuing identity.
 
 **Recorded milestones.** Specific native boot epochs have authenticated **16-way SMP** and **5/5 N9 CPU jobs** completed, alongside UEFI and transport research. The physical chassis photograph on the [GitHub front door](../README.md) is the actual system.
 
 **Why it matters.** A system that's supposed to develop through experience must survive hardware faults, restarts, model changes and incompatible assumptions without rewriting what actually happened.
 
-**[Physical AI and embodiment](EMBODIMENT.md)** · **[Systems map](SYSTEMS.md)** · **[Research evidence](EVIDENCE.md)**
+**[LEVI — the full research thesis](LEVI.md)** · **[Dated progress ledger](LEVI_PROGRESS.md)** · **[Independent benchmarks](LEVI_BENCHMARKS.md)** · **[Systems map](SYSTEMS.md)** · **[Research evidence](EVIDENCE.md)**
 
 ## 07 / Learning, holarchic bodies and accountable organogenesis
 
