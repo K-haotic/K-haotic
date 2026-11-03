@@ -23,6 +23,18 @@
 
 **Important distinction:** successful **Linux-driver GPU numerical experiments** and working **native LEVI GPU compute** are separate achievements. The first has recorded evidence; the second remains the frontier in the reviewed records.
 
+## Recent development is visible in source history
+
+The native chassis effort advances through more than successful compute tests. The maintained research repository also records work on the interfaces and custody needed to make later compute and embodiment reliable:
+
+| Date | Source development reported | Why it matters |
+| --- | --- | --- |
+| **November 1, 2026** | Native WAND tether descriptor preparation; xHCI initial-control-packet correction; physical Android USB selection and stale-ADB-entry handling. | Turns the phone and USB paths into more reliable candidates for actual embodied observation rather than application-only mock interfaces. |
+| **November 2, 2026** | Receipt-bound build-worktree retirement and read-only preview separation were consolidated into the maintained source history. | Prevents cleanup operations from silently discarding active work or evidence while hardware and source generations change. |
+| **November 3, 2026** | Public Historical Atlas research and lineage crosswalks continued integrating into the public-facing research presentation. | Makes the research history and source relationships more inspectable to outside readers; this is documentation/source integration, not a claim that the chassis reached another physical hardware gate. |
+
+Those dated commits demonstrate ongoing source engineering. **They are not substitutes for independent live-hardware acceptance receipts**, which stay attached to their specific boot or execution epochs.
+
 ## The current engineering climb
 
 The next native frontier can be expressed as acceptance gates, not promises of an automatic release date.
