@@ -26,6 +26,7 @@
 <a href="./field-notes/MINIMUM_FIVE.md"><img alt="Minimum Five fundamental mathematics" src="https://img.shields.io/badge/FOUNDATION-MINIMUM_FIVE-46C9ED?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="https://k-haotic.github.io/K-haotic/"><img alt="Explore the live LEVI Open Lab" src="https://img.shields.io/badge/LIVE-LEVI_OPEN_LAB-65E8C5?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="mailto:admin@khaotic.ai?subject=Build%20Together"><img alt="Contact for collaboration" src="https://img.shields.io/badge/CONNECT-BUILD_TOGETHER-70C9F0?style=for-the-badge&amp;labelColor=122338" /></a>
 
 <br/>
@@ -194,7 +195,7 @@ The chassis keeps moving through engineering gates. The public record distinguis
 
 I'm a self-directed inventor and lifelong learner. **I want critical mentors, not an echo chamber.** We need stronger external tests, critiques of the assumptions, comparisons with serious baselines, and collaborators across nonlinear dynamics, geometry, thermodynamics, developmental systems, robotics, formal methods and AI evaluation.
 
-**[LEVI's full research story →](./field-notes/LEVI.md)** · **[Engineering journal →](./field-notes/LEVI_JOURNAL.md)** · **[Interactive explorer / release source →](./docs/README.md)** · **[Independent Open Lab challenges →](./docs/OPEN_LAB.md)** · **[Benchmark methodology →](./field-notes/LEVI_BENCHMARKS.md)** · **[Contact RPLΩ →](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship)**
+**[LEVI's full research story →](./field-notes/LEVI.md)** · **[Engineering journal →](./field-notes/LEVI_JOURNAL.md)** · **[Live interactive LEVI Open Lab →](https://k-haotic.github.io/K-haotic/)** · **[Explorer source and methods →](./docs/README.md)** · **[Independent Open Lab challenges →](./docs/OPEN_LAB.md)** · **[Benchmark methodology →](./field-notes/LEVI_BENCHMARKS.md)** · **[Contact RPLΩ →](mailto:admin@khaotic.ai?subject=LEVI%20Research%20Mentorship)**
 
 ---
 
@@ -206,7 +207,7 @@ I'm a self-directed inventor and lifelong learner. **I want critical mentors, no
 | **Filed inventions** | U.S. provisional **63/851,781** (July 27, 2025) and nonprovisional **19/755,751** (July 27, 2026), naming Steven Ray Britt as inventor. |
 | **Research and engineering infrastructure** | KEEL, Helm, Adaptive Fabric, OMMI, Garden/Hive work, typed protocols, reproducible numerical and build/test evidence. |
 
-**[Featured work dossier →](./field-notes/FEATURED_WORK.md)** · **[Five-field interactive explorer source →](./docs/index.html)** · **[Research evidence ledger →](./field-notes/EVIDENCE.md)** · **[Complete system ownership map →](./field-notes/SYSTEMS.md)**
+**[Featured work dossier →](./field-notes/FEATURED_WORK.md)** · **[Live five-role research explorer →](https://k-haotic.github.io/K-haotic/)** · **[Research evidence ledger →](./field-notes/EVIDENCE.md)** · **[Complete system ownership map →](./field-notes/SYSTEMS.md)**
 
 <details>
 <summary><strong>Expand: How the entire research stack connects</strong></summary>
