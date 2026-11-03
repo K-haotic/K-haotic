@@ -1,168 +1,131 @@
 <div align="center">
 
-<a href="https://khaotic.ai/"><img src="https://avatars.githubusercontent.com/u/174954341?v=4" width="142" alt="Khaotic Gaming LLC — Mr Khaotic" /></a>
+<a href="https://khaotic.ai/"><img src="https://avatars.githubusercontent.com/u/174954341?v=4" width="116" alt="Khaotic Gaming LLC emblem" /></a>
 
+<p><strong>KHAOTIC / RECURSIVE PHYSICS LAB</strong></p>
 <h1>STEVEN RAY BRITT</h1>
-<h3>MR KHAOTIC &nbsp;|&nbsp; SIG:KHA</h3>
+<h3>Mr Khaotic &nbsp; | &nbsp; Sig:KHA</h3>
 
-<p><strong>FOUNDER · PRINCIPAL INVESTIGATOR · INVENTOR · SYSTEMS ARCHITECT</strong><br/>
-Khaotic Gaming LLC &nbsp;·&nbsp; Khaotic.ai &nbsp;·&nbsp; Recursive Physics Lab</p>
+<p><strong>FOUNDER &nbsp; / &nbsp; PRINCIPAL INVESTIGATOR &nbsp; / &nbsp; INVENTOR &nbsp; / &nbsp; SYSTEMS BUILDER</strong></p>
 
-<p>
-  <img alt="BHUAT: foundational research" src="https://img.shields.io/badge/BHUAT-FOUNDATIONS-101827?style=for-the-badge&amp;labelColor=00B8D4&amp;color=101827" />
-  <img alt="5FRE: recursive computation" src="https://img.shields.io/badge/5FRE-RECURSION-101827?style=for-the-badge&amp;labelColor=9055FF&amp;color=101827" />
-  <img alt="LEVI: developmental computing" src="https://img.shields.io/badge/LEVI-EMBODIED%20SYSTEMS-101827?style=for-the-badge&amp;labelColor=C99B3D&amp;color=101827" />
-</p>
+<p>From industrial machines and original mathematical research to native computation, source custody,<br/>distributed systems, immersive worlds, and useful public experiences.</p>
 
-<h3>BUILD FROM FIRST PRINCIPLES. TEST ON REAL MACHINES.</h3>
+<p><strong>THE QUESTION:</strong> What does it take to build a system that can evolve without losing its history, its evidence, or its accountability?</p>
 
 <p>
-  <a href="https://khaotic.ai/"><img alt="Khaotic.ai main website" src="https://img.shields.io/badge/EXPLORE-KHAOTIC.AI-00B8D4?style=flat-square&amp;labelColor=17202D" /></a>
-  <a href="https://khaotic.ai/fabric/"><img alt="Khaotic Adaptive Fabric" src="https://img.shields.io/badge/VIEW-ADAPTIVE%20FABRIC-9055FF?style=flat-square&amp;labelColor=17202D" /></a>
-  <a href="https://independent.academia.edu/KhaoticGaming"><img alt="Research manuscripts" src="https://img.shields.io/badge/READ-RESEARCH-C99B3D?style=flat-square&amp;labelColor=17202D" /></a>
-  <a href="https://khaotic.ai/#back-the-build"><img alt="Back the Build" src="https://img.shields.io/badge/SUPPORT-BACK%20THE%20BUILD-20A779?style=flat-square&amp;labelColor=17202D" /></a>
+<a href="https://khaotic.ai/atlas/"><img alt="Explore Historical Atlas" src="https://img.shields.io/badge/EXPLORE-HISTORICAL_ATLAS-00B8D4?style=flat-square&amp;labelColor=142231" /></a>
+<a href="https://khaotic.ai/atlas/research/#crosswalk"><img alt="Open the Research Crosswalk" src="https://img.shields.io/badge/TRACE-RESEARCH_EVIDENCE-9D7CFC?style=flat-square&amp;labelColor=142231" /></a>
+<a href="https://whalefall.khaotic.ai/"><img alt="Open Whale Fall" src="https://img.shields.io/badge/ENTER-WHALE_FALL-20AD91?style=flat-square&amp;labelColor=142231" /></a>
+<a href="https://khaotic.ai/fabric/"><img alt="Open public Adaptive Fabric entrance" src="https://img.shields.io/badge/VIEW-ADAPTIVE_FABRIC-C99B3D?style=flat-square&amp;labelColor=142231" /></a>
 </p>
-
 </div>
 
 ---
 
-> **I don't want to build another version of what already exists.** I want to understand the foundations, challenge assumptions, construct the missing pieces, and carry the ideas all the way into working systems.
+## Four ways into the work
 
-I'm a self-directed founder, researcher, and hands-on engineer with **20+ years working across industrial machinery, fabrication, controls, maintenance, and technical leadership**. My independent research now connects nonlinear dynamics, original computational mathematics, frontier AI, native software, firmware, and physical hardware.
+| If you want to... | Start here | What is actually available |
+| --- | --- | --- |
+| **Examine the research** | **[Public Historical Atlas](https://khaotic.ai/atlas/)** / [Research Evidence Crosswalk](https://khaotic.ai/atlas/research/#crosswalk) | A browsable system graph, dated history, documented lineage, bounded evidence cards and reviewed public dossiers. |
+| **Understand the engineering** | **[System architecture](field-notes/SYSTEMS.md)** / [Evidence ledger](field-notes/EVIDENCE.md) | The distinction between the five-field research, native LEVI, KEEL source store, Fabric work, Helm controls, and product interfaces. |
+| **Follow the history** | **[Research chronology](field-notes/HISTORY.md)** | The industrial foundation, founder-origin designs, dated source anchors, filings, experiments, and public releases, kept in separate evidence classes. |
+| **Explore the ecosystem** | **[Khaotic network](field-notes/NETWORK.md)** / [Whale Fall](https://whalefall.khaotic.ai/) | Public tools and experiences, developing worlds, commerce and service ambitions, and ways to collaborate. |
 
-I use AI to extend my reach—**not to surrender authorship, experimental judgment, or engineering responsibility**. This work comes from my questions, my experience, my experiments, and a sustained drive to understand what intelligence can become.
+> **This GitHub profile is a public map, not the authoritative source store.** KEEL is the governed source, generation, and custody store within the Khaotic architecture. GitHub, Khaotic.ai, and the public Atlas are distinct development, navigation, and publication surfaces. A published summary is not automatically a current machine-state receipt.
 
-### THE WORK AT A GLANCE
+## One program, different layers
 
-| **20+ years** | **2 U.S. filings** | **Physical research** |
-| :---: | :---: | :---: |
-| Industrial engineering & leadership | Provisional (2025) + nonprovisional utility (2026) | CPU/GPU conformance & native LEVI milestones |
+The systems are related, but they are **not interchangeable**. BHUAT is the research program; 5FRE is an investigated recursive-state model; LEVI is the experimental physical/native computing body; KEEL preserves governed source and lineage; Helm and Adaptive Fabric address typed control and distributed work; OMMI, Whale Fall, Machine City and the wider network concern experiences and utility.
 
-## ⟡ LEVI — the physical machine
-
-<div align="center">
-
-<a href="./assets/levi-native-operator-2026-11.jpg"><img src="./assets/levi-native-operator-2026-11.jpg" width="100%" alt="Photograph of the physical LEVI display running the native 5FRE body read-only operator interface. The blue menu lists system status, file and disk managers, network manager, CPU/GPU/RAM, KEEL generations, Adaptive Fabric, permissions and recovery." /></a>
-
-<br />
-
-<sub><strong>LEVI | Native 5FRE body operator display · November 2026</strong><br />An actual photograph of my experimental chassis. The screen shows the native operator view and available menu surfaces; it is not a claim that every displayed subsystem is fully commissioned or that autonomous intelligence has been demonstrated. Click the image to view full size.</sub>
-
-</div>
-
-**From equations to firmware to physical hardware.** The same research program reaches from nonlinear mathematics and deterministic execution into native firmware, authenticated system states, real machine interfaces, continuity and recovery. The machine is experimental. The work and measured milestones are real; unfinished capabilities remain engineering goals.
-
-## ⟡ Research, architecture, and the machine
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 · BHUAT / 5FRE</h3>
-<p><strong>Foundations → executable experiments</strong></p>
-<p>I originated the <strong>Britt–Howard Unified Aetheric Theory (BHUAT)</strong> and developed the <strong>Five-Field Recursion Engine (5FRE)</strong> as a computational research program investigating coupled recursive state, nonlinear dynamics, memory, coherence, and adaptive regulation.</p>
-<p>The work includes mathematical modeling, Jacobian and Lyapunov methods, exact/floating-point comparisons, attractor studies, formalization, and controlled experiments.</p>
-</td>
-<td width="50%" valign="top">
-<h3>02 · LEVI</h3>
-<p><strong>From algorithms to an accountable computational body</strong></p>
-<p>I architect and direct <strong>LEVI</strong>, an experimental physics-native developmental-computing program. Its focus is persistent identity, history and lineage, bounded autonomy, recoverable state, and real hardware execution.</p>
-<p>It spans native firmware, multicore CPU scheduling, GPU integration, authenticated communication, device I/O, and machine-state evidence.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 · KEEL / FABRIC / OMMI</h3>
-<p><strong>Source → authority → work → evidence</strong></p>
-<p>Distinct, connected systems for source and generation custody, modular orchestration, distributed execution, permissions, continuity, and audit-ready recovery.</p>
-<p>I care about what survives interruptions, upgrades, machine substitutions, and failure—not just what looks good in a demo.</p>
-</td>
-<td width="50%" valign="top">
-<h3>04 · THE KHAOTIC NETWORK</h3>
-<p><strong>Research → worlds → tools → utility</strong></p>
-<p>Khaotic Gaming LLC connects research with gaming, geospatial and mixed-reality experiences, <strong>Whale Fall</strong>, <strong>Machine City</strong>, business services, and an expanding commercial ecosystem.</p>
-<p>The objective is to turn foundational engineering into systems other people can explore, use, and build upon.</p>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>⟡ Open the research-system map</b></summary>
-
-<p><i>Conceptual relationship between research, implementation, and public-facing systems; not a literal source dependency graph.</i></p>
+<details open>
+<summary><strong>VIEW THE SYSTEM RELATIONSHIP MAP</strong> - conceptual relationships, not a live service dependency graph</summary>
 
 ~~~mermaid
-flowchart TB
-  A["BHUAT<br/>Foundational inquiry"] -. informs .-> B["5FRE<br/>Recursive computation"]
-  B -. informs .-> C["LEVI<br/>Developmental computing"]
-  B -. informs .-> D["OMMI · KEEL · FABRIC<br/>Orchestration & evidence"]
-  C -. integrates with .-> E["KHAOTIC NETWORK<br/>Worlds, tools & services"]
-  D -. integrates with .-> E
-  classDef foundation fill:#102337,color:#70E0F6,stroke:#19BCD0,stroke-width:2px;
-  classDef engine fill:#211335,color:#D5B9FF,stroke:#9956E8,stroke-width:2px;
-  classDef body fill:#332814,color:#F9DC8E,stroke:#C99B3D,stroke-width:2px;
-  classDef network fill:#102C28,color:#8CE5CE,stroke:#2AAF8E,stroke-width:2px;
-  class A foundation;
-  class B,D engine;
-  class C body;
-  class E network;
+flowchart TD
+    F["Founder inquiry and industrial practice"] --> R["RPL / BHUAT<br/>Foundations and questions"]
+    R -. "research informs" .-> M["5FRE<br/>Recursive-state experiments"]
+    M -. "realized and tested in" .-> L["LEVI<br/>Experimental native body"]
+    M -. "informs modular designs" .-> O["OMMI<br/>Modules and orchestration concepts"]
+    K["KEEL<br/>Governed source / generation store"] --> A["Adaptive Fabric<br/>Bounded distributed work"]
+    H["Helm<br/>Typed operator navigation"] --> A
+    A -. "authorized work and receipts" .-> L
+    O -. "experience architecture" .-> W["Whale Fall / Machine City<br/>Worlds and institutions"]
+    K -. "reviewed public projection" .-> P["Historical Atlas / Research Estate<br/>Read-only publication"]
+    A -. "reviewed status and interfaces" .-> P
+    W -. "public experience" .-> E["Khaotic network<br/>People, services, commerce"]
+    P --> E
+    classDef theory fill:#142837,color:#9ee8f5,stroke:#19aec7,stroke-width:2px;
+    classDef system fill:#251b35,color:#e2cafa,stroke:#9470e3,stroke-width:2px;
+    classDef body fill:#332918,color:#f9e4ae,stroke:#c49a3a,stroke-width:2px;
+    classDef public fill:#14302a,color:#b4f9dd,stroke:#35b997,stroke-width:2px;
+    class R,M theory;
+    class K,A,H,O system;
+    class L body;
+    class W,P,E public;
 ~~~
 
 </details>
 
-## ⟡ Selected technical milestones
+**See the fuller maps:** [System owners and boundaries](field-notes/SYSTEMS.md) | [Public research graph](https://khaotic.ai/atlas/) | [Dossier-to-system crosswalk](https://khaotic.ai/atlas/research/#crosswalk).
 
-These are **recorded, bounded engineering and experimental outcomes**, not blanket claims of a completed theory, unrestricted GPU capability, or finished autonomy.
+## From the shop floor to the physical machine
 
-| Evidence | What was demonstrated |
+I spent more than two decades working with fabrication, mechanical systems, maintenance, troubleshooting, controls, production teams and machinery. That background shaped my research method: **source the claim, build the realizer, test the boundary, preserve the failure, and make the next result reproducible.**
+
+<div align="center">
+<a href="./assets/levi-native-operator-2026-11.jpg"><img src="./assets/levi-native-operator-2026-11.jpg" width="100%" alt="Authentic November 2026 photograph of LEVI's physical operator display showing a native systems interface." /></a>
+<br/>
+<sub><strong>LEVI / physical experimental chassis / November 2026.</strong> The image documents an operator interface on real hardware. Menu labels are not proof that every subsystem is commissioned or autonomous.</sub>
+</div>
+
+### A few bounded results, not a blanket claim
+
+| Recorded milestone | Evidence boundary |
 | --- | --- |
-| **Physical GPU experiment · Sep 2026** | On an **RTX 5060 Ti**, a frozen five-field PTX experiment completed **16 GPU launches**. Both specified binary64 trajectories matched the CPU reference exactly under those test conditions (zero observed absolute/ULP error). This used the Linux NVIDIA driver, not LEVI's independent native GPU path. |
-| **Prospective replication · Sep 2026** | **Seven** predeclared initial-condition perturbation scales met a finite-horizon amplification criterion, with exact-rational and binary64 cross-machine comparisons. |
-| **LEVI native CPU · 2026** | Recorded boot-specific results include authenticated **16-way symmetric multiprocessing**, **5/5 native CPU jobs** in a defined epoch, and independently matching UEFI builds. Native GPU bring-up remains an active development target. |
-| **Filed inventions · 2025/2026** | Named inventor on **U.S. provisional 63/851,781** (July 2025) and **U.S. nonprovisional utility 19/755,751** (July 2026). Applications filed; no granted patent claimed. |
-| **Venture & outreach · 2023** | Invited to submit an **NSF SBIR Phase I** proposal following a project pitch; presented Khaotic at **Metaverse Spectrum Pitch Fest**. |
+| **September 2026 / CPU-GPU computation** | A frozen 5F PTX experiment on an **RTX 5060 Ti** completed **16 GPU launches**; two specified binary64 traces matched a CPU reference under the recorded conditions. This used the Linux NVIDIA driver, **not** independently commissioned native LEVI GPU compute. |
+| **September 2026 / replication** | Seven declared initial-condition perturbation scales met a finite-horizon amplification criterion in a recorded cross-machine campaign. This does not establish a universal physics theory. |
+| **2026 / native LEVI** | Boot-specific receipts include authenticated **16-way symmetric multiprocessing** and a defined epoch with **5/5 native CPU jobs**. Such receipts are not claims of uninterrupted current readiness across every boot. |
+| **2025-2026 / intellectual property** | U.S. provisional application **63/851,781** and nonprovisional utility application **19/755,751** were filed. **Filed does not mean granted.** |
 
-<details>
-<summary><b>⟡ Why an industrial builder is doing computational research</b></summary>
+[Read the evidence and limitations](field-notes/EVIDENCE.md) | [Browse the dated historical record](https://khaotic.ai/atlas/) | [Trace the research dossiers](https://khaotic.ai/atlas/research/)
 
-For more than two decades I've worked with the parts of engineering that refuse to cooperate with wishful thinking: machinery, PLC-related diagnostics, hydraulics, fabrication, alignment, breakdowns, schedules, crews, and production constraints.
+## What the historical work includes
 
-That experience informs how I research AI: trace the failure across layers, verify the boundary, preserve the evidence, correct the underlying cause, and test again. Theory matters. So does whether the system survives contact with reality.
+The work is **not solely LEVI**. The archived and ongoing programs encompass mathematics and formal work; source, graph and generation custody; machine/firmware development; distributed labor and governance; owned game and XR architecture; Machine City and Garden concepts; media and social publication; and first-party commerce design.
 
-My path has been unconventional and self-directed. The research is not a hobby alongside a conventional career; it is the continuation of a lifelong approach to learning and building.
-
-</details>
-
-## ⟡ Public gateways
-
-| Destination | What you'll find |
+| Continuity marker | Why it matters |
 | --- | --- |
-| **[Khaotic.ai ↗](https://khaotic.ai/)** | The public entrance to the wider Khaotic research and services ecosystem. |
-| **[Adaptive Fabric ↗](https://khaotic.ai/fabric/)** | A public-facing view into our distributed work and systems fabric. |
-| **[Research manuscripts ↗](https://independent.academia.edu/KhaoticGaming)** | Selected independent mathematical and computational writing. |
-| **[Industrial photo portfolio ↗](https://stevenbritt7117.wixsite.com/stevenbritt)** | Real-world industrial work, equipment, and professional history. |
-| **[Professional network ↗](https://www.linkedin.com/in/steven-britt-kg/)** | Career background and professional connections. |
-| **[Support / Back the Build ↗](https://khaotic.ai/#back-the-build)** | Public information about supporting the continuing work. |
+| **2006-2022** | Industrial engineering experience and early spatial/community foundations precede the present AI architecture. |
+| **2023-2024** | Geospatial and OMMI designs, early external research outreach, and dated BHUAT source materials precede the later unified labels. |
+| **2025** | The ordered five-field nucleus and first U.S. provisional filing provide a distinct technical/legal chronology. |
+| **2026** | Native LEVI work, source-archive consolidation, experimental receipts, and a governed public Historical Atlas bring previously separate layers into view. |
+| **November 3, 2026** | The public Atlas and Research Estate crosswalk were released with source and deployment receipts, not merely described in mockups. |
 
-## ⟡ Collaborate / build / commission
+The **[chronology](field-notes/HISTORY.md)** separates source ancestry, designs, observed implementations, and legal filings. The **[public Atlas](https://khaotic.ai/atlas/)** provides its visual historical record.
 
-I'm interested in **AI safety and control, ML systems, nonlinear computation, developmental memory, physical computing, research collaboration, technical partnerships, and useful commercial applications**.
+## Public, private, and still in development
 
-I'm also building a store and a larger network of services and experiences. The public website is the entry point while individual storefront and product surfaces evolve.
+**Public now:** [Khaotic.ai](https://khaotic.ai/) | [Historical Atlas](https://khaotic.ai/atlas/) | [Research Estate](https://khaotic.ai/atlas/research/) | [Whale Fall](https://whalefall.khaotic.ai/) | [Adaptive Fabric entrance](https://khaotic.ai/fabric/).
 
-**The source is private; the work is real.** My main development repositories contain original implementations, unpublished experiments, and patent-sensitive material. I can share appropriate architecture, evidence, and demonstrations through direct technical discussion without publishing protected details.
+**Private or governed:** original source implementations, live operator privileges, unreleased prototypes, and patent-sensitive material. The **24,183 tracked source-file paths** in a frozen Atlas inventory are not 24,183 individually reviewed public artifacts.
+
+**In development:** portions of native GPU integration, general-purpose autonomy, wider world experiences, and first-party commercial surfaces. Research hypotheses, planned capabilities and authentic production receipts are never interchangeable.
+
+For how the worlds, companies, commerce and services connect, see **[the Khaotic network map](field-notes/NETWORK.md)**.
+
+## Work together
+
+I am interested in collaborations spanning nonlinear computation, machine learning, reliable AI, formal validation, native hardware, geospatial/XR, systems engineering, product work, and commercial partnerships.
+
+The original research and invention work is mine; the wider program is also shaped by the engineers, collaborators, operators and reviewers who test and develop it. I use AI as an engineering instrument, not as a substitute for accountability.
+
+**[Contact: admin@khaotic.ai](mailto:admin@khaotic.ai?subject=Khaotic%20research%20or%20partnership)** &nbsp; | &nbsp; **[Back the Build](https://khaotic.ai/#back-the-build)** &nbsp; | &nbsp; **[Industrial work portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**
 
 <div align="center">
 
-<a href="mailto:admin@khaotic.ai?subject=Research%20or%20collaboration%20inquiry"><img alt="Research or collaboration inquiry" src="https://img.shields.io/badge/CONTACT-RESEARCH%20%26%20COLLABORATION-00B8D4?style=for-the-badge&amp;labelColor=17202D" /></a>
-<a href="mailto:admin@khaotic.ai?subject=Khaotic%20commission%20inquiry"><img alt="Commission and business inquiries" src="https://img.shields.io/badge/INQUIRE-COMMISSIONS%20%26%20PARTNERSHIPS-C99B3D?style=for-the-badge&amp;labelColor=17202D" /></a>
+<sub>Evidence is dated. Public views are curated. The system is larger than any one model, repo, machine, or interface.</sub>
 
-**Email preferred:** [admin@khaotic.ai](mailto:admin@khaotic.ai)
-
----
-
-*This is my life's work. I'll keep building regardless.<br/>Good company makes the journey a whole lot better.*
-
-**— Steven Ray Britt · Mr Khaotic**
+**Steven Ray Britt / Mr Khaotic / Khaotic Gaming LLC**
 
 </div>
+
