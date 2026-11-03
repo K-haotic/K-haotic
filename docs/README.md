@@ -7,7 +7,7 @@ GitHub's README view cannot execute custom JavaScript. This explorer is a normal
 ## Implemented
 
 - Cinematic authentic chassis photo and clearly labeled illustrated motion storyboard; no fabricated live footage.
-- Filterable evidence ledger: recorded vs active frontier vs proposed, with dated public source links.
+- Filterable evidence ledger: recorded vs active frontier vs proposed, including **Minimum-Five exact theorem, Lean support, realizer-invariance and challenger records**, with dated public source links.
 - Five-field browser laboratory: adjustable recurrence parameters, locally calculated chart and step inspector. Explicit simulation, never live LEVI telemetry.
 - Benchmark preregistration: choose evaluation family, baseline, trial count and test substrate, then export a JSON proposal with no fake results.
 - Open Lab: interdisciplinary critique, mentor invitation and independent evaluation challenges.
@@ -20,6 +20,7 @@ GitHub's README view cannot execute custom JavaScript. This explorer is a normal
 - MEDIA_CAPTURE.md — actual footage, captions, provenance and release plan.
 
 Technical support:
+- [MINIMUM FIVE — the BHUAT foundation, mathematical proof and physical hypothesis](../field-notes/MINIMUM_FIVE.md)
 - [LEVI — The Body Comes First](../field-notes/LEVI.md)
 - [Engineering journal](../field-notes/LEVI_JOURNAL.md)
 - [Progress ledger](../field-notes/LEVI_PROGRESS.md)
@@ -47,7 +48,7 @@ Then open http://localhost:8080 and verify:
 
 1. Authentic photo is visible and storyboard is labeled **illustrated**.
 2. Play, pause and next-frame buttons work.
-3. Evidence stage filters update correctly and render nine public source entries.
+3. Evidence stage filters update correctly and render thirteen public source entries, including four Minimum-Five theorem/challenger records.
 4. Sliders recalculate the example 5FRE recurrence and canvas.
 5. Export creates a JSON preregistration with status PROPOSAL_NOT_RUN and results null.
 6. Desktop, narrow mobile and reduced-motion versions remain usable.
