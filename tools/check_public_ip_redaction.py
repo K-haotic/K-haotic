@@ -65,7 +65,7 @@ for name, body, fragments in (
     ("field-notes/MINIMUM_FIVE.md", math, ("[REDACTED", "RESEARCH_ACCESS.md", "ϕ", "τ", "ψ", "χ", "Λ")),
     ("field-notes/COMPLEX_SYSTEMS.md", hybrid, ("[REDACTED", "MINIMUM_FIVE.md", "RESEARCH_ACCESS.md")),
     ("docs/index.html", site, ("renderConcept", "visualTempo", "generic", "CANONICAL UPDATE OPERATOR")),
-    ("field-notes/RESEARCH_ACCESS.md", policy, ("CURRENT-VIEW REDACTION", "history", "Minimum Five")),
+    ("field-notes/RESEARCH_ACCESS.md", policy, ("PUBLIC BRANCH REWRITE", "GitHub-managed pull-request references", "Minimum Five")),
 ):
     for fragment in fragments:
         if fragment not in body:
