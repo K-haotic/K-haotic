@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-label="Khaotic research vault: public Minimum Five identity and evidence, private proprietary mathematical derivations."><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061521"/><stop offset=".54" stop-color="#11243a"/><stop offset="1" stop-color="#281d42"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#48e7d7"/><stop offset=".5" stop-color="#70c9fe"/><stop offset="1" stop-color="#ba99fb"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#315a72" stroke-width=".8" opacity=".3"/></pattern>
+<style>.orbit{transform-origin:1226px 294px;animation:spin 46s linear infinite}.pulse{animation:pulse 5s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.37}}@media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none!important}}</style></defs>
+<rect width="1600" height="640" rx="22" fill="url(#bg)"/><rect width="1600" height="640" rx="22" fill="url(#grid)"/><rect x="2" y="2" width="1596" height="636" rx="22" stroke="#3a6a84" fill="none" stroke-width="2"/>
+<rect x="45" y="33" width="395" height="39" rx="17" fill="#133448" stroke="#5de9e2"/><text x="67" y="59" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="2" fill="#81e8e5">RPLΩ  /  SOURCE ACCESS CONTROL</text>
+<text x="1548" y="59" text-anchor="end" font-family="Arial,sans-serif" font-size="17" fill="#aacada" letter-spacing="1">SIG:KHA  ·  PUBLIC THEOREM  /  PRIVATE IMPLEMENTATION</text>
+<path d="M45 87H1550" stroke="url(#neon)" stroke-width="3"/>
+<text x="45" y="175" font-family="Arial,sans-serif" font-size="82" font-weight="900" fill="#f1faff">THE RESEARCH</text>
+<text x="45" y="261" font-family="Arial,sans-serif" font-size="82" font-weight="900" fill="#f1faff">IS PUBLIC.</text>
+<text x="49" y="329" font-family="Arial,sans-serif" font-size="36" font-weight="800" fill="#57e4da">THE PROPRIETARY MATH IS PROTECTED.</text>
+<text x="49" y="377" font-family="Arial,sans-serif" font-size="23" fill="#c2d6e5">MINIMUM FIVE  /  PROOF RESULTS  /  PHYSICAL LEVI PROGRESS</text>
+<rect x="48" y="406" width="734" height="145" rx="18" fill="#0d2135" stroke="#37647a" stroke-width="2"/>
+<text x="75" y="443" font-family="Arial,sans-serif" font-size="19" letter-spacing="2" font-weight="800" fill="#92e7de">FIVE INDEPENDENT CONSTITUTIVE ROLES</text>
+<text x="77" y="507" font-family="Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="25" fill="#f4fbff">ϕ τ ψ χ Λ</text>
+<circle cx="1226" cy="294" r="235" fill="#10243a" stroke="#426c88" stroke-width="3"/>
+<g class="orbit"><circle cx="1226" cy="294" r="205" fill="none" stroke="#6be0d7" stroke-width="3" stroke-dasharray="10 20"/><circle cx="1226" cy="89" r="11" fill="#60f2e5"/></g>
+<circle cx="1226" cy="294" r="155" fill="#0b1d2e" stroke="#8c80cf" stroke-width="2.5"/><circle cx="1226" cy="294" r="120" fill="none" stroke="#4abfd2" stroke-width="3"/>
+<text x="1226" y="277" font-family="Arial,sans-serif" font-size="34" font-weight="900" text-anchor="middle" fill="#f7fcff">PROPRIETARY</text>
+<text x="1226" y="317" font-family="Arial,sans-serif" font-size="27" font-weight="800" text-anchor="middle" fill="#66e9df">DERIVATIONS</text>
+<g class="pulse"><rect x="1119" y="345" width="214" height="11" rx="5" fill="#56b7d9"/><rect x="1150" y="366" width="155" height="8" rx="4" fill="#a69deb"/></g>
+<rect x="46" y="579" width="1507" height="37" rx="13" fill="#182b41" stroke="#486a83"/>
+<text x="68" y="605" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing=".9" fill="#c5e2ee">THE THESIS STAYS VISIBLE.  THE SOURCE STAYS UNDER GOVERNED CUSTODY.</text>
+<text x="1522" y="605" text-anchor="end" font-family="Arial,sans-serif" font-size="16" font-weight="800" fill="#7ce4d8">KHAOTIC GAMING / RPLΩ</text></svg>

@@ -53,6 +53,10 @@ What experiment could demonstrate that the proposed body-law/history/development
 
 **Related:** [Benchmark protocol](../field-notes/LEVI_BENCHMARKS.md), [Interactive explorer source](index.html).
 
+## Protected source and responsible review
+
+**The public pages intentionally redact exact BHUAT/5FRE operators, coefficients and proprietary derivations.** A scientific challenge can begin from the public hypotheses, theorem outcomes, proof scopes and reported experiments; a deeper review may require a separately agreed confidential access path. The preserved private research source is not automatically released through an issue or email. [Research disclosure policy](../field-notes/RESEARCH_ACCESS.md).
+
 ## How to contribute meaningfully
 
 A concise technical critique is valuable. It can include:

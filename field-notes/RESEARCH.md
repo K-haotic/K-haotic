@@ -104,6 +104,8 @@ The work aims to develop **systems that improve through documented experience**,
 
 ## Intellectual property and attribution
 
+**[REDACTED · PUBLIC EDITION]** Exact BHUAT/5FRE mathematical recurrences, coefficients, derivations, hidden-support proof constructions, operator variants and patented implementation details are not published in this profile. The names, fundamental theory, test record, mathematical theorem outcomes and LEVI's engineering accomplishments remain visible. [Read the public/private disclosure policy](RESEARCH_ACCESS.md).
+
 The project includes two recorded U.S. patent application filings, protected invention material and private source not reproduced here. Public research summaries are curated for collaboration. Publishing an evidence summary does not release private source, waive rights, certify patent claims or grant implementation permission.
 
 **Start with the [source ledger](PROVENANCE.md).** It names primary documents and their maturity, limitations and original paths. This page is a synthesis and invitation to independent review, not a new canonical source owner.

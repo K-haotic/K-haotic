@@ -43,7 +43,7 @@ I diagnosed hydraulic actuators, accumulators, bladders, pumps, valves, solenoid
 
 **Why it matters.** I am trying to make developmental behavior inspectable: state, disturbance, adaptation, consequences, memory and control—not simply demonstrate an interesting plot.
 
-**[Complex and hybrid dynamics](COMPLEX_SYSTEMS.md)** · **[Research thesis](RESEARCH.md)** · **[Evidence register](PROVENANCE.md)**
+**[Public theorem outcomes / private derivation](RESEARCH_ACCESS.md)** · **[Complex and hybrid dynamics](COMPLEX_SYSTEMS.md)** · **[Research thesis](RESEARCH.md)** · **[Evidence register](PROVENANCE.md)**
 
 ## 05 / Physical CPU/GPU experimental work
 

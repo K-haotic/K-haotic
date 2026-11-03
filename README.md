@@ -22,6 +22,7 @@
 
 <a href="./field-notes/ENGINEERING.md"><img alt="Engineering career" src="https://img.shields.io/badge/CAREER-ENGINEERING_RESUME-36DCCB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/CAPABILITIES.md"><img alt="Full capabilities" src="https://img.shields.io/badge/EXPLORE-FULL_SKILL_ATLAS-E9B970?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="./field-notes/RESEARCH_ACCESS.md"><img alt="Protected research and intellectual property" src="https://img.shields.io/badge/RESEARCH-PROTECTED_IP-EDBF82?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/MINIMUM_FIVE.md"><img alt="Minimum Five fundamental mathematics" src="https://img.shields.io/badge/FOUNDATION-MINIMUM_FIVE-46C9ED?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
@@ -90,7 +91,15 @@ My original **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field 
 
 **[MINIMUM FIVE — THE MATHEMATICAL FOUNDATION, PROOFS AND PHYSICAL HYPOTHESIS →](./field-notes/MINIMUM_FIVE.md)**
 
-**The proof stack:** Scoped **mₘᵢₙ = 5** for the registered ordered operator · Lean-checked independent support **arity ≥ 5** · Realizer-invariant minimum five within the admitted support-preserving class · Active hidden-support and physical-hypothesis challenges. **The project does not equate a measured response rank four with a four-support body.**
+**The proof stack:** A scoped **minimum of five** for the registered exact operator · Lean-checked five-support independence under its stated basis · Realizer-invariance within admitted support-preserving implementations · Active hidden-support and physical-theory challenges. **A measured response rank of four does not establish a complete four-support body.**
+
+> **PUBLIC RESEARCH RELEASE / PROPRIETARY MATHEMATICS REDACTED:** The thesis, five constitutional functions, scope of the mathematical results, and LEVI's tested progress are public. Registered equations, coefficients, symbolic constructions, private proof implementations and original realization methods remain protected in the private research source.
+
+<div align="center">
+<a href="./field-notes/RESEARCH_ACCESS.md"><img src="./assets/khaotic-research-vault.svg" width="100%" alt="The public research record remains visible while proprietary BHUAT and 5FRE derivations stay protected within the private research estate." /></a>
+<br/>
+<sub><strong>THE THESIS IS PUBLIC. THE IMPLEMENTATION IS PROTECTED.</strong> <a href="./field-notes/RESEARCH_ACCESS.md">Research access and redaction policy</a> · <a href="mailto:admin@khaotic.ai?subject=Confidential%20BHUAT%20Research%20Review">Discuss controlled technical review</a></sub>
+</div>
 
 It's mathematics **and** code **and** machines **and** developmental history **and** governed action **and** worlds people can use.
 
@@ -116,7 +125,7 @@ It's mathematics **and** code **and** machines **and** developmental history **a
 | **[Materials + physical science](./field-notes/PHYSICAL_SCIENCE.md)** | Elasticity, percolation, coagulation, material behavior, somatic scarring, waves, resonance, cymatics, physical models and targeted tests. |
 | **[World engines, games, XR + civic systems](./field-notes/WORLDS.md)** | OMMI, Garden, Gym, Cathedral, Hive, Recursants, Whale Fall, Machine City, geospatial systems, mixed reality, creative platforms and public-benefit concepts. |
 
-**[Integrated research thesis →](./field-notes/RESEARCH.md)** · **[87-entry public evidence register →](./field-notes/PROVENANCE.md)** · **[Historical Atlas →](https://khaotic.ai/atlas/)** · **[Research Estate →](https://khaotic.ai/atlas/research/)**
+**[Research access / protected IP →](./field-notes/RESEARCH_ACCESS.md)** · **[Integrated research thesis →](./field-notes/RESEARCH.md)** · **[87-entry public evidence register →](./field-notes/PROVENANCE.md)** · **[Historical Atlas →](https://khaotic.ai/atlas/)** · **[Research Estate →](https://khaotic.ai/atlas/research/)**
 
 ---
 

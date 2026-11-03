@@ -8,7 +8,7 @@
 
 *An original computational-body research program led by Steven Ray Britt, Recursive Physics Lab.*
 
-[GitHub front door](../README.md) · [Engineering journal](LEVI_JOURNAL.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Open Lab challenges](../docs/OPEN_LAB.md) · [Explorer source](../docs/README.md)
+[GitHub front door](../README.md) · [Protected mathematical research](RESEARCH_ACCESS.md) · [Engineering journal](LEVI_JOURNAL.md) · [Progress and next gates](LEVI_PROGRESS.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Open Lab challenges](../docs/OPEN_LAB.md) · [Explorer source](../docs/README.md)
 
 </div>
 
@@ -40,6 +40,8 @@ These are proposed properties, formal models and developmental targets; **classi
 ## 02 / The five-field law is constitutive
 
 **[See the complete Minimum-Five visual foundation and theorem map](MINIMUM_FIVE.md)** — no four-field shorthand, no missing τ, no substitution of bookkeeping for constitutional law.
+
+> **[REDACTED · PROPRIETARY BODY-LAW IMPLEMENTATION]** The five constitutional roles remain public. Exact update rules, event coupling, regulatory thresholds, coefficients and proof/realizer machinery are held in the governed private research source. [Review the disclosure boundary](RESEARCH_ACCESS.md).
 
 The **Britt–Howard Unified Aetheric Theory (BHUAT)** and **Five-Field Recursion Engine (5FRE)** propose a fundamental mathematical route by which reality can generate and sustain recursive, persistent structure. At the operational level, **MINIMUM FIVE is non-negotiable in the declared bodyhood law**:
 

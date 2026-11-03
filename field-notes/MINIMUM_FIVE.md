@@ -2,7 +2,7 @@
 
 ### Steven Ray Britt · Recursive Physics Lab (RPLΩ) · Sig:KHA
 
-**[Main GitHub profile](../README.md)** · **[Complex and hybrid mathematics](COMPLEX_SYSTEMS.md)** · **[Whole research program](RESEARCH.md)** · **[LEVI](LEVI.md)** · **[Accountable bodyhood](AUTOPOIESIS.md)**
+**[Main GitHub profile](../README.md)** · **[Public research / private derivation policy](RESEARCH_ACCESS.md)** · **[Complex and hybrid mathematics](COMPLEX_SYSTEMS.md)** · **[Whole research program](RESEARCH.md)** · **[LEVI](LEVI.md)** · **[Accountable bodyhood](AUTOPOIESIS.md)**
 
 > **My central proposition is that a complete, persistent, bounded recursive body requires a minimum of five independent effective functions: emergence, ordering, memory, coherence and regulation. This is the Minimum-Five / pentadic basis of BHUAT and the 5FRE research program.**
 >
@@ -12,18 +12,15 @@
 <img src="../assets/minimum-five-foundation.svg" width="100%" alt="Five irreducible functional obligations, three scoped mathematical support results and one ongoing physical-theory hypothesis." />
 </div>
 
-This is **not** a decorative list of five inspirational ideas. **Minimum Five** has an operator definition, exact mathematical results, machine-checked support arguments, reduction studies, active falsification programs, physical numerical experiments and a direct relationship to LEVI's intended constitutional body law.
+This is **not** a decorative list of five inspirational ideas. **This edition is an intentionally redacted public research brief.** The theorem conclusions, physical research questions and experimental record are visible; exact mathematical operators, coefficients, Jacobian expressions, complete proof objects and construction details are retained within the private research estate. [Read the access and redaction policy](RESEARCH_ACCESS.md). **Minimum Five** has an operator definition, exact mathematical results, machine-checked support arguments, reduction studies, active falsification programs, physical numerical experiments and a direct relationship to LEVI's intended constitutional body law.
 
 ## 1 / The five necessary roles in the declared bodyhood basis
 
-The canonical operational state is
+The minimum support constitution is public; the indexed formal state encoding is redacted:
 
 
-$$
-
-\boxed{X_n=(\phi_n,\tau_n,\psi_n,\chi_n,\Lambda_n)}
-
-$$
+> **[REDACTED · FORMAL STATE REPRESENTATION]**  
+> The indexed canonical state notation and internal formal encoding are withheld from the public edition. The five constitutional roles remain public: **ϕ emergence · τ ordering · ψ memory · χ coherence · Λ regulation**.
 
 
 In Unicode: **Xₙ = (ϕₙ, τₙ, ψₙ, χₙ, Λₙ)**.
@@ -44,42 +41,33 @@ No field is silently removed, identified with another field, or replaced by a de
 
 ## 2 / The active ordered nonlinear operator
 
-[REDACTED - REGISTERED OPERATOR IDENTIFIER]
+A registered ordered nonlinear realization is included in the private research source. The public edition preserves its scientific claim and acceptance scope without disclosing its exact operator identity or construction:
 
 
-$$
-
-[REDACTED - PROPRIETARY RECURSIVE OPERATOR]
-
-$$
+> **[REDACTED · REGISTERED NONLINEAR OPERATOR]**  
+> Exact update expressions, coefficient structure, parameter bindings and implementation schedule are proprietary. The source, experiments and formal definition remain preserved within the private research estate. The public statement retains the five roles and the operator's documented mathematical scope.
 
 
-**The order is part of the mathematics.** τ consumes the *new* ϕ, ψ consumes the *new* τ, χ consumes the *new* ψ, and Λ consumes the *new* χ. A synchronous historical variant, hybrid Vent composition, clamp, reset or alternate realizer is not automatically this same operator.
+**Order and interaction are mathematically significant.** The public five-role cycle communicates the theory's constitution; registered scheduling details, variant composition, event rules and parameter bindings are deliberately redacted. A different realization cannot claim identical proof status merely by using the same field names.
 
 The wider 5FRE program investigates **nonlinear and hybrid dynamics**: guards, transitions, collapse thresholds, regulated discharge, viable regions, attractors, Lyapunov behavior, coupled kernels and developmental continuation. Those are studied with different tests, not merged into one unsupported proof.
 
 ## 3 / The exact five-state theorem — a real mathematical checkpoint
 
-For the registered ordered operator, the project derives
+For the registered ordered operator, the privately retained proof derives the following withheld expression:
 
 
-$$
-
-[REDACTED - JACOBIAN FACTORIZATION]
-
-$$
+> **[REDACTED · JACOBIAN FACTORIZATION AND DERIVATION]**  
+> The exact determinant expression, nondegeneracy proof steps and implementation dependencies are withheld. The published result remains: under the registered theorem assumptions, the minimum continuous exact local state dimension is five.
 
 
 Where this determinant is nonzero, the operator is locally invertible. Exact continuous realization on such an open five-dimensional neighborhood requires at least five real state coordinates: fewer cannot continuously encode and reconstruct the local exact transition without losing information.
 
-The original map itself uses five state coordinates, so the lower and upper bounds agree:
+The original realization and its proof establish matching lower and upper bounds in the theorem's stated domain:
 
 
-$$
-
-\boxed{m_{\min}=5}
-
-$$
+> **[REDACTED · EXACT MINIMALITY EXPRESSION]**  
+> The symbolic proof expression is held privately. The **theorem outcome—minimum five in the named domain—remains public**.
 
 
 **Result:** Exactly five is the minimum local continuous exact state dimension **for this registered operator on its nondegenerate theorem domain**.
@@ -88,24 +76,18 @@ This is a stronger statement than "we happen to use five variables." It is not t
 
 ## 4 / Machine-checked effective support — five as the minimum basis
 
-A separate formal proof program begins with five declared independently required *bodyhood obligations*. Its support basis can be written as
+A separate formal proof program begins with five declared independently required *bodyhood obligations*. Its private proof system specifies a formal support basis:
 
 
-$$
-
-O=\{\text{emergence},\text{cadence},\text{memory},\text{coherence},\text{regulation}\}.
-
-$$
+> **[REDACTED · FORMAL SUPPORT ENCODING]**  
+> The internal formal definition of independent obligations is withheld. The public obligations remain emergence, ordering, memory, coherence and regulation.
 
 
-For the declared independent-coverage model, **complete support holds if and only if effective arity is at least five**:
+For the declared independent-coverage model, **complete support is established precisely at effective arity five or above** within the stated assumptions:
 
 
-$$
-
-\text{CompleteIndependentCoverage}(n)\;\Longleftrightarrow\; 5\le n.
-
-$$
+> **[REDACTED · LEAN THEOREM STATEMENT AND PROOF IMPLEMENTATION]**  
+> The formal predicate, implementation details and proof script are not reproduced here. The scoped result remains public: the declared independent-coverage model requires at least five effective supports.
 
 
 Its Lean formalization closes the fixed-basis arithmetic result. A related theorem proves that **every admitted 5FRE realizer with an explicit support-preserving bridge** carries the same minimum-five support-solvency floor. That result does not depend on whether the realizer calls its coordinates by the original five names.
@@ -139,9 +121,10 @@ BHUAT is not confined to describing a software stack. Its ambition is ontologica
 
 The working pre-field dependency investigation includes:
 
-**irreducible non-closure Y → maximal suppression S⁰ → minimal release ε → first persistent ϕ → τ → ψ → χ → Λ → recursive continuation.**
+> **[REDACTED · PRE-FIELD GENERATIVE CONSTRUCTION]**  
+> The specific symbolic genesis ladder, suppression/release operators and their internal correspondence rules remain proprietary. The public proposition is that a pentadic operational body can emerge within a deeper inquiry into non-closure and persistence.
 
-In that framing, **the five-field body is the first complete lawful operational support after persistence emerges**, not a claim that the absolute beginning of reality is a ready-made five-variable vector. Lower-order geometry, relations, projections or local appearances can exist without satisfying the stronger full-bodyhood obligations.
+In that framing, **the five-field body is proposed as the first complete lawful operational support after persistence emerges**, not a claim that the absolute beginning of reality is a ready-made five-variable vector. Lower-order geometry, relations, projections or local appearances can exist without satisfying the stronger full-bodyhood obligations.
 
 The proposal connects mathematical recurrence with harmonic discrepancy, geometries, observer structures, nonlinear controls, thermodynamic/resource questions, developmental systems and physical computation.
 
@@ -153,7 +136,7 @@ The proposal connects mathematical recurrence with harmonic discrepancy, geometr
 
 Its fundamental dynamic state remains:
 
-**X = (ϕ, τ, ψ, χ, Λ)**
+**Constitutional fields: ϕ · τ · ψ · χ · Λ**
 
 LEVI also carries **history, context, lineage, scars, runtime resources, authority and evidence**. Those are additional records, constraints, observers and developmental obligations around the five-field law. They do **not** replace the five irreducible roles, and their grouping for bookkeeping must **never** be presented as a new four-field constitution.
 
