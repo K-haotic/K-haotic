@@ -9,7 +9,8 @@ GitHub's README view cannot execute custom JavaScript. This explorer is a normal
 - Cinematic authentic chassis photo and clearly labeled illustrated motion storyboard; no fabricated live footage.
 - Filterable evidence ledger: recorded vs active frontier vs proposed, including **Minimum-Five exact theorem, Lean support, realizer-invariance and challenger records**, with dated public source links.
 - **Minimum-Five proof panel:** visual five-obligation basis, scoped exact five-state theorem, Lean-checked independent-support floor, admitted realizer invariance and open BHUAT physical hypothesis.
-- Five-field browser laboratory: adjustable recurrence parameters, locally calculated chart and step inspector. Explicit simulation, never live LEVI telemetry.
+- Five-role public signal atlas: adjustable **cosmetic waveform** settings, locally generated visual display, and frame inspector. **The protected 5FRE recurrence and parameterization are not included**, and this is **not** a 5FRE simulation or live LEVI telemetry.
+- Research vault: public theorem summaries and LEVI evidence are retained; exact proprietary formulas and implementation source are visibly redacted.
 - Benchmark preregistration: choose evaluation family, baseline, trial count and test substrate, then export a JSON proposal with no fake results.
 - Open Lab: interdisciplinary critique, mentor invitation and independent evaluation challenges.
 - Responsive design, keyboard controls, alt text, reduced-motion support and no external script dependencies.
@@ -22,6 +23,7 @@ GitHub's README view cannot execute custom JavaScript. This explorer is a normal
 
 Technical support:
 - [MINIMUM FIVE — the BHUAT foundation, mathematical proof and physical hypothesis](../field-notes/MINIMUM_FIVE.md)
+- [Protected mathematical research: public disclosure and access policy](../field-notes/RESEARCH_ACCESS.md)
 - [LEVI — The Body Comes First](../field-notes/LEVI.md)
 - [Engineering journal](../field-notes/LEVI_JOURNAL.md)
 - [Progress ledger](../field-notes/LEVI_PROGRESS.md)
@@ -50,7 +52,7 @@ Then open http://localhost:8080 and verify:
 1. Authentic photo is visible and storyboard is labeled **illustrated**.
 2. Play, pause and next-frame buttons work.
 3. Evidence stage filters update correctly and render thirteen public source entries, including four Minimum-Five theorem/challenger records.
-4. Sliders recalculate the example 5FRE recurrence and canvas.
+4. The display-only sliders redraw generic conceptual waves. View source to confirm there is **no** 5FRE update function, coefficient table or exposed operator.
 5. Export creates a JSON preregistration with status PROPOSAL_NOT_RUN and results null.
 6. Desktop, narrow mobile and reduced-motion versions remain usable.
 7. No network request reaches a live LEVI endpoint or takes hardware action.
