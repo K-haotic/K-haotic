@@ -12,11 +12,14 @@
 
 <br/><br/>
 
-<h2>I BUILT HOUSES BEFORE I BUILT COMPUTATIONAL WORLDS.</h2>
+<h2>WHAT MAKES SOMETHING EMERGE, ENDURE,<br/>AND KEEP BECOMING?</h2>
 
-<strong>Master Builder · Industrial Lead · Inventor · Investigative Polymath · Lifelong Gamer</strong>
+<strong>That question connects everything I build—from the structures we inhabit and the machines that move industry to original mathematics, recursive bodies, and worlds with memory.</strong>
 
-<em>Three decades of hands-on engineering. A lifetime of learning. One connected research program.</em>
+<br/><br/>
+
+<strong>Master Builder · Industrial Lead · Inventor · Investigative Polymath · Lifelong Gamer</strong><br/>
+<em>Three decades of hands-on engineering. A lifetime of investigation. One continually developing research program.</em>
 
 <br/>
 
@@ -57,14 +60,14 @@ I'm also a lifelong **old-school gamer** and a self-taught, multidisciplinary in
 | Period | Responsibility | Work |
 | --- | --- | --- |
 | **Childhood–~17** | **Residential construction with my father / Amidon Construction** | Houses from site preparation to roof: concrete, framing, roofing, plumbing, electrical, HVAC and finish. |
-| **Earlier adulthood** | **REDACTED* | Vessel systems, small-craft operations, firefighting and damage-control training. |
+| **Earlier period** | **[REDACTED — PRIVATE HISTORY]** | Details intentionally withheld from this public résumé. |
 | **2006–2014** | **Systems LLC · Lead Millwright / Fabricator** | Structural steel, high-pressure piping, welding, industrial installation and crews. |
 | **2014–2020** | **Arkansas Mechanical · Lead Millwright / Fabricator** | Rolling mills, conveyors, turbines, compressors, equipment alignment and industrial field projects. |
 | **2020–2023** | **Atlas Tube · Lead Mechanical Maintenance Specialist** | Steel-processing lines, **early automated-crane implementation**, sensors and feedback, hydraulic accumulators, pneumatics and production maintenance. |
 | **2023–2025** | **Counts Brothers · Shop Foreman** | Shop operations, people, schedules, budgets, clients, quality, repair and delivery. |
 | **2022–present** | **Khaotic Gaming / Khaotic.ai / RPLΩ · Founder / Inventor** | Original mathematics, nonlinear/hybrid dynamics, physical AI, native hardware, languages and world engines. |
 
-**The full range doesn't fit inside job titles.**
+**The full range doesn't fit inside job titles.** This public account highlights the work I choose to share; one earlier period is deliberately redacted.
 
 | I build and work on | I diagnose, direct and develop |
 | --- | --- |
