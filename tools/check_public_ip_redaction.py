@@ -64,7 +64,7 @@ for name, body, fragments in (
     ("README.md", main, ("khaotic-research-vault.svg", "RESEARCH_ACCESS.md", "MINIMUM FIVE")),
     ("field-notes/MINIMUM_FIVE.md", math, ("[REDACTED", "RESEARCH_ACCESS.md", "ϕ", "τ", "ψ", "χ", "Λ")),
     ("field-notes/COMPLEX_SYSTEMS.md", hybrid, ("[REDACTED", "MINIMUM_FIVE.md", "RESEARCH_ACCESS.md")),
-    ("docs/index.html", site, ("renderConcept", "visualTempo", "GENERIC", "CANONICAL UPDATE OPERATOR")),
+    ("docs/index.html", site, ("renderConcept", "visualTempo", "generic", "CANONICAL UPDATE OPERATOR")),
     ("field-notes/RESEARCH_ACCESS.md", policy, ("CURRENT-VIEW REDACTION", "history", "Minimum Five")),
 ):
     for fragment in fragments:
