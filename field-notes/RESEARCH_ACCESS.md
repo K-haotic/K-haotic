@@ -53,13 +53,15 @@ The program still invites independent evaluation. **Verification of a withheld p
 
 The user's original industrial practice, physical computing, inventorship, and experimental work remain visible. This access boundary is not a limitation on that experience.
 
-## A necessary Git history distinction
+## GitHub history remediation — November 3, 2026
 
-> **CURRENT-VIEW REDACTION ≠ RETROACTIVE REMOVAL.**
+> **PUBLIC BRANCH REWRITE ≠ GLOBAL DELETION.**
 >
-> Earlier versions of publicly committed GitHub files, including previous pull-request diffs, commits, forks, caches and archived copies, may still contain previously disclosed mathematical details. Replacing those files with redacted editions **does not make that historical exposure secret again**.
+> The public **main** branch was rewritten on November 3, 2026 to replace identified historical private-history details and protected mathematical implementation fragments with redaction notices. The current public file tree was preserved **byte-for-byte**, and a targeted scan of the rewritten reachable text history returned **zero matches**. All ten obsolete merged profile branches were retired from the public repository. The original history was preserved in a restricted, owner-controlled backup for recovery and authorized custody.
 >
-> The release does **not** rewrite shared Git history, delete evidence, or mutate the private canonical research repository. If historical removal is required, it should be evaluated as a separate, coordinated security and intellectual-property remediation effort with repository collaborators and appropriate advisers.
+> **GitHub-managed pull-request references, historical cached views, and copies held outside this repository may still exist.** A repository force-push and branch removal cannot by themselves make previous public publication secret again. GitHub Support remediation remains a separate follow-up. The research lab makes **no claim that external caches or third-party copies have been purged**.
+>
+> The private canonical research repository and the physical LEVI chassis were **not changed** by this profile-history operation. Future work must avoid merging a pre-cleanup clone in a way that reintroduces the previously published material.
 
 ## Intellectual property and attribution
 
