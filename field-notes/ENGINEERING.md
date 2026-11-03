@@ -73,10 +73,9 @@ I carried that approach into industrial construction, power-generation environme
 - Work across business management, product development, interdisciplinary collaboration, investigation, documentation, and actual machine testing.
 - Apply AI to diagnostic research, mechanical/electrical troubleshooting, maintenance documentation and training, while investigating **predictive maintenance, sensor-history analysis, CAD/3D equipment visualization and AR/VR industrial instruction**.
 
-[REDACTED - PRIVATE HISTORY]
-[REDACTED - PRIVATE HISTORY]
+### Earlier period | [REDACTED]
 
-[REDACTED - PRIVATE HISTORY]
+**[REDACTED — PRIVATE HISTORY]** Details from this period are intentionally withheld from the public résumé.
 
 ## Full field capability: more than a job title
 
