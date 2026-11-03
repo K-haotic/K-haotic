@@ -1,7 +1,7 @@
 # LEVI / BUILD LOG AND PROOF LADDER
 ### Physical chassis · Native computing · Recursive-body development
 
-[LEVI flagship](LEVI.md) · [GitHub front door](../README.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Research evidence](EVIDENCE.md)
+[LEVI flagship](LEVI.md) · [Engineering journal](LEVI_JOURNAL.md) · [GitHub front door](../README.md) · [Benchmark design](LEVI_BENCHMARKS.md) · [Research evidence](EVIDENCE.md)
 
 > **The machine is a working research program, not a static illustration. Its state of development changes through experiments, versions, tests and physical integration.**
 
