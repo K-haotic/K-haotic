@@ -4,7 +4,7 @@
 
 > The places where my knowledge is weakest often interest me the most. Learning is not preparation for the work; learning is part of the work.
 
-I am a lifelong autodidact, inventor and investigative polymath. I have spent years studying well outside my employment: mathematics, physics, chemistry, biology, psychology, philosophy, engineering, computation, organizational systems, art and history. I am not claiming advanced mastery or credentials in all of those fields. I am saying I have built a broad foundation and know how to deepen it deliberately.
+I am a lifelong autodidact, inventor and investigative polymath. I grew up building houses beside my father, a residential contractor, and learned to solve problems with my hands long before I had a formal job title. I have spent a lifetime studying mathematics, physics, chemistry, biology, psychology, philosophy, engineering, computing, business, art and history. I am drawn to what I understand least, because I know how to ask questions, find the missing pieces, learn from people and sources, and turn learning into useful work.
 
 My working method comes from construction sites, machine maintenance, gaming, independent study and computational research. A problem does not become simpler because I choose an impressive name for it. It becomes more tractable when I expose the assumptions, identify what is actually observed, and test the boundaries.
 
@@ -18,11 +18,11 @@ My working method comes from construction sites, machine maintenance, gaming, in
 6. **Test:** Compare alternatives, attempt to break the hypothesis, record failures and monitor confounders.
 7. **Revise:** Preserve the result, update the model, and design the next experiment.
 
-## Specialization, broad knowledge and curiosity are different
+## The do-it-all mindset
 
-A long career in industrial equipment is practical expertise. Long-standing independent study in biology and robotics is intellectual preparation. An unfamiliar advanced subfield may still require training, supervision or collaboration. I consider those differences useful, not embarrassing: they tell me the right next question.
+I spent my formative years building houses from site preparation to roofing and finish work. Later I became a lead millwright, lead maintenance specialist and shop foreman. Those roles rewarded the ability to step beyond a single specialty: read the drawing, investigate the machinery, trace the failure, work alongside the crew, coordinate the customer and keep the job moving.
 
-That is also how I manage AI-assisted development. Models can propose code, analyze data or question an assumption; they are not a replacement for checking sources, reproducing results or accepting responsibility for a physical action. Good collaboration means learning from people and tools while preserving provenance and critical judgment.
+I carry that same method into research. When an idea requires knowledge I don't yet possess, I find out who understands it, study it, test the parts, and build the competence needed to move forward. When AI systems help with analysis or implementation, I still direct the questions, inspect the work and take responsibility for decisions.
 
 ## The evidence ladder
 
@@ -45,6 +45,8 @@ The same approach bridges construction and research. A blueprint is not a finish
 - **Research persistence:** I am willing to investigate unfamiliar fields, develop experiments, keep records and challenge conclusions.
 - **Builder's accountability:** I will distinguish what we hope to achieve from what a machine has actually done.
 - **Collaborative learning:** I value experienced specialists, honest criticism, and questions that improve a shared investigation.
+
+**[My full engineering résumé](ENGINEERING.md)** · **[Cross-trade capability atlas](CAPABILITIES.md)**
 
 **Professional discussion:** [admin@khaotic.ai](mailto:admin@khaotic.ai?subject=Investigation%20and%20Research%20Collaboration)  
 **Primary evidence:** [Research evidence ledger](EVIDENCE.md) and [Research Estate](https://khaotic.ai/atlas/research/)
