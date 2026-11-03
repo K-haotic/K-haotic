@@ -7,8 +7,10 @@ on:
       - field-notes/**
       - docs/**
       - assets/minimum-five-foundation.svg
+      - assets/khaotic-research-vault.svg
       - assets/levi-body-frontier.svg
       - tools/check_minimum_five_public.py
+      - tools/check_public_ip_redaction.py
       - .github/workflows/minimum-five-public-integrity.yml
   push:
     branches: [main]
@@ -17,8 +19,10 @@ on:
       - field-notes/**
       - docs/**
       - assets/minimum-five-foundation.svg
+      - assets/khaotic-research-vault.svg
       - assets/levi-body-frontier.svg
       - tools/check_minimum_five_public.py
+      - tools/check_public_ip_redaction.py
       - .github/workflows/minimum-five-public-integrity.yml
   workflow_dispatch:
 
@@ -34,3 +38,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Verify five-field foundation and evidence status
         run: python3 tools/check_minimum_five_public.py
+      - name: Audit current public research disclosure boundary
+        run: python3 tools/check_public_ip_redaction.py
