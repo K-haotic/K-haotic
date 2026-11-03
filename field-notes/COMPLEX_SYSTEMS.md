@@ -6,23 +6,20 @@
 
 The **Britt–Howard Unified Aetheric Theory (BHUAT)** is Steven Ray Britt's original hypothesis for **one mathematically realizable route by which physical reality could generate and sustain persistent recursive structure**. The Five-Field Recursion Engine (5FRE) is its executable mathematical program. Its **Minimum-Five principle** requires a declared independent support basis of emergence (`phi`), cadence/structure (`tau`), memory (`psi`), contextual coherence (`chi`) and pressure/regulation (`Lambda`). **Five is a structural research requirement, not an arbitrary notation choice.** The repository supplies scoped exact theorems and machine-checked minimum-five support results, while the larger physical account is investigated through separate experimental gates. **[Read the foundational Minimum-Five research statement](MINIMUM_FIVE.md).**
 
-For the registered ordered research map `OP-5F-SEQ-QUAD-FRESH-V1`, the publicly documented recurrence is:
+### Registered nonlinear operator / public disclosure boundary
 
-```text
-phi'    = 1 - a*phi^2 + k1*Lambda
- tau'   = c1*phi'  + (1-c1)*tau
- psi'   = c2*tau'  + (1-c2)*psi
- chi'   = c3*psi'  + (1-c3)*chi
- Lambda'= c4*chi'  - d*Lambda
-```
+> **[REDACTED · CANONICAL RECURRENCE AND OPERATOR PROFILE]**  
+> The exact update equations, coefficient map, parameterization, event composition, and registered source identifiers are not distributed in the public edition. Original mathematical source and governed proof material remain in the private research repository.
 
-**The fresh predecessor matters:** `tau'` consumes `phi'`, `psi'` consumes `tau'`, and so on. A simultaneous old-state recurrence is a *different* operator even if it uses the same variable names. This precision is part of the published research summary (R01, R02).
+**What remains public:** BHUAT/5FRE investigates a specifically ordered, coupled five-field nonlinear operator. Emergence **ϕ**, temporal structure **τ**, memory **ψ**, contextual coherence **χ**, and regulation **Λ** are the declared minimum complete obligations. The significance of causal ordering, the distinctions between synchronous and ordered implementations, and the acceptance criteria for alternate realizers remain central scientific questions.
+
+**[Minimum Five: theorem conclusions and research scope](MINIMUM_FIVE.md)** · **[Research disclosure policy](RESEARCH_ACCESS.md)**
 
 ## Nonlinear and hybrid dynamics are not one vague category
 
 The project studies both the **ordered nonlinear map** and **hybrid responses** composed around it: collapse diagnostics, threshold crossing, guards, smooth Vent discharge, clamps, state resets, event routing, branch and recovery transitions. We distinguish an observation that raises a flag from a response that changes the actual state.
 
-A formal line computes smooth-region Jacobians for a discharge-only Vent composition. The source also constructs a counterexample to uniform volume contraction for the registered defaults. At nonsmooth seams, ordinary differentiability is not asserted. That negative result matters: finding an attractive pattern in a sample trajectory is not permission to claim global stability or chaos.
+A formal line computes smooth-region Jacobians for a discharge-only Vent composition. The private proof archive also records a counterexample to uniform volume contraction under its registered conditions. At nonsmooth seams, ordinary differentiability is not asserted. That negative result matters: finding an attractive pattern in a sample trajectory is not permission to claim global stability or chaos.
 
 Another research lane, **Recursive Resolution by Event Reduction (RRER)**, asks whether nonlinear evolution can select local strata or effective charts at events, preserve their witnesses, and then return to an expanded state space. The source explicitly compares mature prior art: hybrid systems, return maps, reduced-order models, event-triggered control, symbolic dynamics, Koopman/Carleman methods and coarse graining. It does not claim to have invented these established fields (R05-R06).
 
@@ -43,7 +40,7 @@ Another research lane, **Recursive Resolution by Event Reduction (RRER)**, asks 
 
 ## Minimum Five — two exact theorem layers and the wider physical question
 
-The registered **OP-5F-SEQ-QUAD-FRESH-V1** map has exact Jacobian determinant **det DF = 2ad ϕ(1−c₁)(1−c₂)(1−c₃)**. On every nondegenerate open neighborhood covered by the theorem, any **continuous exact** realization requires **at least five real state coordinates**; the given map uses exactly five. Therefore **mₘᵢₙ = 5** for that operator on its declared domain.
+> **[REDACTED · EXACT JACOBIAN AND PROOF CONSTRUCTION]** The factorized determinant, local invertibility derivation, proof implementation, and parameter conditions are withheld. **Published scoped conclusion:** the registered nondegenerate ordered operator has minimum exact local continuous state dimension **five**. The complete derivation remains private.
 
 A distinct machine-checked theorem establishes an exact **minimum effective support arity of five** for the declared independent five-obligation basis. Another formal result preserves that minimum across **admitted support-preserving 5FRE realizers**. The serious remaining scientific question is the semantic independence of those obligations across arbitrary challengers after hidden clocks, evaluators, memory and other imported support are counted.
 
@@ -69,4 +66,4 @@ The physical-law recovery program proposes a **family of realizers**: conservati
 
 The point of nonlinear research is not to make a system unpredictable for its own sake. It is to test whether structured recurrence, event selection, memory and constrained adaptation produce meaningful, measurable capabilities that survive critical comparison.
 
-**Source anchors:** R01-R17, R58-R60, R61. [Read the 87-entry reference ledger](PROVENANCE.md).
+**Source anchors:** R01-R17, R58-R60, R61. Exact source paths and registered parameters are available only through an approved research-access process. [Read the 87-entry reference ledger](PROVENANCE.md).
