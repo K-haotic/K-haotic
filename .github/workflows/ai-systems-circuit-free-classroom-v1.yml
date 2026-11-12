@@ -5,12 +5,14 @@ on:
     paths:
       - "docs/ai-systems-circuit/**"
       - "tests/ci/test_ai_learning_free_exercises_v1.cjs"
+      - "tests/ci/test_ai_learning_passport_v1.cjs"
       - ".github/workflows/ai-systems-circuit-free-classroom-v1.yml"
   push:
     branches: [main]
     paths:
       - "docs/ai-systems-circuit/**"
       - "tests/ci/test_ai_learning_free_exercises_v1.cjs"
+      - "tests/ci/test_ai_learning_passport_v1.cjs"
       - ".github/workflows/ai-systems-circuit-free-classroom-v1.yml"
 
 permissions:
@@ -27,5 +29,8 @@ jobs:
         run: |
           set -euo pipefail
           node --check docs/ai-systems-circuit/learn/lesson.js
+          node --check docs/ai-systems-circuit/learn/passport.js
           node --check tests/ci/test_ai_learning_free_exercises_v1.cjs
+          node --check tests/ci/test_ai_learning_passport_v1.cjs
           node tests/ci/test_ai_learning_free_exercises_v1.cjs
+          node tests/ci/test_ai_learning_passport_v1.cjs
