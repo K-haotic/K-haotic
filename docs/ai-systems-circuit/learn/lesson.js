@@ -16,6 +16,16 @@
   const sanitizeTask = (value) =>
     String(value).replace(/\s+/g, " ").trim().slice(0, 280);
 
+  function recordPractice(activity) {
+    // The local Learning Passport listens for optional progress events.
+    // This is self-assessed UI state, never a credential or network call.
+    if (typeof document.dispatchEvent === "function" &&
+        typeof CustomEvent === "function") {
+      document.dispatchEvent(new CustomEvent("khaotic:practice-result",
+        { detail: { activity } }));
+    }
+  }
+
   function makePrompt() {
     const description = sanitizeTask(task.value);
     if (!description) {
@@ -49,6 +59,7 @@
     promptOutput.textContent = lines.join("\n");
     promptFeedback.textContent =
       "Example prompt assembled locally. Review, edit and paste it into an AI service yourself if you choose; nothing was transmitted.";
+    recordPractice("prompt");
   }
 
   function clearPrompt() {
@@ -74,6 +85,7 @@
       feedback.textContent = "Choose one answer, then check it.";
     } else if (selected === correct) {
       feedback.textContent = "Correct. " + success;
+      recordPractice(group === "evidence-answer" ? "evidence" : "action");
     } else {
       feedback.textContent = "Try again. " + error;
     }
