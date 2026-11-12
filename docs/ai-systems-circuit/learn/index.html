@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#081523">
+<meta name="description" content="AI for Dummies: eight free practical AI lessons, a prompt-builder exercise, a source-checking quiz, and an action-permission quiz. No sign-in required.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'; connect-src 'none'; object-src 'none'; frame-src 'none'">
+<title>Learn AI by Doing — Khaotic Open Lab</title>
+<style>
+:root{color-scheme:dark;--bg:#081523;--panel:#102b3c;--line:#345b70;--text:#f0fcff;--muted:#c6dbe9;--aqua:#59ebd5;--gold:#f2ce94;--warning:#ffc9b9}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(ellipse at 55% -12%,#22465a,var(--bg) 57%);font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--text)}
+a{color:var(--aqua);text-underline-offset:3px}a:hover{color:white}
+a:focus-visible,button:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+.skip{position:absolute;top:-100px;left:12px;background:white;color:black;padding:10px;z-index:4}.skip:focus{top:12px}
+.wrap{width:min(1040px,calc(100% - 36px));margin:auto}
+header{border-bottom:1px solid var(--line);background:#0c2232}
+nav{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:17px 0}
+.brand{text-decoration:none;font-weight:900;color:#fff;letter-spacing:.11em}
+.brand strong{color:var(--aqua)}
+nav .links{display:flex;flex-wrap:wrap;gap:18px}
+header a{text-decoration:none}
+.hero{padding:70px 0 34px}
+.eyebrow{color:var(--aqua);font-size:13px;letter-spacing:.11em;text-transform:uppercase;font-weight:900}
+h1{font-size:clamp(42px,7.5vw,77px);letter-spacing:-.06em;line-height:1.06;margin:12px 0 20px}
+h2{font-size:clamp(26px,3.8vw,40px);line-height:1.15;letter-spacing:-.03em;margin:0 0 17px}
+h3{font-size:21px;margin:6px 0 12px}
+.lead{font-size:20px;color:var(--muted);max-width:760px}
+.small{font-size:14px;color:var(--muted)}
+section{padding:32px 0 45px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.card{background:linear-gradient(155deg,#13384a,var(--panel));border:1px solid var(--line);border-radius:19px;padding:22px}
+.card p{margin:8px 0 0;color:var(--muted)}
+.tag{color:var(--aqua);font-size:12px;font-weight:900;letter-spacing:.09em;text-transform:uppercase}
+details{margin:12px 0 0}
+summary{cursor:pointer;color:var(--aqua);font-weight:750}
+.details-content{padding:12px 0 0}
+.details-content p{margin:0 0 11px}
+details pre,pre.output{white-space:pre-wrap;overflow-wrap:anywhere;border:1px solid #4e798c;border-radius:9px;background:#081b29;color:#eafcff;padding:16px;font:15px/1.55 ui-monospace,Consolas,monospace}
+.exercise{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
+.exercise label,.exercise legend{display:block;font-weight:700;margin:16px 0 7px}
+.exercise input[type=text],.exercise textarea,.exercise select{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
+.exercise textarea{min-height:85px;resize:vertical}
+.exercise fieldset{border:1px solid #4b7184;border-radius:11px;padding:13px;margin:12px 0}
+.exercise fieldset label{display:flex;gap:8px;font-weight:500;align-items:flex-start;margin:9px 0}
+.exercise input[type=radio]{margin-top:7px}
+button,.btn{font:inherit;font-weight:800;cursor:pointer;border:1px solid #5faea3;border-radius:10px;background:#155e65;color:white;padding:12px 18px;display:inline-block;text-decoration:none}
+button:hover,.btn:hover{background:#1b787d}
+button.secondary{background:#162c41;border-color:#557e90}
+.actions{display:flex;flex-wrap:wrap;gap:11px;margin:18px 0 0}
+.feedback{border-left:4px solid var(--aqua);background:#0b2030;padding:13px 16px;margin-top:15px;min-height:45px}
+.feedback:empty{display:none}
+.info{border-left:4px solid var(--gold);background:#2a2831;padding:15px 18px;border-radius:6px}
+footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
+@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise{padding:18px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+<script defer src="./lesson.js"></script>
+</head>
+<body>
+<a href="#main" class="skip">Skip to lessons</a>
+<header><nav class="wrap" aria-label="Main navigation">
+<a class="brand" href="../">KHAOTIC <strong>OPEN LAB</strong></a>
+<div class="links"><a href="../">AI Systems Circuit</a><a href="#lessons">8 lessons</a><a href="#practice">Practice</a><a href="https://khaotic.ai/login/">Existing account login</a></div>
+</nav></header>
+<main id="main">
+<section class="hero"><div class="wrap">
+<p class="eyebrow">AI for Dummies · Level 0 Explorer · Free and open</p>
+<h1>Learn AI by doing.</h1>
+<p class="lead">Eight beginner lessons. Three hands-on exercises. No account, subscription, social follow, or connection required.</p>
+<p>Understand how to ask, check and act with AI. We teach transferable skills—not Khaotic's protected Recursive Physics equations or LEVI implementation.</p>
+<a class="btn" href="#practice">Try the exercises</a>
+</div></section>
+<section id="lessons" aria-labelledby="lessons-title"><div class="wrap">
+<h2 id="lessons-title">Eight practical lessons</h2>
+<p class="small">Read any lesson in any order. Examples are fictional unless attributed to an external source.</p>
+<div class="grid">
+<article class="card"><span class="tag">01 · The system</span><h3>Model ≠ application</h3>
+<p>A model generates possible answers. The app may supply instructions, files, memory, retrieval, tools and rules. A fluent response alone doesn't tell you which components were used.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Ask an AI which information came from your message, which from an external source, and which is an inference. Verify the source yourself.</p></div></details></article>
+<article class="card"><span class="tag">02 · Better requests</span><h3>Give a clear task</h3>
+<p>Tell the AI your goal, relevant context, output format, constraints and what evidence would make the result trustworthy.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Change “Help with my budget” into “Using only these fictional expenses, group them into categories and flag missing values.” Never paste real account credentials.</p></div></details></article>
+<article class="card"><span class="tag">03 · Context</span><h3>What does the session know?</h3>
+<p>Information supplied in a conversation differs from model training. A long session can affect responses without changing a model's learned weights.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Compare the same question with no background, useful background and contradictory background. Ask the AI to identify uncertainty.</p></div></details></article>
+<article class="card"><span class="tag">04 · Tools</span><h3>Proposing is not doing</h3>
+<p>Writing “I sent the email” is not proof that software sent it. A real action requires a connected tool, appropriate permission and an observed result.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Ask what operation is proposed, whether it is authorized and what success receipt should exist before claiming completion.</p></div></details></article>
+<article class="card"><span class="tag">05 · Memory &amp; privacy</span><h3>Know what you share</h3>
+<p>Session context, saved memory and external records are distinct. Storage and retention vary by service. Check the service's current settings and policies.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Use a fictional customer-support case. Decide what to keep, redact or omit before sharing with an AI service.</p></div></details></article>
+<article class="card"><span class="tag">06 · Verification</span><h3>Confidence isn't evidence</h3>
+<p>An answer can sound precise and still be incorrect. Find primary sources, check dates, confirm calculations and mark unknowns instead of guessing.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Choose a claim and ask for the exact source passage. If the source doesn't support it, revise the claim.</p></div></details></article>
+<article class="card"><span class="tag">07 · Experiments</span><h3>Test one change at a time</h3>
+<p>Compare a baseline and a revised prompt on the same task. Record the result, repeat it and include cases where your preferred approach fails.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Create five fictional questions and score both prompts on accuracy, missing evidence and work required. Five cases are a practice exercise, not a universal benchmark.</p></div></details></article>
+<article class="card"><span class="tag">08 · Workflows</span><h3>Make a small reliable loop</h3>
+<p>Plan → gather inputs → generate a candidate → verify → request permission for any real action → inspect the result. More agents or tools do not automatically mean better work.</p>
+<details><summary>Try it</summary><div class="details-content"><p>Outline a source-backed report workflow with a human review before sending. Don't give a bot permanent access it doesn't need.</p></div></details></article>
+</div>
+</div></section>
+<section id="practice" aria-labelledby="practice-title"><div class="wrap">
+<h2 id="practice-title">Hands-on practice</h2>
+<p class="info"><strong>Private by design:</strong> These activities run in your browser using fixed rules. They do not contact an AI model, transmit your answers to Khaotic, save your inputs, verify social follows or grant club membership. Avoid entering secrets or sensitive personal data.</p>
+<div class="exercise">
+<p class="tag">Activity 01 · Prompt builder</p>
+<h3>Turn a vague request into a useful prompt</h3>
+<label for="task">What are you trying to accomplish? (Use fictional details.)</label>
+<textarea id="task" maxlength="280" placeholder="Example: plan a three-day study schedule for a fictional history quiz"></textarea>
+<label for="audience">Who will use the result?</label>
+<select id="audience"><option value="a beginner">A beginner</option><option value="a colleague">A colleague</option><option value="a customer">A customer</option></select>
+<label for="format">Preferred output</label>
+<select id="format"><option value="a short step-by-step checklist">Step-by-step checklist</option><option value="a concise table">Concise table</option><option value="three clear paragraphs">Three paragraphs</option></select>
+<label for="evidence">How should uncertainty be handled?</label>
+<select id="evidence"><option value="Flag unknown facts and ask for missing information. Do not invent sources.">Flag unknowns</option><option value="Mark which points need independent source verification, with source dates if available.">Require source checks</option></select>
+<div class="actions"><button type="button" id="build-prompt">Build prompt</button><button type="button" class="secondary" id="clear-prompt">Clear</button></div>
+<div id="prompt-feedback" class="feedback" role="status" aria-live="polite"></div>
+<pre class="output" id="prompt-output" tabindex="0" aria-label="Generated example prompt">Your example prompt will appear here. Nothing is sent.</pre>
+</div>
+<div class="exercise">
+<p class="tag">Activity 02 · Evidence detective</p>
+<h3>Which answer can we actually support?</h3>
+<p>Fictional reference: “In this example dataset, River Station opened in 2018 and its observation deck closes at 5 p.m.”</p>
+<fieldset><legend>Which response is justified by that reference alone?</legend>
+<label><input type="radio" name="evidence-answer" value="a"> The deck is open 24 hours a day.</label>
+<label><input type="radio" name="evidence-answer" value="b"> The reference says the observation deck closes at 5 p.m.; current hours require confirmation.</label>
+<label><input type="radio" name="evidence-answer" value="c"> The station is the most popular attraction in the world.</label></fieldset>
+<button type="button" id="check-evidence">Check evidence</button>
+<div id="evidence-feedback" class="feedback" role="status" aria-live="polite"></div>
+</div>
+<div class="exercise">
+<p class="tag">Activity 03 · Authorized action</p>
+<h3>When can a bot claim it changed something?</h3>
+<p>Fictional task: an AI assistant has drafted an email. It has no connected email-sending tool and no send receipt.</p>
+<fieldset><legend>What is the correct status?</legend>
+<label><input type="radio" name="action-answer" value="a"> Email successfully sent.</label>
+<label><input type="radio" name="action-answer" value="b"> Draft ready; sending has not happened.</label>
+<label><input type="radio" name="action-answer" value="c"> Sending is guaranteed because the answer is confident.</label></fieldset>
+<button type="button" id="check-action">Check action</button>
+<div id="action-feedback" class="feedback" role="status" aria-live="polite"></div>
+</div>
+<p class="small">Suggested next step: repeat the three exercises with your own non-sensitive fictional problem. Make a checklist of which claims need external verification.</p>
+</div></section>
+<section aria-labelledby="continue-title"><div class="wrap">
+<h2 id="continue-title">Keep learning with the community</h2>
+<p>Explorer lessons are free. Follower, Member, Contributor and Research Partner are proposed participation levels, not currently automated. Your attention and useful contributions matter, but follows, views and external account permissions are not required for these lessons or proof of authorization.</p>
+<div class="actions"><a class="btn" href="../">See the participation ladder</a><a class="btn" href="mailto:admin@khaotic.ai?subject=AI%20Learning%20Feedback">Send learning feedback</a></div>
+<p class="small">Educational examples, not professional advice. This Khaotic learning page is independent of external education brands and is not affiliated with a “For Dummies” publisher.</p>
+</div></section>
+</main>
+<footer><div class="wrap">Khaotic Gaming LLC · <a href="../">AI Systems Circuit</a> · <a href="https://khaotic.ai/privacy">Privacy</a> · No tracking, login or source access in these local activities.</div></footer>
+</body>
+</html>
