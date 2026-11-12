@@ -4,188 +4,46 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#06111e">
-<meta name="description" content="AI for Dummies (Tutor) — AI Literacy Training by Khaotic. Eight free lessons, three hands-on AI exercises, and an optional portable Learning Passport. No sign-in required.">
+<meta name="description" content="Explore Khaotic's AI research: model, context, burn-in, dreamer and surveyor, typed source graphs, projection, hidden state, and the owner-managed circuit.">
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; connect-src 'none'; object-src 'none'; frame-src 'none'">
-<title>Learn AI by Doing | AI for Dummies (Tutor) — AI Literacy Training</title>
-<style>
-:root{color-scheme:dark;--bg:#081523;--panel:#102b3c;--line:#345b70;--text:#f0fcff;--muted:#c6dbe9;--aqua:#59ebd5;--gold:#f2ce94;--warning:#ffc9b9}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:radial-gradient(ellipse at 55% -12%,#22465a,var(--bg) 57%);font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--text)}
-a{color:var(--aqua);text-underline-offset:3px}a:hover{color:white}
-a:focus-visible,button:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
-.skip{position:absolute;top:-100px;left:12px;background:white;color:black;padding:10px;z-index:4}.skip:focus{top:12px}
-.wrap{width:min(1040px,calc(100% - 36px));margin:auto}
-header{border-bottom:1px solid var(--line);background:#0c2232}
-nav{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:17px 0}
-.brand{text-decoration:none;font-weight:900;color:#fff;letter-spacing:.11em}
-.brand strong{color:var(--aqua)}
-nav .links{display:flex;flex-wrap:wrap;gap:18px}
-header a{text-decoration:none}
-.hero{padding:70px 0 34px}
-.eyebrow{color:var(--aqua);font-size:13px;letter-spacing:.11em;text-transform:uppercase;font-weight:900}
-h1{font-size:clamp(42px,7.5vw,77px);letter-spacing:-.06em;line-height:1.06;margin:12px 0 20px}
-h2{font-size:clamp(26px,3.8vw,40px);line-height:1.15;letter-spacing:-.03em;margin:0 0 17px}
-h3{font-size:21px;margin:6px 0 12px}
-.lead{font-size:20px;color:var(--muted);max-width:760px}
-.small{font-size:14px;color:var(--muted)}
-section{padding:32px 0 45px}
-.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
-.card{background:linear-gradient(155deg,#13384a,var(--panel));border:1px solid var(--line);border-radius:19px;padding:22px}
-.card p{margin:8px 0 0;color:var(--muted)}
-.tag{color:var(--aqua);font-size:12px;font-weight:900;letter-spacing:.09em;text-transform:uppercase}
-details{margin:12px 0 0}
-summary{cursor:pointer;color:var(--aqua);font-weight:750}
-.details-content{padding:12px 0 0}
-.details-content p{margin:0 0 11px}
-details pre,pre.output{white-space:pre-wrap;overflow-wrap:anywhere;border:1px solid #4e798c;border-radius:9px;background:#081b29;color:#eafcff;padding:16px;font:15px/1.55 ui-monospace,Consolas,monospace}
-.completion{display:flex;gap:10px;align-items:flex-start;margin-top:17px;padding-top:12px;border-top:1px solid var(--line);font-size:14px;font-weight:750;color:var(--aqua)}
-.completion input{width:19px;height:19px;accent-color:var(--aqua);flex:0 0 auto;margin:3px 0 0}
-.passport-meter{width:100%;height:19px;accent-color:var(--aqua)}
-.exercise,.passport-shell{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
-.exercise label,.exercise legend,.passport-shell label{display:block;font-weight:700;margin:16px 0 7px}
-.exercise input[type=text],.exercise textarea,.exercise select,.passport-shell textarea{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
-.exercise textarea,.passport-shell textarea{min-height:85px;resize:vertical}
-.exercise fieldset{border:1px solid #4b7184;border-radius:11px;padding:13px;margin:12px 0}
-.exercise fieldset label{display:flex;gap:8px;font-weight:500;align-items:flex-start;margin:9px 0}
-.exercise input[type=radio]{margin-top:7px}
-button,.btn{font:inherit;font-weight:800;cursor:pointer;border:1px solid #5faea3;border-radius:10px;background:#155e65;color:white;padding:12px 18px;display:inline-block;text-decoration:none}
-button:hover,.btn:hover{background:#1b787d}
-button.secondary{background:#162c41;border-color:#557e90}
-.actions{display:flex;flex-wrap:wrap;gap:11px;margin:18px 0 0}
-.feedback{border-left:4px solid var(--aqua);background:#0b2030;padding:13px 16px;margin-top:15px;min-height:45px}
-.feedback:empty{display:none}
-.info{border-left:4px solid var(--gold);background:#2a2831;padding:15px 18px;border-radius:6px}
-footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
-@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise,.passport-shell{padding:18px}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-</style>
+<title>Circuit Lab | AI Systems Circuit — Khaotic</title>
 <link rel="stylesheet" href="../../experience/portal.css">
-<script defer src="./lesson.js"></script>
-<script defer src="./passport.js"></script>
+<style>
+:root{color-scheme:dark;--bg:#081523;--panel:#102b3c;--line:#345b70;--text:#f0fcff;--muted:#c6dbe9;--aqua:#59ebd5;--gold:#f2ce94}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 55% -12%,#22465a,var(--bg) 57%);font:16px/1.7 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--text)}a{color:var(--aqua);text-underline-offset:3px}a:hover{color:white}a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:3px}.wrap{width:min(1000px,calc(100% - 36px));margin:auto}header{border-bottom:1px solid var(--line);background:#0c2232}nav{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;padding:17px 0}.brand{text-decoration:none;font-weight:900;color:#fff;letter-spacing:.11em}.brand strong{color:var(--aqua)}nav .links{display:flex;flex-wrap:wrap;gap:18px}header a{text-decoration:none}.hero{padding:68px 0 34px}.eyebrow{color:var(--aqua);font-size:13px;letter-spacing:.11em;text-transform:uppercase;font-weight:900}h1{font-size:clamp(42px,7.5vw,74px);letter-spacing:-.06em;line-height:1.06;margin:12px 0 20px}h2{font-size:clamp(27px,4vw,42px);line-height:1.15;letter-spacing:-.035em;margin:0 0 15px}h3{font-size:22px;line-height:1.2;margin:6px 0 10px}.lead{font-size:20px;color:var(--muted);max-width:790px}.small{font-size:14px;color:var(--muted)}section{padding:30px 0 44px}.panel{background:linear-gradient(155deg,#13384a,var(--panel));border:1px solid var(--line);border-radius:19px;padding:24px;margin:16px 0}.panel p{color:var(--muted)}.tag{color:var(--aqua);font-size:12px;font-weight:900;letter-spacing:.09em;text-transform:uppercase}.columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.columns>.panel{margin:0}.flow{white-space:pre-wrap;overflow-wrap:anywhere;border:1px solid #4e798c;border-radius:9px;background:#081b29;color:#eafcff;padding:16px;font:15px/1.65 ui-monospace,Consolas,monospace}.lab{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:24px;margin-top:16px}.lab button{font:inherit;font-weight:800;cursor:pointer;border:1px solid #5faea3;border-radius:10px;background:#155e65;color:white;padding:11px 16px;margin:5px 8px 5px 0}.lab button:hover{background:#1b787d}.status{border-left:4px solid var(--aqua);background:#0b2030;padding:13px 16px;margin-top:14px;min-height:50px}.node-line{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin:14px 0}.node{border:1px solid #57a9a2;background:#0b2736;border-radius:10px;padding:9px 13px;font-weight:800}.edge{font-size:21px;color:var(--gold)}.missing{border-color:#ff9c89;color:#ffd5ca;text-decoration:line-through}.source-link{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:12px 0;border-bottom:1px solid #345b70}.source-link:last-child{border:0}details{border-top:1px solid var(--line);padding:13px 0;margin-top:14px}summary{cursor:pointer;color:var(--aqua);font-weight:800}footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}@media(max-width:700px){.columns{grid-template-columns:1fr}.hero{padding-top:43px}.lab,.panel{padding:18px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+<script defer src="./circuit-lab.js"></script>
 </head>
 <body class="portal-surface lesson-page">
-<a href="#main" class="skip">Skip to lessons</a>
-<header><nav class="wrap" aria-label="Main navigation">
-<a class="brand" href="../">KHAOTIC <strong>OPEN LAB</strong></a>
-<div class="links"><a href="../">AI Literacy Home</a><a href="../../organization/">Organization</a><a href="#lessons">8 lessons</a><a href="#practice">Practice</a><a href="#passport">Learning Passport</a><a href="https://khaotic.ai/login/">Existing account login</a></div>
-</nav></header>
+<header><nav class="wrap" aria-label="Circuit Lab navigation"><a class="brand" href="../">KHAOTIC <strong>AI SYSTEMS CIRCUIT</strong></a><div class="links"><a href="../">Circuit overview</a><a href="#model">Model &amp; context</a><a href="#dreamer">Dreamer / surveyor</a><a href="#source-graph">Source geometry</a><a href="#projection">Projection</a><a href="#recursive-body">Recursive body</a></div></nav></header>
 <main id="main">
-<section class="hero"><div class="wrap">
-<p class="eyebrow">AI for Dummies (Tutor) — AI Literacy Training · Level 0 Explorer</p>
-<h1>Learn AI by doing.</h1>
-<p class="lead">Eight beginner lessons. Three hands-on exercises. No account, subscription, social follow, or connection required.</p>
-<p>Understand how to ask, check and act with AI. We teach transferable skills—not Khaotic's protected Recursive Physics equations or LEVI implementation.</p>
-<a class="btn" href="#practice">Try the exercises</a>
-</div></section>
-<section id="lessons" aria-labelledby="lessons-title"><div class="wrap">
-<h2 id="lessons-title">Eight practical lessons</h2>
-<p class="small">Read any lesson in any order. Examples are fictional unless attributed to an external source.</p>
-<div class="grid">
-<article class="card"><span class="tag">01 · The system</span><h3>Model ≠ application</h3>
-<p>A model generates possible answers. The app may supply instructions, files, memory, retrieval, tools and rules. A fluent response alone doesn't tell you which components were used.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Ask an AI which information came from your message, which from an external source, and which is an inference. Verify the source yourself.</p></div></details><label class="completion"><input type="checkbox" data-lesson="system"> Mark lesson 01 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">02 · Better requests</span><h3>Give a clear task</h3>
-<p>Tell the AI your goal, relevant context, output format, constraints and what evidence would make the result trustworthy.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Change “Help with my budget” into “Using only these fictional expenses, group them into categories and flag missing values.” Never paste real account credentials.</p></div></details><label class="completion"><input type="checkbox" data-lesson="prompting"> Mark lesson 02 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">03 · Context</span><h3>What does the session know?</h3>
-<p>Information supplied in a conversation differs from model training. A long session can affect responses without changing a model's learned weights.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Compare the same question with no background, useful background and contradictory background. Ask the AI to identify uncertainty.</p></div></details><label class="completion"><input type="checkbox" data-lesson="context"> Mark lesson 03 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">04 · Tools</span><h3>Proposing is not doing</h3>
-<p>Writing “I sent the email” is not proof that software sent it. A real action requires a connected tool, appropriate permission and an observed result.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Ask what operation is proposed, whether it is authorized and what success receipt should exist before claiming completion.</p></div></details><label class="completion"><input type="checkbox" data-lesson="tools"> Mark lesson 04 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">05 · Memory &amp; privacy</span><h3>Know what you share</h3>
-<p>Session context, saved memory and external records are distinct. Storage and retention vary by service. Check the service's current settings and policies.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Use a fictional customer-support case. Decide what to keep, redact or omit before sharing with an AI service.</p></div></details><label class="completion"><input type="checkbox" data-lesson="privacy"> Mark lesson 05 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">06 · Verification</span><h3>Confidence isn't evidence</h3>
-<p>An answer can sound precise and still be incorrect. Find primary sources, check dates, confirm calculations and mark unknowns instead of guessing.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Choose a claim and ask for the exact source passage. If the source doesn't support it, revise the claim.</p></div></details><label class="completion"><input type="checkbox" data-lesson="verification"> Mark lesson 06 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">07 · Experiments</span><h3>Test one change at a time</h3>
-<p>Compare a baseline and a revised prompt on the same task. Record the result, repeat it and include cases where your preferred approach fails.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Create five fictional questions and score both prompts on accuracy, missing evidence and work required. Five cases are a practice exercise, not a universal benchmark.</p></div></details><label class="completion"><input type="checkbox" data-lesson="experiments"> Mark lesson 07 complete (self-assessed)</label>
-</article>
-<article class="card"><span class="tag">08 · Workflows</span><h3>Make a small reliable loop</h3>
-<p>Plan → gather inputs → generate a candidate → verify → request permission for any real action → inspect the result. More agents or tools do not automatically mean better work.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Outline a source-backed report workflow with a human review before sending. Don't give a bot permanent access it doesn't need.</p></div></details><label class="completion"><input type="checkbox" data-lesson="workflows"> Mark lesson 08 complete (self-assessed)</label>
-</article>
-</div>
-</div></section>
-<section id="passport" aria-labelledby="passport-title"><div class="wrap">
-<div class="passport-shell">
-<p class="tag">Learning Passport · Optional · Local-only</p>
-<h2 id="passport-title">Carry your learning forward.</h2>
-<p>Mark lessons as you understand them. The three practice milestones are added after you build a prompt or answer a quiz correctly. Progress is <strong>self-assessed</strong>: it is not verified course credit, social engagement, a member badge, or access to Khaotic's private research.</p>
-<p id="passport-progress" role="status" aria-live="polite">0 of 11 local milestones (self-assessed)</p>
-<progress id="passport-meter" class="passport-meter" max="11" value="0">0 of 11</progress>
-<p class="small">Nothing is saved automatically. Choose Save to store only the lesson and practice IDs on this browser. No task text, account information or other personal details enter the record. You can export a small JSON text capsule and paste it into another browser to restore progress offline.</p>
-<div class="actions">
-<button type="button" id="passport-save">Save on this device</button>
-<button type="button" class="secondary" id="passport-restore">Restore saved progress</button>
-<button type="button" class="secondary" id="passport-export">Export portable JSON</button>
-<button type="button" class="secondary" id="passport-import">Import JSON below</button>
-<button type="button" class="secondary" id="passport-clear">Clear progress and saved copy</button>
-</div>
-<label for="passport-transfer">Portable progress JSON (copy/paste yourself; optional)</label>
-<textarea id="passport-transfer" maxlength="2048" spellcheck="false" autocomplete="off" autocapitalize="off" placeholder="Select Export to show your progress, or paste a previously exported Learning Passport here."></textarea>
-<p id="passport-status" class="feedback" role="status" aria-live="polite"></p>
-<p class="small">Your progress stays in this tab unless you explicitly save it in your own browser or copy it elsewhere. It is not linked to your Khaotic account. Membership levels and approvals are managed separately and are not awarded by this page.</p>
-</div>
-</div></section>
-<section id="practice" aria-labelledby="practice-title"><div class="wrap">
-<h2 id="practice-title">Hands-on practice</h2>
-<p class="info"><strong>Private by design:</strong> These activities run in your browser using fixed rules. They do not contact an AI model, transmit your answers to Khaotic, save your inputs, verify social follows or grant club membership. Avoid entering secrets or sensitive personal data.</p>
-<div class="exercise">
-<p class="tag">Activity 01 · Prompt builder</p>
-<h3>Turn a vague request into a useful prompt</h3>
-<label for="task">What are you trying to accomplish? (Use fictional details.)</label>
-<textarea id="task" maxlength="280" placeholder="Example: plan a three-day study schedule for a fictional history quiz"></textarea>
-<label for="audience">Who will use the result?</label>
-<select id="audience"><option value="a beginner">A beginner</option><option value="a colleague">A colleague</option><option value="a customer">A customer</option></select>
-<label for="format">Preferred output</label>
-<select id="format"><option value="a short step-by-step checklist">Step-by-step checklist</option><option value="a concise table">Concise table</option><option value="three clear paragraphs">Three paragraphs</option></select>
-<label for="evidence">How should uncertainty be handled?</label>
-<select id="evidence"><option value="Flag unknown facts and ask for missing information. Do not invent sources.">Flag unknowns</option><option value="Mark which points need independent source verification, with source dates if available.">Require source checks</option></select>
-<div class="actions"><button type="button" id="build-prompt">Build prompt</button><button type="button" class="secondary" id="clear-prompt">Clear</button></div>
-<div id="prompt-feedback" class="feedback" role="status" aria-live="polite"></div>
-<pre class="output" id="prompt-output" tabindex="0" aria-label="Generated example prompt">Your example prompt will appear here. Nothing is sent.</pre>
-</div>
-<div class="exercise">
-<p class="tag">Activity 02 · Evidence detective</p>
-<h3>Which answer can we actually support?</h3>
-<p>Fictional reference: “In this example dataset, River Station opened in 2018 and its observation deck closes at 5 p.m.”</p>
-<fieldset><legend>Which response is justified by that reference alone?</legend>
-<label><input type="radio" name="evidence-answer" value="a"> The deck is open 24 hours a day.</label>
-<label><input type="radio" name="evidence-answer" value="b"> The reference says the observation deck closes at 5 p.m.; current hours require confirmation.</label>
-<label><input type="radio" name="evidence-answer" value="c"> The station is the most popular attraction in the world.</label></fieldset>
-<button type="button" id="check-evidence">Check evidence</button>
-<div id="evidence-feedback" class="feedback" role="status" aria-live="polite"></div>
-</div>
-<div class="exercise">
-<p class="tag">Activity 03 · Authorized action</p>
-<h3>When can a bot claim it changed something?</h3>
-<p>Fictional task: an AI assistant has drafted an email. It has no connected email-sending tool and no send receipt.</p>
-<fieldset><legend>What is the correct status?</legend>
-<label><input type="radio" name="action-answer" value="a"> Email successfully sent.</label>
-<label><input type="radio" name="action-answer" value="b"> Draft ready; sending has not happened.</label>
-<label><input type="radio" name="action-answer" value="c"> Sending is guaranteed because the answer is confident.</label></fieldset>
-<button type="button" id="check-action">Check action</button>
-<div id="action-feedback" class="feedback" role="status" aria-live="polite"></div>
-</div>
-<p class="small">Suggested next step: repeat the three exercises with your own non-sensitive fictional problem. Make a checklist of which claims need external verification.</p>
-</div></section>
-<section aria-labelledby="continue-title"><div class="wrap">
-<h2 id="continue-title">Keep learning with the community</h2>
-<p>Explorer lessons are free. Follower, Member, Contributor and Research Partner are proposed participation levels, not currently automated. Your attention and useful contributions matter, but follows, views and external account permissions are not required for these lessons or proof of authorization.</p>
-<div class="actions"><a class="btn" href="../">See the participation ladder</a><a class="btn" href="mailto:admin@khaotic.ai?subject=AI%20Learning%20Feedback">Send learning feedback</a></div>
-<p class="small">Educational examples, not professional advice. This Khaotic learning page is independent of external education brands and is not affiliated with a “For Dummies” publisher.</p>
-</div></section>
+<section class="hero"><div class="wrap"><p class="eyebrow">AI Systems Circuit · Research lab</p><h1>The model is the engine.<br>The system is the circuit.</h1><p class="lead">This is the research thread behind the AI Systems Circuit: how context shapes a model, how candidate answers meet a map of sources and constraints, and how hidden state can change what the visible interface seems to show.</p><p><a href="#model">Start with the circuit ↓</a></p></div></section>
+<section id="model"><div class="wrap"><p class="tag">01 · Engine and circuit</p><h2>One model. Many arrangements.</h2><div class="columns"><article class="panel"><h3>The model</h3><p>The trained model produces a continuation from the input it receives. It contributes the generative engine and its learned parameters.</p></article><article class="panel"><h3>The arrangement</h3><p>A product can add system instructions, conversation history, retrieval, tools, routing, usage controls, external services, and records. Those pieces determine what goes in, what happens between model calls, and what comes back out.</p></article></div><pre class="flow">person / task
+     ↓
+instructions + session context + retrieved sources
+     ↓
+model proposes a result
+     ↓
+harness may route a tool call and receive its result
+     ↓
+response, action, or retained working record</pre><p>The output alone does not show every step in its path. To explain a behavior, identify the parts of the circuit that could have produced it.</p></div></section>
+<section id="burn-in"><div class="wrap"><p class="tag">02 · Context and burn-in</p><h2>A working session gathers shape.</h2><p class="lead">A cold start begins without the task-specific history. Repeated examples, agreed terms, corrections, and objectives can make a session behave like a more specialized collaborator. Khaotic calls this process <strong>burn-in</strong>.</p><div class="panel"><p>Burn-in changes the active context and therefore the conditions of the next answer. It is not the same as changing the trained weights. Context can also get crowded: old errors may be repeated, or the useful definition may be buried under accumulated material.</p><details><summary>Compare the two memory paths</summary><p><strong>Session path:</strong> add examples and corrections to the context, then ask again.</p><p><strong>Persistent path:</strong> select a result, attach its source and revision, and retain it in a separate working record for later retrieval.</p><p><strong>Training path:</strong> change model parameters through a distinct training or fine-tuning process. A saved note by itself does not do that.</p></details></div></div></section>
+<section id="dreamer"><div class="wrap"><p class="tag">03 · Interference and geometry</p><h2>Dreamer proposes. Surveyor checks the map.</h2><div class="columns"><article class="panel"><h3>The dreamer</h3><p>Generates possibilities, comparisons, and hypotheses. It explores what might fit the pattern.</p></article><article class="panel"><h3>The surveyor</h3><p>Checks a candidate against explicit coordinates, source relationships, admissible transitions, constraints, and history.</p></article></div><p>Both are needed. A precise check can still validate the wrong thing if the map was specified badly. A creative proposal can still be outside the permitted route. Keep the proposal and the map visible so the disagreement can be examined.</p>
+<div class="lab" aria-labelledby="route-title"><p class="tag">Live map · synthetic example</p><h3 id="route-title">Does this route exist?</h3><p>The source map contains A → B, B → C, and C → D. The proposal is A → C → D.</p><div class="node-line" aria-label="Proposed route"><span class="node">A</span><span class="edge">→</span><span id="route-node" class="node missing">C</span><span class="edge">→</span><span class="node">D</span></div><p id="route-status" class="status" role="status" aria-live="polite">The first jump is missing from the map: A → C has no declared edge.</p><button type="button" id="repair-edge">Add the missing A → B → C steps</button><button type="button" id="break-edge">Show the skipped edge again</button><div id="verified-route" hidden><p class="node-line" aria-label="Verified route"><span class="node">A</span><span class="edge">→</span><span class="node">B</span><span class="edge">→</span><span class="node">C</span><span class="edge">→</span><span class="node">D</span></p><p>The revised proposal follows the declared adjacency. Other constraints, such as cost or capacity, would need their own checks.</p></div></div></div></section>
+<section id="source-graph"><div class="wrap"><p class="tag">04 · Flat text and typed source graphs</p><h2>Follow the relationship, not just the wording.</h2><p class="lead">A similarity match can locate a passage that mentions a term. It may not identify which source defines the term, which proof depends on that definition, or which implementation and observation correspond to it.</p><div class="panel"><p class="tag">A source-anchored retrieval path</p><div class="source-link"><strong>Question</strong><span class="edge">→</span><span>exact term / identity</span></div><div class="source-link"><strong>Definition</strong><span class="edge">→</span><span>assumptions and proof status</span></div><div class="source-link"><strong>Implementation</strong><span class="edge">→</span><span>test, revision, observed result</span></div><p>Each arrow is a typed source relationship. If a link is missing, stale, or unresolved, keep that gap visible. A diagram can change its layout without changing the underlying source identities.</p></div><h3>The experiment</h3><p>Compare flat embedding retrieval with source-anchored typed traversal on the same corpus and questions, under equal token budgets. Measure answer accuracy, completeness, wrong-version definitions, skipped premises, and unsupported claims. The question is whether the explicit relationships improve retrieval; the result belongs to the experiment.</p></div></section>
+<section id="projection"><div class="wrap"><p class="tag">05 · Magician’s trick · projection and hidden state</p><h2>The visible display may not be the whole mechanism.</h2><p class="lead">A display is a projection of the system state. Different underlying states can look identical in the current view. If those states can lead to different next outcomes, the view has hidden a distinction that matters for prediction.</p><div class="lab"><p class="tag">Reveal the hidden seam · synthetic example</p><h3>Same screen, different next step</h3><p>Both records display <strong>“ready”</strong>. One has source permission for the next transition; the other does not.</p><div class="columns"><article class="panel"><h3>State A · source S-14</h3><p>Display: ready</p><p>History: source edge present</p><p>Next transition: continue</p></article><article class="panel"><h3>State B · source S-29</h3><p>Display: ready</p><p>History: source edge absent</p><p>Next transition: hold</p></article></div><p>The display alone cannot determine the next step. Revealing the source identity and history resolves the difference in this example. Whether more detail improves a real prediction is something to test against outcomes.</p></div><p>Khaotic calls this research lens <strong>the magician’s trick</strong>: inspect what a presentation shows, what it leaves out, and whether the omitted distinction changes the next decision or outcome. “Not shown” does not automatically mean “deleted” or “deliberately hidden”; the mechanism and history determine what the gap means.</p></div></section>
+<section id="harness"><div class="wrap"><p class="tag">06 · Owner-managed harness</p><h2>Who controls the valves?</h2><p>A model provider can supply candidate analysis while a separate harness controls which model is called, what context is sent, which tools are available, what results are retained, and what may enter persistent working state. Model output and system authority are different parts of the circuit.</p><pre class="flow">model proposal
+   ↓
+owner-side source and constraint checks
+   ↓
+accept / revise / hold + attributed result
+   ↓
+owned working record
+   ↓
+later retrieval, replay, or separately chosen training</pre><p>Distilling a useful interaction into an owned record means selecting a result, attaching provenance, checking it, and retaining it for future work. That is different from the session context and from changing model parameters.</p></div></section>
+<section id="recursive-body"><div class="wrap"><p class="tag">07 · Persistent recursive body</p><h2>The body comes first.</h2><p class="lead">Khaotic’s research question reaches beyond a chat session: can a computational body develop useful capabilities while retaining its identity, history, evidence, responsibilities, and future choices?</p><div class="panel"><p>A foundation model may assist the body. A neural network can become a specialist; a tool or GPU can perform a task. Those components can change. The research places continuity in the body’s persistent state and developmental history, not in one replaceable model.</p><p><strong>LEVI is Khaotic’s embodiment experiment.</strong> It investigates a recursive body across computational and physical substrates, with history, context, evidence, lineage, and controlled action carried through development.</p></div><h3>The public five-role map</h3><p>The Five-Field Recursion Engine describes five distinct roles in an ordered cycle:</p><div class="node-line" aria-label="Five-field ordered cycle"><span class="node">ϕ · emergence</span><span class="edge">→</span><span class="node">τ · cadence</span><span class="edge">→</span><span class="node">ψ · memory</span><span class="edge">→</span><span class="node">χ · coherence</span><span class="edge">→</span><span class="node">Λ · regulation</span><span class="edge">→</span><span class="node">ϕ</span></div><p>This role map is public; the exact recurrence is not part of this classroom. The research asks how a body keeps its fields, history, and evidence coherent as components change, and what experiments could distinguish that design from an ordinary model wrapped in a chat interface.</p><p><a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/RESEARCH.md">Read the research thesis ↗</a> · <a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/LEVI.md">Read the LEVI research ↗</a> · <a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/MINIMUM_FIVE.md">Read the Minimum Five foundation ↗</a></p></div></section>
+<section><div class="wrap"><p class="tag">Bring a question to the lab</p><h2>Pick a seam. Trace it.</h2><p>Choose an AI behavior that surprised you. Identify the model, the context, the source path, the available tools, and the state that could have changed the outcome. Then ask what observation would distinguish your competing explanations.</p><p><a href="../">Back to the AI Systems Circuit</a> · <a href="../organization/">Khaotic.AI</a> · <a href="https://github.com/K-haotic/K-haotic/blob/main/field-notes/RESEARCH.md">Research thesis</a> · <a href="mailto:admin@khaotic.ai?subject=AI%20Systems%20Circuit%20Research">Discuss the research</a></p></div></section>
 </main>
-<footer><div class="wrap">Khaotic Gaming LLC · AI for Dummies (Tutor) — AI Literacy Training · <a href="../">AI Systems Circuit</a> · <a href="https://khaotic.ai/privacy">Privacy</a> · No tracking, login or source access in these local activities.</div></footer>
+<footer><div class="wrap">Khaotic Gaming LLC · AI Systems Circuit · <a href="../">Circuit overview</a> · <a href="../../">LEVI Research</a></div></footer>
 </body>
 </html>
