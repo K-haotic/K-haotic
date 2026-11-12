@@ -39,10 +39,13 @@ summary{cursor:pointer;color:var(--aqua);font-weight:750}
 .details-content{padding:12px 0 0}
 .details-content p{margin:0 0 11px}
 details pre,pre.output{white-space:pre-wrap;overflow-wrap:anywhere;border:1px solid #4e798c;border-radius:9px;background:#081b29;color:#eafcff;padding:16px;font:15px/1.55 ui-monospace,Consolas,monospace}
-.exercise{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
-.exercise label,.exercise legend{display:block;font-weight:700;margin:16px 0 7px}
-.exercise input[type=text],.exercise textarea,.exercise select{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
-.exercise textarea{min-height:85px;resize:vertical}
+.completion{display:flex;gap:10px;align-items:flex-start;margin-top:17px;padding-top:12px;border-top:1px solid var(--line);font-size:14px;font-weight:750;color:var(--aqua)}
+.completion input{width:19px;height:19px;accent-color:var(--aqua);flex:0 0 auto;margin:3px 0 0}
+.passport-meter{width:100%;height:19px;accent-color:var(--aqua)}
+.exercise,.passport-shell{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
+.exercise label,.exercise legend,.passport-shell label{display:block;font-weight:700;margin:16px 0 7px}
+.exercise input[type=text],.exercise textarea,.exercise select,.passport-shell textarea{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
+.exercise textarea,.passport-shell textarea{min-height:85px;resize:vertical}
 .exercise fieldset{border:1px solid #4b7184;border-radius:11px;padding:13px;margin:12px 0}
 .exercise fieldset label{display:flex;gap:8px;font-weight:500;align-items:flex-start;margin:9px 0}
 .exercise input[type=radio]{margin-top:7px}
@@ -54,16 +57,17 @@ button.secondary{background:#162c41;border-color:#557e90}
 .feedback:empty{display:none}
 .info{border-left:4px solid var(--gold);background:#2a2831;padding:15px 18px;border-radius:6px}
 footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
-@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise{padding:18px}}
+@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise,.passport-shell{padding:18px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 <script defer src="./lesson.js"></script>
+<script defer src="./passport.js"></script>
 </head>
 <body>
 <a href="#main" class="skip">Skip to lessons</a>
 <header><nav class="wrap" aria-label="Main navigation">
 <a class="brand" href="../">KHAOTIC <strong>OPEN LAB</strong></a>
-<div class="links"><a href="../">AI Systems Circuit</a><a href="#lessons">8 lessons</a><a href="#practice">Practice</a><a href="https://khaotic.ai/login/">Existing account login</a></div>
+<div class="links"><a href="../">AI Systems Circuit</a><a href="#lessons">8 lessons</a><a href="#practice">Practice</a><a href="#passport">Learning Passport</a><a href="https://khaotic.ai/login/">Existing account login</a></div>
 </nav></header>
 <main id="main">
 <section class="hero"><div class="wrap">
@@ -79,28 +83,57 @@ footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
 <div class="grid">
 <article class="card"><span class="tag">01 · The system</span><h3>Model ≠ application</h3>
 <p>A model generates possible answers. The app may supply instructions, files, memory, retrieval, tools and rules. A fluent response alone doesn't tell you which components were used.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Ask an AI which information came from your message, which from an external source, and which is an inference. Verify the source yourself.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Ask an AI which information came from your message, which from an external source, and which is an inference. Verify the source yourself.</p></div></details><label class="completion"><input type="checkbox" data-lesson="system"> Mark lesson 01 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">02 · Better requests</span><h3>Give a clear task</h3>
 <p>Tell the AI your goal, relevant context, output format, constraints and what evidence would make the result trustworthy.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Change “Help with my budget” into “Using only these fictional expenses, group them into categories and flag missing values.” Never paste real account credentials.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Change “Help with my budget” into “Using only these fictional expenses, group them into categories and flag missing values.” Never paste real account credentials.</p></div></details><label class="completion"><input type="checkbox" data-lesson="prompting"> Mark lesson 02 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">03 · Context</span><h3>What does the session know?</h3>
 <p>Information supplied in a conversation differs from model training. A long session can affect responses without changing a model's learned weights.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Compare the same question with no background, useful background and contradictory background. Ask the AI to identify uncertainty.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Compare the same question with no background, useful background and contradictory background. Ask the AI to identify uncertainty.</p></div></details><label class="completion"><input type="checkbox" data-lesson="context"> Mark lesson 03 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">04 · Tools</span><h3>Proposing is not doing</h3>
 <p>Writing “I sent the email” is not proof that software sent it. A real action requires a connected tool, appropriate permission and an observed result.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Ask what operation is proposed, whether it is authorized and what success receipt should exist before claiming completion.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Ask what operation is proposed, whether it is authorized and what success receipt should exist before claiming completion.</p></div></details><label class="completion"><input type="checkbox" data-lesson="tools"> Mark lesson 04 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">05 · Memory &amp; privacy</span><h3>Know what you share</h3>
 <p>Session context, saved memory and external records are distinct. Storage and retention vary by service. Check the service's current settings and policies.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Use a fictional customer-support case. Decide what to keep, redact or omit before sharing with an AI service.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Use a fictional customer-support case. Decide what to keep, redact or omit before sharing with an AI service.</p></div></details><label class="completion"><input type="checkbox" data-lesson="privacy"> Mark lesson 05 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">06 · Verification</span><h3>Confidence isn't evidence</h3>
 <p>An answer can sound precise and still be incorrect. Find primary sources, check dates, confirm calculations and mark unknowns instead of guessing.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Choose a claim and ask for the exact source passage. If the source doesn't support it, revise the claim.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Choose a claim and ask for the exact source passage. If the source doesn't support it, revise the claim.</p></div></details><label class="completion"><input type="checkbox" data-lesson="verification"> Mark lesson 06 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">07 · Experiments</span><h3>Test one change at a time</h3>
 <p>Compare a baseline and a revised prompt on the same task. Record the result, repeat it and include cases where your preferred approach fails.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Create five fictional questions and score both prompts on accuracy, missing evidence and work required. Five cases are a practice exercise, not a universal benchmark.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Create five fictional questions and score both prompts on accuracy, missing evidence and work required. Five cases are a practice exercise, not a universal benchmark.</p></div></details><label class="completion"><input type="checkbox" data-lesson="experiments"> Mark lesson 07 complete (self-assessed)</label>
+</article>
 <article class="card"><span class="tag">08 · Workflows</span><h3>Make a small reliable loop</h3>
 <p>Plan → gather inputs → generate a candidate → verify → request permission for any real action → inspect the result. More agents or tools do not automatically mean better work.</p>
-<details><summary>Try it</summary><div class="details-content"><p>Outline a source-backed report workflow with a human review before sending. Don't give a bot permanent access it doesn't need.</p></div></details></article>
+<details><summary>Try it</summary><div class="details-content"><p>Outline a source-backed report workflow with a human review before sending. Don't give a bot permanent access it doesn't need.</p></div></details><label class="completion"><input type="checkbox" data-lesson="workflows"> Mark lesson 08 complete (self-assessed)</label>
+</article>
+</div>
+</div></section>
+<section id="passport" aria-labelledby="passport-title"><div class="wrap">
+<div class="passport-shell">
+<p class="tag">Learning Passport · Optional · Local-only</p>
+<h2 id="passport-title">Carry your learning forward.</h2>
+<p>Mark lessons as you understand them. The three practice milestones are added after you build a prompt or answer a quiz correctly. Progress is <strong>self-assessed</strong>: it is not verified course credit, social engagement, a member badge, or access to Khaotic's private research.</p>
+<p id="passport-progress" role="status" aria-live="polite">0 of 11 local milestones (self-assessed)</p>
+<progress id="passport-meter" class="passport-meter" max="11" value="0">0 of 11</progress>
+<p class="small">Nothing is saved automatically. Choose Save to store only the lesson and practice IDs on this browser. No task text, account information or other personal details enter the record. You can export a small JSON text capsule and paste it into another browser to restore progress offline.</p>
+<div class="actions">
+<button type="button" id="passport-save">Save on this device</button>
+<button type="button" class="secondary" id="passport-restore">Restore saved progress</button>
+<button type="button" class="secondary" id="passport-export">Export portable JSON</button>
+<button type="button" class="secondary" id="passport-import">Import JSON below</button>
+<button type="button" class="secondary" id="passport-clear">Clear progress and saved copy</button>
+</div>
+<label for="passport-transfer">Portable progress JSON (copy/paste yourself; optional)</label>
+<textarea id="passport-transfer" maxlength="2048" spellcheck="false" autocomplete="off" autocapitalize="off" placeholder="Select Export to show your progress, or paste a previously exported Learning Passport here."></textarea>
+<p id="passport-status" class="feedback" role="status" aria-live="polite"></p>
+<p class="small">Your progress stays in this tab unless you explicitly save it in your own browser or copy it elsewhere. It is not linked to your Khaotic account. Membership levels and approvals are managed separately and are not awarded by this page.</p>
 </div>
 </div></section>
 <section id="practice" aria-labelledby="practice-title"><div class="wrap">
