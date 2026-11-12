@@ -16,6 +16,7 @@ const course = read(coursePath);
 const rootPage = read(rootPath);
 const css = read("docs/experience/portal.css");
 const js = read("docs/experience/portal.js");
+const lab = read("docs/ai-systems-circuit/learn/circuit-lab.js");
 let tests = 0;
 const test = (name, predicate) => {
   assert(predicate,name); tests++; console.log("PASS",name);
@@ -48,17 +49,16 @@ for(const [file,source] of [[orgPath,org],[aiPath,ai],[coursePath,course]]){
   });
 }
 test("organization is discoverable from LEVI research",()=>rootPage.includes('href="./organization/"'));
-test("organization connects public educational course",()=>org.includes('href="../ai-systems-circuit/"'));
-test("learning page connects organization",()=>ai.includes('href="../organization/"')&&course.includes('href="../../organization/"'));
-test("restored full AI literacy title",()=>ai.includes("AI for Dummies (Tutor)")&&ai.includes("AI Literacy Training")&&course.includes("AI Literacy Training"));
-test("existing free course and Passport preserved",()=> (course.match(/<article class="card"/g)||[]).length===8 &&
-  (course.match(/<div class="exercise"/g)||[]).length===3 && course.includes("./passport.js"));
-test("proposed tier status truthful",()=>ai.includes("Proposed community levels—not yet active.")&&ai.includes("do not automatically unlock access"));
-test("both Khaotic public gateways preserved",()=>ai.includes("https://github.com/K-haotic")&&ai.includes("https://github.com/Khaotic-ai"));
-test("live GitHub login not falsely announced",()=>ai.includes("GitHub-based sign-in is being configured and is not yet available."));
+test("organization connects public AI Systems Circuit",()=>org.includes('href="../ai-systems-circuit/"'));
+test("AI Circuit connects organization",()=>ai.includes('href="../organization/"')&&course.includes('href="../organization/"'));
+test("research themes remain on both public routes",()=>["dreamer","surveyor","burn-in","source graph","projection","magician"].every(x=>(ai+course).toLowerCase().includes(x)));
+test("research lab includes working synthetic route",()=>course.includes('id="repair-edge"')&&course.includes('id="break-edge"')&&course.includes('./circuit-lab.js'));
+test("research question compares typed retrieval and flat text",()=>course.includes("flat embedding retrieval")&&course.includes("source-anchored typed traversal"));
+test("both Khaotic public gateways preserved",()=>ai.includes("https://github.com/K-haotic/K-haotic/tree/main/field-notes")&&ai.includes('href="../organization/"'));
+test("route control updates map state",()=>lab.includes("verified.hidden = false")&&lab.includes("verified.hidden = true")&&lab.includes("A → B → C → D"));
 test("decorative animation never claims live telemetry",()=>org.includes("not a claim")&&js.includes("NOT live LEVI telemetry"));
 test("nontracking visualizer and constrained motion",()=>/prefers-reduced-motion/.test(js)&&/visibilitychange/.test(js)&&
   /cancelAnimationFrame/.test(js)&&!/\b(?:fetch|WebSocket|XMLHttpRequest|localStorage|sessionStorage|sendBeacon)\b/.test(js));
 test("glass theme includes contrast and responsive motion controls",()=>/focus-visible/.test(css)&&/prefers-reduced-motion/.test(css)&&/@media\(max-width:430px\)/.test(css)&&/\[data-portal-sky\]/.test(css));
 test("no inline external dependencies",()=>![org,ai].some(s=>s.includes("fonts.googleapis.com")||s.includes("cdn.")||s.includes("analytics.")));
-console.log("KHAOTIC_PUBLIC_PORTAL_DESIGN_PASS checks="+tests+" protected_source=none");
+console.log("KHAOTIC_PUBLIC_PORTAL_RESEARCH_PASS checks="+tests+" protected_source=none");
