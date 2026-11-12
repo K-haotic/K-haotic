@@ -8,7 +8,6 @@
   if (!status || !verified || !firstNode || !repair || !breakEdge) return;
   repair.addEventListener("click", () => {
     firstNode.textContent = "C";
-    firstNode.classList.remove("missing");
     verified.hidden = false;
     status.textContent = "The route now follows the map: A → B → C → D. Each transition has a declared edge.";
   });
