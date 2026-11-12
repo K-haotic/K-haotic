@@ -1,0 +1,64 @@
+#!/usr/bin/env node
+"use strict";
+/* Public-only Khaotic portal checks. Never reads protected source. */
+const assert = require("node:assert/strict");
+const fs = require("node:fs");
+const path = require("node:path");
+const ROOT = path.resolve(__dirname, "../..");
+const read = file => fs.readFileSync(path.join(ROOT,file),"utf8");
+const orgPath = "docs/organization/index.html";
+const aiPath = "docs/ai-systems-circuit/index.html";
+const coursePath = "docs/ai-systems-circuit/learn/index.html";
+const rootPath = "docs/index.html";
+const org = read(orgPath);
+const ai = read(aiPath);
+const course = read(coursePath);
+const rootPage = read(rootPath);
+const css = read("docs/experience/portal.css");
+const js = read("docs/experience/portal.js");
+let tests = 0;
+const test = (name, predicate) => {
+  assert(predicate,name); tests++; console.log("PASS",name);
+};
+const anchors = source => [...source.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+const links = source => [...source.matchAll(/\b(?:href|src)="([^"]+)"/g)].map(m=>m[1]);
+for(const [file,source] of [[orgPath,org],[aiPath,ai],[coursePath,course]]){
+  test(file+" one main and one h1",()=> (source.match(/<main\b/g)||[]).length===1 &&
+       (source.match(/<h1\b/g)||[]).length===1);
+  const ids=anchors(source);
+  test(file+" unique IDs",()=>ids.length===new Set(ids).size);
+  test(file+" internal aria references",()=>{
+    for(const m of source.matchAll(/\baria-labelledby="([^"]+)"/g))
+      for(const id of m[1].split(/\s+/))if(!ids.includes(id))return false;
+    return true;
+  });
+  test(file+" local resources exist",()=>{
+    for(const item of links(source)){
+      if(item.startsWith("#")||item.startsWith("https:")||item.startsWith("mailto:")||item.startsWith("data:"))continue;
+      const abs=path.resolve(ROOT,path.dirname(file),item.split("#")[0]);
+      if(!abs.startsWith(ROOT+path.sep) && abs!==ROOT)return false;
+      if(!fs.existsSync(abs) && !fs.existsSync(path.join(abs,"index.html")))return false;
+    }
+    return true;
+  });
+  test(file+" no outbound scripts/connectors",()=>{
+    return source.includes("connect-src 'none'") &&
+       !/src="https?:\/\//i.test(source) &&
+       !/fetch\(|api[_-]?key|client_secret|bearer.token|gpu_init/i.test(source);
+  });
+}
+test("organization is discoverable from LEVI research",()=>rootPage.includes('href="./organization/"'));
+test("organization connects public educational course",()=>org.includes('href="../ai-systems-circuit/"'));
+test("learning page connects organization",()=>ai.includes('href="../organization/"')&&course.includes('href="../../organization/"'));
+test("restored full AI literacy title",()=>ai.includes("AI for Dummies (Tutor)")&&ai.includes("AI Literacy Training")&&course.includes("AI Literacy Training"));
+test("existing free course and Passport preserved",()=> (course.match(/<article class="card"/g)||[]).length===8 &&
+  (course.match(/<div class="exercise"/g)||[]).length===3 && course.includes("./passport.js"));
+test("proposed tier status truthful",()=>ai.includes("Proposed community levels—not yet active.")&&ai.includes("do not automatically unlock access"));
+test("both Khaotic public gateways preserved",()=>ai.includes("https://github.com/K-haotic")&&ai.includes("https://github.com/Khaotic-ai"));
+test("live GitHub login not falsely announced",()=>ai.includes("GitHub-based sign-in is being configured and is not yet available."));
+test("decorative animation never claims live telemetry",()=>org.includes("not a claim")&&js.includes("NOT live LEVI telemetry"));
+test("nontracking visualizer and constrained motion",()=>/prefers-reduced-motion/.test(js)&&/visibilitychange/.test(js)&&
+  /cancelAnimationFrame/.test(js)&&!/\b(?:fetch|WebSocket|XMLHttpRequest|localStorage|sessionStorage|sendBeacon)\b/.test(js));
+test("glass theme includes contrast and responsive motion controls",()=>/focus-visible/.test(css)&&/prefers-reduced-motion/.test(css)&&/@media\(max-width:430px\)/.test(css)&&/\[data-portal-sky\]/.test(css));
+test("no inline external dependencies",()=>![org,ai].some(s=>s.includes("fonts.googleapis.com")||s.includes("cdn.")||s.includes("analytics.")));
+console.log("KHAOTIC_PUBLIC_PORTAL_DESIGN_PASS checks="+tests+" protected_source=none");
