@@ -36,7 +36,7 @@ for(const [file,source] of [[orgPath,org],[aiPath,ai],[coursePath,course]]){
   test(file+" local resources exist",()=>{
     for(const item of links(source)){
       if(item.startsWith("#")||item.startsWith("https:")||item.startsWith("mailto:")||item.startsWith("data:"))continue;
-      const abs=path.resolve(ROOT,path.dirname(file),item.split("#")[0]);
+      const abs=path.resolve(ROOT,path.dirname(file),item.split(/[?#]/)[0]);
       if(!abs.startsWith(ROOT+path.sep) && abs!==ROOT)return false;
       if(!fs.existsSync(abs) && !fs.existsSync(path.join(abs,"index.html")))return false;
     }
