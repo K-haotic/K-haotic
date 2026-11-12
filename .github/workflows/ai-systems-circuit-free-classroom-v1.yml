@@ -4,15 +4,23 @@ on:
   pull_request:
     paths:
       - "docs/ai-systems-circuit/**"
+      - "docs/experience/**"
+      - "docs/organization/**"
+      - "docs/index.html"
       - "tests/ci/test_ai_learning_free_exercises_v1.cjs"
       - "tests/ci/test_ai_learning_passport_v1.cjs"
+      - "tests/ci/test_public_portal_design_v2.cjs"
       - ".github/workflows/ai-systems-circuit-free-classroom-v1.yml"
   push:
     branches: [main]
     paths:
       - "docs/ai-systems-circuit/**"
+      - "docs/experience/**"
+      - "docs/organization/**"
+      - "docs/index.html"
       - "tests/ci/test_ai_learning_free_exercises_v1.cjs"
       - "tests/ci/test_ai_learning_passport_v1.cjs"
+      - "tests/ci/test_public_portal_design_v2.cjs"
       - ".github/workflows/ai-systems-circuit-free-classroom-v1.yml"
 
 permissions:
@@ -28,9 +36,12 @@ jobs:
       - name: Verify local-only JavaScript and educational interactions
         run: |
           set -euo pipefail
+          node --check docs/experience/portal.js
           node --check docs/ai-systems-circuit/learn/lesson.js
           node --check docs/ai-systems-circuit/learn/passport.js
           node --check tests/ci/test_ai_learning_free_exercises_v1.cjs
           node --check tests/ci/test_ai_learning_passport_v1.cjs
           node tests/ci/test_ai_learning_free_exercises_v1.cjs
           node tests/ci/test_ai_learning_passport_v1.cjs
+          node --check tests/ci/test_public_portal_design_v2.cjs
+          node tests/ci/test_public_portal_design_v2.cjs
