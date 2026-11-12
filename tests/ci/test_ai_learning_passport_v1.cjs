@@ -134,7 +134,6 @@ test("import round-trip after clear, without implicit save",()=>{
  assert.equal(storageLog.length,before);
 });
 test("malformed, unknown and privilege-bearing imports are rejected",()=>{
- const original=JSON.parse(prep("passport-export").events.click?"{}":"{}");
  prep("passport-export").event("click");
  const good=JSON.parse(prep("passport-transfer").value);
  const cases=[
@@ -157,7 +156,6 @@ test("malformed, unknown and privilege-bearing imports are rejected",()=>{
   assert.equal(value(),5);
   assert.match(prep("passport-status").textContent,/Invalid or unsupported/);
  }
- void original;
 });
 test("manually crafted valid self-assessed record can import all 11",()=>{
  const r={schema:"khaotic.learning_passport.v1",kind:"SELF_ASSESSED_PROGRESS_ONLY",
@@ -167,7 +165,7 @@ test("manually crafted valid self-assessed record can import all 11",()=>{
  assert.equal(value(),11);assert.match(progress(),/11 of 11/);
 });
 test("rejected stored JSON leaves in-memory state intact",()=>{
- storage.set(KEY,JSON.stringify({...snapshot(),authority:"ADMIN"}));
+ storage.set(KEY,JSON.stringify({schema:"khaotic.learning_passport.v1",kind:"SELF_ASSESSED_PROGRESS_ONLY",authority:"ADMIN",lessons:expected,activities:["prompt","evidence","action"]}));
  prep("passport-restore").event("click");
  assert.equal(value(),11);assert.match(prep("passport-status").textContent,/invalid/);
 });
