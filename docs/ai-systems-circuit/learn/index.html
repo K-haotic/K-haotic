@@ -42,10 +42,10 @@ details pre,pre.output{white-space:pre-wrap;overflow-wrap:anywhere;border:1px so
 .completion{display:flex;gap:10px;align-items:flex-start;margin-top:17px;padding-top:12px;border-top:1px solid var(--line);font-size:14px;font-weight:750;color:var(--aqua)}
 .completion input{width:19px;height:19px;accent-color:var(--aqua);flex:0 0 auto;margin:3px 0 0}
 .passport-meter{width:100%;height:19px;accent-color:var(--aqua)}
-.exercise{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
-.exercise label,.exercise legend{display:block;font-weight:700;margin:16px 0 7px}
-.exercise input[type=text],.exercise textarea,.exercise select{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
-.exercise textarea{min-height:85px;resize:vertical}
+.exercise,.passport-shell{border:1px solid #45788c;border-radius:20px;background:#10293c;padding:25px;margin-bottom:18px}
+.exercise label,.exercise legend,.passport-shell label{display:block;font-weight:700;margin:16px 0 7px}
+.exercise input[type=text],.exercise textarea,.exercise select,.passport-shell textarea{display:block;width:100%;font:inherit;border:1px solid #6a93a5;background:#071824;color:#fff;padding:12px;border-radius:9px}
+.exercise textarea,.passport-shell textarea{min-height:85px;resize:vertical}
 .exercise fieldset{border:1px solid #4b7184;border-radius:11px;padding:13px;margin:12px 0}
 .exercise fieldset label{display:flex;gap:8px;font-weight:500;align-items:flex-start;margin:9px 0}
 .exercise input[type=radio]{margin-top:7px}
@@ -57,7 +57,7 @@ button.secondary{background:#162c41;border-color:#557e90}
 .feedback:empty{display:none}
 .info{border-left:4px solid var(--gold);background:#2a2831;padding:15px 18px;border-radius:6px}
 footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
-@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise{padding:18px}}
+@media(max-width:700px){.grid{grid-template-columns:1fr}.hero{padding-top:43px}.exercise,.passport-shell{padding:18px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 <script defer src="./lesson.js"></script>
@@ -116,7 +116,7 @@ footer{border-top:1px solid var(--line);padding:29px 0 45px;color:var(--muted)}
 </div>
 </div></section>
 <section id="passport" aria-labelledby="passport-title"><div class="wrap">
-<div class="exercise">
+<div class="passport-shell">
 <p class="tag">Learning Passport · Optional · Local-only</p>
 <h2 id="passport-title">Carry your learning forward.</h2>
 <p>Mark lessons as you understand them. The three practice milestones are added after you build a prompt or answer a quiz correctly. Progress is <strong>self-assessed</strong>: it is not verified course credit, social engagement, a member badge, or access to Khaotic's private research.</p>
