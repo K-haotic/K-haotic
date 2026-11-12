@@ -50,7 +50,7 @@ for(const [file,source] of [[orgPath,org],[aiPath,ai],[coursePath,course]]){
 }
 test("organization is discoverable from LEVI research",()=>rootPage.includes('href="./organization/"'));
 test("organization connects public AI Systems Circuit",()=>org.includes('href="../ai-systems-circuit/"'));
-test("AI Circuit connects organization",()=>ai.includes('href="../organization/"')&&course.includes('href="../organization/"'));
+test("AI Circuit connects organization",()=>ai.includes('href="../organization/"')&&course.includes('href="../../organization/"'));
 test("research themes remain on both public routes",()=>["dreamer","surveyor","burn-in","source graph","projection","magician","recursive body","five-field"].every(x=>(ai+course).toLowerCase().includes(x)));
 test("research lab includes working synthetic route",()=>course.includes('id="repair-edge"')&&course.includes('id="break-edge"')&&course.includes('./circuit-lab.js'));
 test("LEVI and the five-role body thesis are linked",()=>course.includes('id="recursive-body"')&&course.includes("field-notes/LEVI.md")&&course.includes("field-notes/MINIMUM_FIVE.md"));

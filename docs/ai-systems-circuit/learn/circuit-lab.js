@@ -9,12 +9,12 @@
   repair.addEventListener("click", () => {
     firstNode.textContent = "C";
     verified.hidden = false;
-    status.textContent = "The route now follows the map: A → B → C → D. Each transition has a declared edge.";
+    status.textContent = "Added the map-checked route A → B → C → D. The original proposal above remains for comparison.";
   });
   breakEdge.addEventListener("click", () => {
     firstNode.textContent = "C";
     firstNode.classList.add("missing");
     verified.hidden = true;
-    status.textContent = "The proposal again skips the declared A → B edge. A → C is not in the map.";
+    status.textContent = "The map-checked route is hidden. The original A → C jump has no declared edge.";
   });
 })();
