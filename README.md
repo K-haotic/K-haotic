@@ -26,7 +26,7 @@
 <a href="./field-notes/MINIMUM_FIVE.md"><img alt="Minimum Five fundamental mathematics" src="https://img.shields.io/badge/FOUNDATION-MINIMUM_FIVE-46C9ED?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/LEVI.md"><img alt="Meet LEVI" src="https://img.shields.io/badge/MEET-LEVI_THE_BODY-52E0DB?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="./field-notes/FEATURED_WORK.md"><img alt="Featured work" src="https://img.shields.io/badge/VIEW-FLAGSHIP_WORK-AE97F8?style=for-the-badge&amp;labelColor=122338" /></a>
-<a href="./docs/ai-systems-circuit/"><img alt="AI Systems Circuit: how modern AI works and both GitHub gateways" src="https://img.shields.io/badge/AI-AI_SYSTEMS_CIRCUIT-59EBD5?style=for-the-badge&amp;labelColor=122338" /></a>
+<a href="https://k-haotic.github.io/K-haotic/ai-systems-circuit/"><img alt="AI Systems Circuit: how modern AI works and both GitHub gateways" src="https://img.shields.io/badge/AI-AI_SYSTEMS_CIRCUIT-59EBD5?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="https://k-haotic.github.io/K-haotic/"><img alt="Explore the live LEVI Open Lab" src="https://img.shields.io/badge/LIVE-LEVI_OPEN_LAB-65E8C5?style=for-the-badge&amp;labelColor=122338" /></a>
 <a href="mailto:admin@khaotic.ai?subject=Build%20Together"><img alt="Contact for collaboration" src="https://img.shields.io/badge/CONNECT-BUILD_TOGETHER-70C9F0?style=for-the-badge&amp;labelColor=122338" /></a>
 
