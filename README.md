@@ -64,7 +64,7 @@ I'm also a lifelong **old-school gamer** and a self-taught, multidisciplinary in
 
 | Period | Responsibility | Work |
 | --- | --- | --- |
-| **Childhood–~17** | **Residential construction with my father / Amidon Construction** | Houses from site preparation to roof: concrete, framing, roofing, plumbing, electrical, HVAC and finish. |
+| **Childhood–~17** | **[Residential construction with my father / Amidon Construction](./field-notes/ENGINEERING.md#house-construction-and-amidon-construction--childhood-through-approximately-age-17)** | Houses from site preparation to roof: concrete, framing, roofing, plumbing, electrical, HVAC and finish. **[Existing work photo portfolio](https://stevenbritt7117.wixsite.com/stevenbritt)**. |
 | **Earlier period** | **[REDACTED — PRIVATE HISTORY]** | Details intentionally withheld from this public résumé. |
 | **2006–2014** | **Systems LLC · Lead Millwright / Fabricator** | Structural steel, high-pressure piping, welding, industrial installation and crews. |
 | **2014–2020** | **Arkansas Mechanical · Lead Millwright / Fabricator** | Rolling mills, conveyors, turbines, compressors, equipment alignment and industrial field projects. |
@@ -181,6 +181,18 @@ The proposed architecture is a **bounded, non-closed, holarchic recursive body**
 <br/>
 <sub><strong>LEVI / our actual physical experimental chassis, November 2026.</strong> Every future capability is being built toward something we can test.</sub>
 </div>
+
+<div align="center">
+<a href="./assets/levi-aquarium-v10-reef-preview-2026-11.jpg">
+  <img src="./assets/levi-aquarium-v10-reef-preview-2026-11.jpg" width="300" alt="Existing original artwork from LEVI Living Aquarium v10: an underwater reef with illuminated mushrooms, sea creatures, and kraken-inspired forms." />
+</a>
+<br/>
+<sub><strong>November 23, 2026 update — LEVI Living Aquarium v10.</strong> Original visual from the standalone LEVI Aquarium project, supplied from the working package; this is the browser launch experience, shown alongside the existing actual-chassis photograph above.</sub>
+</div>
+
+**What has progressed:** The v10 Aquarium package includes the layered reef and surface environments, original ambient audio, responsive presentation and launch controls. Sound is requested at startup; actual playback depends on browser and audio hardware. Meanwhile the wider LEVI engineering work continues across native CPU/GPU development, Linux and distributed services, source custody, fault diagnosis and recovery. The Aquarium browser rehearsal is a real project artifact, but not a claim of a completed native-audio or GPU commissioning milestone.
+
+**[LEVI progress and technical history →](./field-notes/LEVI_PROGRESS.md)** · **[Interactive LEVI Open Lab →](https://k-haotic.github.io/K-haotic/)**
 
 | Recorded progress | What has been demonstrated |
 | --- | --- |
